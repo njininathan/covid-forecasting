@@ -1,0 +1,3180 @@
+date,name,iso3166-2,iso3166-1,cases,cumulative_cases
+2020-03-12,Greater Accra Region,GH-AA,GH,2,2
+2020-03-13,Greater Accra Region,GH-AA,GH,1,3
+2020-03-14,Greater Accra Region,GH-AA,GH,2,5
+2020-03-17,Greater Accra Region,GH-AA,GH,1,6
+2020-03-18,Greater Accra Region,GH-AA,GH,2,8
+2020-03-20,Greater Accra Region,GH-AA,GH,5,13
+2020-03-21,Greater Accra Region,GH-AA,GH,2,15
+2020-03-22,Greater Accra Region,GH-AA,GH,2,17
+2020-03-23,Greater Accra Region,GH-AA,GH,3,20
+2020-03-24,Greater Accra Region,GH-AA,GH,26,46
+2020-03-25,Greater Accra Region,GH-AA,GH,15,61
+2020-03-26,Greater Accra Region,GH-AA,GH,64,125
+2020-03-27,Greater Accra Region,GH-AA,GH,4,129
+2020-03-28,Greater Accra Region,GH-AA,GH,4,133
+2020-03-31,Greater Accra Region,GH-AA,GH,9,142
+2020-04-01,Greater Accra Region,GH-AA,GH,32,174
+2020-04-02,Greater Accra Region,GH-AA,GH,9,183
+2020-04-04,Greater Accra Region,GH-AA,GH,6,189
+2020-04-06,Greater Accra Region,GH-AA,GH,69,258
+2020-04-07,Greater Accra Region,GH-AA,GH,18,276
+2020-04-09,Greater Accra Region,GH-AA,GH,24,300
+2020-04-10,Greater Accra Region,GH-AA,GH,30,330
+2020-04-11,Greater Accra Region,GH-AA,GH,71,401
+2020-04-13,Greater Accra Region,GH-AA,GH,57,458
+2020-04-14,Greater Accra Region,GH-AA,GH,5,463
+2020-04-18,Greater Accra Region,GH-AA,GH,171,634
+2020-04-19,Greater Accra Region,GH-AA,GH,197,831
+2020-04-22,Greater Accra Region,GH-AA,GH,207,1038
+2020-04-25,Greater Accra Region,GH-AA,GH,258,1296
+2020-04-27,Greater Accra Region,GH-AA,GH,102,1398
+2020-04-28,Greater Accra Region,GH-AA,GH,361,1759
+2020-05-01,Greater Accra Region,GH-AA,GH,57,1816
+2020-05-06,Greater Accra Region,GH-AA,GH,763,2579
+2020-05-08,Greater Accra Region,GH-AA,GH,857,3436
+2020-05-09,Greater Accra Region,GH-AA,GH,205,3641
+2020-05-11,Greater Accra Region,GH-AA,GH,251,3892
+2020-05-12,Greater Accra Region,GH-AA,GH,89,3981
+2020-05-13,Greater Accra Region,GH-AA,GH,166,4147
+2020-05-14,Greater Accra Region,GH-AA,GH,57,4204
+2020-05-15,Greater Accra Region,GH-AA,GH,44,4248
+2020-05-16,Greater Accra Region,GH-AA,GH,66,4314
+2020-05-19,Greater Accra Region,GH-AA,GH,222,4536
+2020-05-20,Greater Accra Region,GH-AA,GH,46,4582
+2020-05-21,Greater Accra Region,GH-AA,GH,117,4699
+2020-05-22,Greater Accra Region,GH-AA,GH,81,4780
+2020-05-23,Greater Accra Region,GH-AA,GH,18,4798
+2020-05-25,Greater Accra Region,GH-AA,GH,38,4836
+2020-05-26,Greater Accra Region,GH-AA,GH,172,5008
+2020-05-27,Greater Accra Region,GH-AA,GH,140,5148
+2020-05-29,Greater Accra Region,GH-AA,GH,183,5331
+2020-05-30,Greater Accra Region,GH-AA,GH,181,5512
+2020-05-31,Greater Accra Region,GH-AA,GH,104,5616
+2020-06-02,Greater Accra Region,GH-AA,GH,182,5798
+2020-06-03,Greater Accra Region,GH-AA,GH,96,5894
+2020-06-04,Greater Accra Region,GH-AA,GH,208,6102
+2020-06-05,Greater Accra Region,GH-AA,GH,103,6205
+2020-06-06,Greater Accra Region,GH-AA,GH,104,6309
+2020-06-08,Greater Accra Region,GH-AA,GH,127,6436
+2020-06-09,Greater Accra Region,GH-AA,GH,85,6521
+2020-06-10,Greater Accra Region,GH-AA,GH,121,6642
+2020-06-11,Greater Accra Region,GH-AA,GH,149,6791
+2020-06-12,Greater Accra Region,GH-AA,GH,97,6888
+2020-06-13,Greater Accra Region,GH-AA,GH,109,6997
+2020-06-14,Greater Accra Region,GH-AA,GH,141,7138
+2020-06-15,Greater Accra Region,GH-AA,GH,32,7170
+2020-06-16,Greater Accra Region,GH-AA,GH,249,7419
+2020-06-17,Greater Accra Region,GH-AA,GH,154,7573
+2020-06-18,Greater Accra Region,GH-AA,GH,108,7681
+2020-06-20,Greater Accra Region,GH-AA,GH,179,7860
+2020-06-21,Greater Accra Region,GH-AA,GH,215,8075
+2020-06-22,Greater Accra Region,GH-AA,GH,332,8407
+2020-06-23,Greater Accra Region,GH-AA,GH,284,8691
+2020-06-24,Greater Accra Region,GH-AA,GH,293,8984
+2020-06-25,Greater Accra Region,GH-AA,GH,86,9070
+2020-06-26,Greater Accra Region,GH-AA,GH,94,9164
+2020-06-27,Greater Accra Region,GH-AA,GH,162,9326
+2020-06-28,Greater Accra Region,GH-AA,GH,315,9641
+2020-06-29,Greater Accra Region,GH-AA,GH,217,9858
+2020-06-30,Greater Accra Region,GH-AA,GH,229,10087
+2020-07-01,Greater Accra Region,GH-AA,GH,550,10637
+2020-07-02,Greater Accra Region,GH-AA,GH,342,10979
+2020-07-03,Greater Accra Region,GH-AA,GH,529,11508
+2020-07-04,Greater Accra Region,GH-AA,GH,579,12087
+2020-07-05,Greater Accra Region,GH-AA,GH,473,12560
+2020-07-06,Greater Accra Region,GH-AA,GH,388,12948
+2020-07-07,Greater Accra Region,GH-AA,GH,246,13194
+2020-07-08,Greater Accra Region,GH-AA,GH,108,13302
+2020-07-09,Greater Accra Region,GH-AA,GH,102,13404
+2020-07-10,Greater Accra Region,GH-AA,GH,286,13690
+2020-07-11,Greater Accra Region,GH-AA,GH,179,13869
+2020-07-15,Greater Accra Region,GH-AA,GH,117,13986
+2020-07-16,Greater Accra Region,GH-AA,GH,405,14391
+2020-07-17,Greater Accra Region,GH-AA,GH,283,14674
+2020-07-18,Greater Accra Region,GH-AA,GH,249,14923
+2020-07-19,Greater Accra Region,GH-AA,GH,213,15136
+2020-07-20,Greater Accra Region,GH-AA,GH,192,15328
+2020-07-21,Greater Accra Region,GH-AA,GH,191,15519
+2020-07-22,Greater Accra Region,GH-AA,GH,187,15706
+2020-07-23,Greater Accra Region,GH-AA,GH,157,15863
+2020-07-24,Greater Accra Region,GH-AA,GH,205,16068
+2020-07-25,Greater Accra Region,GH-AA,GH,648,16716
+2020-07-26,Greater Accra Region,GH-AA,GH,436,17152
+2020-07-27,Greater Accra Region,GH-AA,GH,231,17383
+2020-07-28,Greater Accra Region,GH-AA,GH,428,17811
+2020-07-29,Greater Accra Region,GH-AA,GH,394,18205
+2020-07-30,Greater Accra Region,GH-AA,GH,68,18273
+2020-07-31,Greater Accra Region,GH-AA,GH,609,18882
+2020-08-01,Greater Accra Region,GH-AA,GH,438,19320
+2020-08-02,Greater Accra Region,GH-AA,GH,760,20080
+2020-08-03,Greater Accra Region,GH-AA,GH,220,20300
+2020-08-04,Greater Accra Region,GH-AA,GH,113,20413
+2020-08-09,Greater Accra Region,GH-AA,GH,78,20491
+2020-08-10,Greater Accra Region,GH-AA,GH,94,20585
+2020-08-11,Greater Accra Region,GH-AA,GH,66,20651
+2020-08-12,Greater Accra Region,GH-AA,GH,173,20824
+2020-08-13,Greater Accra Region,GH-AA,GH,41,20865
+2020-08-14,Greater Accra Region,GH-AA,GH,105,20970
+2020-08-15,Greater Accra Region,GH-AA,GH,44,21014
+2020-08-16,Greater Accra Region,GH-AA,GH,198,21212
+2020-08-18,Greater Accra Region,GH-AA,GH,157,21369
+2020-08-19,Greater Accra Region,GH-AA,GH,76,21445
+2020-08-20,Greater Accra Region,GH-AA,GH,76,21521
+2020-08-21,Greater Accra Region,GH-AA,GH,46,21567
+2020-08-22,Greater Accra Region,GH-AA,GH,57,21624
+2020-08-24,Greater Accra Region,GH-AA,GH,60,21684
+2020-08-25,Greater Accra Region,GH-AA,GH,43,21727
+2020-08-26,Greater Accra Region,GH-AA,GH,67,21794
+2020-08-27,Greater Accra Region,GH-AA,GH,83,21877
+2020-08-28,Greater Accra Region,GH-AA,GH,65,21942
+2020-08-29,Greater Accra Region,GH-AA,GH,42,21984
+2020-08-31,Greater Accra Region,GH-AA,GH,73,22057
+2020-09-01,Greater Accra Region,GH-AA,GH,133,22190
+2020-09-02,Greater Accra Region,GH-AA,GH,153,22343
+2020-09-03,Greater Accra Region,GH-AA,GH,20,22363
+2020-09-04,Greater Accra Region,GH-AA,GH,52,22415
+2020-09-05,Greater Accra Region,GH-AA,GH,137,22552
+2020-09-06,Greater Accra Region,GH-AA,GH,261,22813
+2020-09-07,Greater Accra Region,GH-AA,GH,72,22885
+2020-09-08,Greater Accra Region,GH-AA,GH,36,22921
+2020-09-09,Greater Accra Region,GH-AA,GH,147,23068
+2020-09-10,Greater Accra Region,GH-AA,GH,49,23117
+2020-09-11,Greater Accra Region,GH-AA,GH,34,23151
+2020-09-18,Greater Accra Region,GH-AA,GH,119,23270
+2020-09-19,Greater Accra Region,GH-AA,GH,17,23287
+2020-09-20,Greater Accra Region,GH-AA,GH,98,23385
+2020-09-21,Greater Accra Region,GH-AA,GH,38,23423
+2020-09-22,Greater Accra Region,GH-AA,GH,46,23469
+2020-09-23,Greater Accra Region,GH-AA,GH,34,23503
+2020-09-24,Greater Accra Region,GH-AA,GH,67,23570
+2020-09-25,Greater Accra Region,GH-AA,GH,145,23715
+2020-09-28,Greater Accra Region,GH-AA,GH,70,23785
+2020-09-30,Greater Accra Region,GH-AA,GH,169,23954
+2020-10-02,Greater Accra Region,GH-AA,GH,90,24044
+2020-10-03,Greater Accra Region,GH-AA,GH,27,24071
+2020-10-04,Greater Accra Region,GH-AA,GH,23,24094
+2020-10-05,Greater Accra Region,GH-AA,GH,89,24183
+2020-10-06,Greater Accra Region,GH-AA,GH,27,24210
+2020-10-07,Greater Accra Region,GH-AA,GH,16,24226
+2020-10-12,Greater Accra Region,GH-AA,GH,74,24300
+2020-10-13,Greater Accra Region,GH-AA,GH,24,24324
+2020-10-14,Greater Accra Region,GH-AA,GH,43,24367
+2020-10-17,Greater Accra Region,GH-AA,GH,45,24412
+2020-10-18,Greater Accra Region,GH-AA,GH,71,24483
+2020-10-19,Greater Accra Region,GH-AA,GH,47,24530
+2020-10-20,Greater Accra Region,GH-AA,GH,86,24616
+2020-10-21,Greater Accra Region,GH-AA,GH,71,24687
+2020-10-22,Greater Accra Region,GH-AA,GH,61,24748
+2020-10-23,Greater Accra Region,GH-AA,GH,78,24826
+2020-10-26,Greater Accra Region,GH-AA,GH,49,24875
+2020-10-29,Greater Accra Region,GH-AA,GH,196,25071
+2020-10-30,Greater Accra Region,GH-AA,GH,63,25134
+2020-10-31,Greater Accra Region,GH-AA,GH,69,25203
+2020-11-01,Greater Accra Region,GH-AA,GH,335,25538
+2020-11-02,Greater Accra Region,GH-AA,GH,111,25649
+2020-11-03,Greater Accra Region,GH-AA,GH,96,25745
+2020-11-04,Greater Accra Region,GH-AA,GH,262,26007
+2020-11-10,Greater Accra Region,GH-AA,GH,99,26106
+2020-11-12,Greater Accra Region,GH-AA,GH,663,26769
+2020-11-13,Greater Accra Region,GH-AA,GH,81,26850
+2020-11-16,Greater Accra Region,GH-AA,GH,214,27064
+2020-11-17,Greater Accra Region,GH-AA,GH,52,27116
+2020-11-18,Greater Accra Region,GH-AA,GH,149,27265
+2020-11-19,Greater Accra Region,GH-AA,GH,61,27326
+2020-11-20,Greater Accra Region,GH-AA,GH,146,27472
+2020-11-23,Greater Accra Region,GH-AA,GH,58,27530
+2020-11-24,Greater Accra Region,GH-AA,GH,192,27722
+2020-11-25,Greater Accra Region,GH-AA,GH,31,27753
+2020-11-27,Greater Accra Region,GH-AA,GH,117,27870
+2020-11-28,Greater Accra Region,GH-AA,GH,173,28043
+2020-11-29,Greater Accra Region,GH-AA,GH,88,28131
+2020-11-30,Greater Accra Region,GH-AA,GH,250,28381
+2020-12-01,Greater Accra Region,GH-AA,GH,75,28456
+2020-12-06,Greater Accra Region,GH-AA,GH,59,28515
+2020-12-08,Greater Accra Region,GH-AA,GH,171,28686
+2020-12-09,Greater Accra Region,GH-AA,GH,96,28782
+2020-12-10,Greater Accra Region,GH-AA,GH,83,28865
+2020-12-12,Greater Accra Region,GH-AA,GH,153,29018
+2020-12-13,Greater Accra Region,GH-AA,GH,65,29083
+2020-12-14,Greater Accra Region,GH-AA,GH,195,29278
+2020-12-15,Greater Accra Region,GH-AA,GH,98,29376
+2020-12-16,Greater Accra Region,GH-AA,GH,98,29474
+2020-12-17,Greater Accra Region,GH-AA,GH,63,29537
+2020-12-21,Greater Accra Region,GH-AA,GH,204,29741
+2020-12-22,Greater Accra Region,GH-AA,GH,75,29816
+2020-12-25,Greater Accra Region,GH-AA,GH,159,29975
+2020-12-26,Greater Accra Region,GH-AA,GH,86,30061
+2020-12-27,Greater Accra Region,GH-AA,GH,79,30140
+2020-12-28,Greater Accra Region,GH-AA,GH,144,30284
+2020-12-29,Greater Accra Region,GH-AA,GH,63,30347
+2020-12-30,Greater Accra Region,GH-AA,GH,232,30579
+2021-01-03,Greater Accra Region,GH-AA,GH,89,30668
+2021-01-10,Greater Accra Region,GH-AA,GH,741,31409
+2021-01-12,Greater Accra Region,GH-AA,GH,122,31531
+2021-01-13,Greater Accra Region,GH-AA,GH,422,31953
+2021-01-17,Greater Accra Region,GH-AA,GH,483,32436
+2021-01-18,Greater Accra Region,GH-AA,GH,289,32725
+2021-01-19,Greater Accra Region,GH-AA,GH,292,33017
+2021-01-20,Greater Accra Region,GH-AA,GH,224,33241
+2021-01-21,Greater Accra Region,GH-AA,GH,490,33731
+2021-01-23,Greater Accra Region,GH-AA,GH,524,34255
+2021-01-24,Greater Accra Region,GH-AA,GH,485,34740
+2021-01-25,Greater Accra Region,GH-AA,GH,1006,35746
+2021-01-26,Greater Accra Region,GH-AA,GH,459,36205
+2021-01-27,Greater Accra Region,GH-AA,GH,912,37117
+2021-01-29,Greater Accra Region,GH-AA,GH,994,38111
+2021-01-31,Greater Accra Region,GH-AA,GH,1087,39198
+2021-02-02,Greater Accra Region,GH-AA,GH,544,39742
+2021-02-03,Greater Accra Region,GH-AA,GH,578,40320
+2021-02-04,Greater Accra Region,GH-AA,GH,414,40734
+2021-02-05,Greater Accra Region,GH-AA,GH,511,41245
+2021-02-06,Greater Accra Region,GH-AA,GH,357,41602
+2021-02-07,Greater Accra Region,GH-AA,GH,408,42010
+2021-02-08,Greater Accra Region,GH-AA,GH,302,42312
+2021-02-09,Greater Accra Region,GH-AA,GH,403,42715
+2021-02-10,Greater Accra Region,GH-AA,GH,329,43044
+2021-02-11,Greater Accra Region,GH-AA,GH,453,43497
+2021-02-12,Greater Accra Region,GH-AA,GH,-1288,42209
+2021-02-15,Greater Accra Region,GH-AA,GH,2371,44580
+2021-02-16,Greater Accra Region,GH-AA,GH,611,45191
+2021-02-17,Greater Accra Region,GH-AA,GH,353,45544
+2021-02-18,Greater Accra Region,GH-AA,GH,72,45616
+2021-02-19,Greater Accra Region,GH-AA,GH,330,45946
+2021-02-20,Greater Accra Region,GH-AA,GH,243,46189
+2021-02-21,Greater Accra Region,GH-AA,GH,139,46328
+2021-02-22,Greater Accra Region,GH-AA,GH,108,46436
+2021-02-23,Greater Accra Region,GH-AA,GH,151,46587
+2021-02-24,Greater Accra Region,GH-AA,GH,234,46821
+2021-02-25,Greater Accra Region,GH-AA,GH,208,47029
+2021-02-26,Greater Accra Region,GH-AA,GH,232,47261
+2021-02-28,Greater Accra Region,GH-AA,GH,207,47468
+2021-03-01,Greater Accra Region,GH-AA,GH,814,48282
+2021-03-02,Greater Accra Region,GH-AA,GH,184,48466
+2021-03-12,Greater Accra Region,GH-AA,GH,153,48619
+2021-03-13,Greater Accra Region,GH-AA,GH,205,48824
+2021-03-14,Greater Accra Region,GH-AA,GH,129,48953
+2021-03-15,Greater Accra Region,GH-AA,GH,78,49031
+2021-03-16,Greater Accra Region,GH-AA,GH,60,49091
+2021-03-17,Greater Accra Region,GH-AA,GH,91,49182
+2021-03-19,Greater Accra Region,GH-AA,GH,188,49370
+2021-03-20,Greater Accra Region,GH-AA,GH,84,49454
+2021-03-21,Greater Accra Region,GH-AA,GH,174,49628
+2021-03-22,Greater Accra Region,GH-AA,GH,43,49671
+2021-03-23,Greater Accra Region,GH-AA,GH,45,49716
+2021-03-24,Greater Accra Region,GH-AA,GH,143,49859
+2021-03-31,Greater Accra Region,GH-AA,GH,135,49994
+2021-04-02,Greater Accra Region,GH-AA,GH,53,50047
+2021-04-03,Greater Accra Region,GH-AA,GH,88,50135
+2021-04-04,Greater Accra Region,GH-AA,GH,63,50198
+2021-04-05,Greater Accra Region,GH-AA,GH,19,50217
+2021-04-06,Greater Accra Region,GH-AA,GH,24,50241
+2021-04-07,Greater Accra Region,GH-AA,GH,41,50282
+2021-04-08,Greater Accra Region,GH-AA,GH,57,50339
+2021-04-09,Greater Accra Region,GH-AA,GH,45,50384
+2021-04-13,Greater Accra Region,GH-AA,GH,77,50461
+2021-04-14,Greater Accra Region,GH-AA,GH,28,50489
+2021-04-15,Greater Accra Region,GH-AA,GH,38,50527
+2021-04-17,Greater Accra Region,GH-AA,GH,88,50615
+2021-04-18,Greater Accra Region,GH-AA,GH,27,50642
+2021-04-19,Greater Accra Region,GH-AA,GH,24,50666
+2021-04-20,Greater Accra Region,GH-AA,GH,128,50794
+2021-04-25,Greater Accra Region,GH-AA,GH,31,50825
+2021-04-26,Greater Accra Region,GH-AA,GH,44,50869
+2021-04-27,Greater Accra Region,GH-AA,GH,54,50923
+2021-04-28,Greater Accra Region,GH-AA,GH,23,50946
+2021-04-29,Greater Accra Region,GH-AA,GH,33,50979
+2021-05-01,Greater Accra Region,GH-AA,GH,24,51003
+2021-05-02,Greater Accra Region,GH-AA,GH,51,51054
+2021-05-03,Greater Accra Region,GH-AA,GH,43,51097
+2021-05-04,Greater Accra Region,GH-AA,GH,26,51123
+2021-05-05,Greater Accra Region,GH-AA,GH,8,51131
+2021-05-06,Greater Accra Region,GH-AA,GH,51,51182
+2021-05-07,Greater Accra Region,GH-AA,GH,40,51222
+2021-05-12,Greater Accra Region,GH-AA,GH,69,51291
+2021-05-13,Greater Accra Region,GH-AA,GH,14,51305
+2021-05-14,Greater Accra Region,GH-AA,GH,44,51349
+2021-05-16,Greater Accra Region,GH-AA,GH,53,51402
+2021-05-17,Greater Accra Region,GH-AA,GH,10,51412
+2021-05-18,Greater Accra Region,GH-AA,GH,33,51445
+2021-05-19,Greater Accra Region,GH-AA,GH,36,51481
+2021-05-22,Greater Accra Region,GH-AA,GH,37,51518
+2021-05-23,Greater Accra Region,GH-AA,GH,13,51531
+2021-05-24,Greater Accra Region,GH-AA,GH,14,51545
+2021-05-25,Greater Accra Region,GH-AA,GH,43,51588
+2021-05-27,Greater Accra Region,GH-AA,GH,6,51594
+2021-05-28,Greater Accra Region,GH-AA,GH,22,51616
+2021-05-30,Greater Accra Region,GH-AA,GH,45,51661
+2021-05-31,Greater Accra Region,GH-AA,GH,62,51723
+2021-06-04,Greater Accra Region,GH-AA,GH,80,51803
+2021-06-05,Greater Accra Region,GH-AA,GH,13,51816
+2021-06-09,Greater Accra Region,GH-AA,GH,107,51923
+2021-06-11,Greater Accra Region,GH-AA,GH,45,51968
+2021-06-12,Greater Accra Region,GH-AA,GH,28,51996
+2021-06-13,Greater Accra Region,GH-AA,GH,97,52093
+2021-06-14,Greater Accra Region,GH-AA,GH,42,52135
+2021-06-15,Greater Accra Region,GH-AA,GH,47,52182
+2021-06-16,Greater Accra Region,GH-AA,GH,36,52218
+2021-06-21,Greater Accra Region,GH-AA,GH,75,52293
+2021-06-22,Greater Accra Region,GH-AA,GH,126,52419
+2021-06-24,Greater Accra Region,GH-AA,GH,16,52435
+2021-06-25,Greater Accra Region,GH-AA,GH,57,52492
+2021-06-26,Greater Accra Region,GH-AA,GH,36,52528
+2021-06-27,Greater Accra Region,GH-AA,GH,71,52599
+2021-06-28,Greater Accra Region,GH-AA,GH,111,52710
+2021-06-29,Greater Accra Region,GH-AA,GH,34,52744
+2021-06-30,Greater Accra Region,GH-AA,GH,97,52841
+2021-07-01,Greater Accra Region,GH-AA,GH,53,52894
+2021-07-06,Greater Accra Region,GH-AA,GH,157,53051
+2021-07-07,Greater Accra Region,GH-AA,GH,55,53106
+2021-07-08,Greater Accra Region,GH-AA,GH,64,53170
+2021-07-11,Greater Accra Region,GH-AA,GH,383,53553
+2021-07-12,Greater Accra Region,GH-AA,GH,80,53633
+2021-07-16,Greater Accra Region,GH-AA,GH,101,53734
+2021-07-17,Greater Accra Region,GH-AA,GH,208,53942
+2021-07-18,Greater Accra Region,GH-AA,GH,173,54115
+2021-07-19,Greater Accra Region,GH-AA,GH,145,54260
+2021-07-20,Greater Accra Region,GH-AA,GH,137,54397
+2021-07-21,Greater Accra Region,GH-AA,GH,172,54569
+2021-07-22,Greater Accra Region,GH-AA,GH,121,54690
+2021-07-23,Greater Accra Region,GH-AA,GH,129,54819
+2021-07-24,Greater Accra Region,GH-AA,GH,154,54973
+2021-07-25,Greater Accra Region,GH-AA,GH,166,55139
+2021-07-26,Greater Accra Region,GH-AA,GH,441,55580
+2021-07-27,Greater Accra Region,GH-AA,GH,229,55809
+2021-07-28,Greater Accra Region,GH-AA,GH,154,55963
+2021-07-29,Greater Accra Region,GH-AA,GH,261,56224
+2021-08-01,Greater Accra Region,GH-AA,GH,263,56487
+2021-08-02,Greater Accra Region,GH-AA,GH,302,56789
+2021-08-03,Greater Accra Region,GH-AA,GH,269,57058
+2021-08-04,Greater Accra Region,GH-AA,GH,183,57241
+2021-08-05,Greater Accra Region,GH-AA,GH,167,57408
+2021-08-07,Greater Accra Region,GH-AA,GH,489,57897
+2021-08-08,Greater Accra Region,GH-AA,GH,129,58026
+2021-08-10,Greater Accra Region,GH-AA,GH,109,58135
+2021-08-11,Greater Accra Region,GH-AA,GH,187,58322
+2021-08-12,Greater Accra Region,GH-AA,GH,136,58458
+2021-08-13,Greater Accra Region,GH-AA,GH,139,58597
+2021-08-14,Greater Accra Region,GH-AA,GH,317,58914
+2021-08-15,Greater Accra Region,GH-AA,GH,608,59522
+2021-08-17,Greater Accra Region,GH-AA,GH,663,60185
+2021-08-19,Greater Accra Region,GH-AA,GH,321,60506
+2021-08-21,Greater Accra Region,GH-AA,GH,540,61046
+2021-08-22,Greater Accra Region,GH-AA,GH,390,61436
+2021-08-23,Greater Accra Region,GH-AA,GH,257,61693
+2021-08-24,Greater Accra Region,GH-AA,GH,189,61882
+2021-08-25,Greater Accra Region,GH-AA,GH,467,62349
+2021-08-26,Greater Accra Region,GH-AA,GH,396,62745
+2021-08-27,Greater Accra Region,GH-AA,GH,325,63070
+2021-08-28,Greater Accra Region,GH-AA,GH,420,63490
+2021-08-29,Greater Accra Region,GH-AA,GH,449,63939
+2021-08-30,Greater Accra Region,GH-AA,GH,235,64174
+2021-08-31,Greater Accra Region,GH-AA,GH,324,64498
+2021-09-01,Greater Accra Region,GH-AA,GH,222,64720
+2021-09-06,Greater Accra Region,GH-AA,GH,434,65154
+2021-09-07,Greater Accra Region,GH-AA,GH,459,65613
+2021-09-08,Greater Accra Region,GH-AA,GH,231,65844
+2021-09-10,Greater Accra Region,GH-AA,GH,115,65959
+2021-09-12,Greater Accra Region,GH-AA,GH,371,66330
+2021-09-13,Greater Accra Region,GH-AA,GH,221,66551
+2021-09-17,Greater Accra Region,GH-AA,GH,542,67093
+2021-09-18,Greater Accra Region,GH-AA,GH,152,67245
+2021-09-19,Greater Accra Region,GH-AA,GH,128,67373
+2021-09-20,Greater Accra Region,GH-AA,GH,117,67490
+2021-09-21,Greater Accra Region,GH-AA,GH,195,67685
+2021-09-22,Greater Accra Region,GH-AA,GH,165,67850
+2021-09-23,Greater Accra Region,GH-AA,GH,289,68139
+2021-09-24,Greater Accra Region,GH-AA,GH,243,68382
+2021-09-30,Greater Accra Region,GH-AA,GH,258,68640
+2021-10-05,Greater Accra Region,GH-AA,GH,407,69047
+2021-10-06,Greater Accra Region,GH-AA,GH,109,69156
+2021-10-17,Greater Accra Region,GH-AA,GH,754,69910
+2021-10-18,Greater Accra Region,GH-AA,GH,97,70007
+2021-10-22,Greater Accra Region,GH-AA,GH,157,70164
+2021-10-25,Greater Accra Region,GH-AA,GH,76,70240
+2021-10-26,Greater Accra Region,GH-AA,GH,36,70276
+2021-10-27,Greater Accra Region,GH-AA,GH,22,70298
+2021-10-28,Greater Accra Region,GH-AA,GH,17,70315
+2021-11-02,Greater Accra Region,GH-AA,GH,113,70428
+2021-11-03,Greater Accra Region,GH-AA,GH,48,70476
+2021-11-08,Greater Accra Region,GH-AA,GH,74,70550
+2021-11-11,Greater Accra Region,GH-AA,GH,15,70565
+2021-11-15,Greater Accra Region,GH-AA,GH,48,70613
+2021-11-16,Greater Accra Region,GH-AA,GH,8,70621
+2021-11-21,Greater Accra Region,GH-AA,GH,51,70672
+2021-11-23,Greater Accra Region,GH-AA,GH,1,70673
+2021-12-06,Greater Accra Region,GH-AA,GH,122,70795
+2021-12-10,Greater Accra Region,GH-AA,GH,53,70848
+2021-12-11,Greater Accra Region,GH-AA,GH,78,70926
+2021-12-15,Greater Accra Region,GH-AA,GH,163,71089
+2021-12-16,Greater Accra Region,GH-AA,GH,22,71111
+2021-12-21,Greater Accra Region,GH-AA,GH,844,71955
+2021-12-22,Greater Accra Region,GH-AA,GH,732,72687
+2021-12-23,Greater Accra Region,GH-AA,GH,203,72890
+2021-12-26,Greater Accra Region,GH-AA,GH,1532,74422
+2021-12-27,Greater Accra Region,GH-AA,GH,2546,76968
+2021-12-28,Greater Accra Region,GH-AA,GH,833,77801
+2021-12-29,Greater Accra Region,GH-AA,GH,584,78385
+2021-12-30,Greater Accra Region,GH-AA,GH,464,78849
+2021-12-31,Greater Accra Region,GH-AA,GH,718,79567
+2022-01-01,Greater Accra Region,GH-AA,GH,738,80305
+2022-01-03,Greater Accra Region,GH-AA,GH,770,81075
+2022-01-04,Greater Accra Region,GH-AA,GH,857,81932
+2022-01-05,Greater Accra Region,GH-AA,GH,448,82380
+2022-01-08,Greater Accra Region,GH-AA,GH,620,83000
+2022-01-09,Greater Accra Region,GH-AA,GH,966,83966
+2022-01-10,Greater Accra Region,GH-AA,GH,748,84714
+2022-01-11,Greater Accra Region,GH-AA,GH,291,85005
+2022-01-12,Greater Accra Region,GH-AA,GH,433,85438
+2022-01-17,Greater Accra Region,GH-AA,GH,258,85696
+2022-01-18,Greater Accra Region,GH-AA,GH,143,85839
+2022-01-20,Greater Accra Region,GH-AA,GH,474,86313
+2022-01-23,Greater Accra Region,GH-AA,GH,419,86732
+2022-01-24,Greater Accra Region,GH-AA,GH,242,86974
+2022-01-25,Greater Accra Region,GH-AA,GH,211,87185
+2022-01-26,Greater Accra Region,GH-AA,GH,179,87364
+2022-01-27,Greater Accra Region,GH-AA,GH,68,87432
+2022-01-31,Greater Accra Region,GH-AA,GH,91,87523
+2022-02-03,Greater Accra Region,GH-AA,GH,172,87695
+2022-02-04,Greater Accra Region,GH-AA,GH,371,88066
+2022-02-14,Greater Accra Region,GH-AA,GH,140,88206
+2022-02-15,Greater Accra Region,GH-AA,GH,82,88288
+2022-02-16,Greater Accra Region,GH-AA,GH,99,88387
+2022-02-17,Greater Accra Region,GH-AA,GH,38,88425
+2022-02-18,Greater Accra Region,GH-AA,GH,185,88610
+2022-02-19,Greater Accra Region,GH-AA,GH,471,89081
+2022-02-20,Greater Accra Region,GH-AA,GH,97,89178
+2022-02-28,Greater Accra Region,GH-AA,GH,490,89668
+2022-03-01,Greater Accra Region,GH-AA,GH,196,89864
+2022-03-03,Greater Accra Region,GH-AA,GH,122,89986
+2022-03-08,Greater Accra Region,GH-AA,GH,545,90531
+2022-03-09,Greater Accra Region,GH-AA,GH,3,90534
+2022-03-10,Greater Accra Region,GH-AA,GH,5,90539
+2022-03-11,Greater Accra Region,GH-AA,GH,2,90541
+2022-03-13,Greater Accra Region,GH-AA,GH,9,90550
+2022-03-15,Greater Accra Region,GH-AA,GH,19,90569
+2022-03-17,Greater Accra Region,GH-AA,GH,3,90572
+2022-03-18,Greater Accra Region,GH-AA,GH,7,90579
+2022-03-19,Greater Accra Region,GH-AA,GH,4,90583
+2022-03-20,Greater Accra Region,GH-AA,GH,25,90608
+2022-03-22,Greater Accra Region,GH-AA,GH,1,90609
+2022-03-25,Greater Accra Region,GH-AA,GH,4,90613
+2022-03-26,Greater Accra Region,GH-AA,GH,5,90618
+2022-03-31,Greater Accra Region,GH-AA,GH,22,90640
+2022-04-04,Greater Accra Region,GH-AA,GH,30,90670
+2022-04-06,Greater Accra Region,GH-AA,GH,18,90688
+2022-04-07,Greater Accra Region,GH-AA,GH,13,90701
+2022-04-10,Greater Accra Region,GH-AA,GH,22,90723
+2022-04-14,Greater Accra Region,GH-AA,GH,11,90734
+2022-04-15,Greater Accra Region,GH-AA,GH,13,90747
+2022-04-19,Greater Accra Region,GH-AA,GH,8,90755
+2022-04-22,Greater Accra Region,GH-AA,GH,7,90762
+2022-04-25,Greater Accra Region,GH-AA,GH,26,90788
+2022-04-27,Greater Accra Region,GH-AA,GH,13,90801
+2022-04-29,Greater Accra Region,GH-AA,GH,2,90803
+2022-05-01,Greater Accra Region,GH-AA,GH,23,90826
+2022-05-05,Greater Accra Region,GH-AA,GH,18,90844
+2022-05-09,Greater Accra Region,GH-AA,GH,47,90891
+2022-05-10,Greater Accra Region,GH-AA,GH,2,90893
+2022-05-11,Greater Accra Region,GH-AA,GH,9,90902
+2022-05-17,Greater Accra Region,GH-AA,GH,44,90946
+2022-05-22,Greater Accra Region,GH-AA,GH,26,90972
+2022-05-24,Greater Accra Region,GH-AA,GH,19,90991
+2022-06-01,Greater Accra Region,GH-AA,GH,73,91064
+2022-06-03,Greater Accra Region,GH-AA,GH,37,91101
+2022-06-06,Greater Accra Region,GH-AA,GH,262,91363
+2022-06-07,Greater Accra Region,GH-AA,GH,45,91408
+2022-06-12,Greater Accra Region,GH-AA,GH,91,91499
+2022-06-13,Greater Accra Region,GH-AA,GH,675,92174
+2022-06-14,Greater Accra Region,GH-AA,GH,482,92656
+2022-06-15,Greater Accra Region,GH-AA,GH,98,92754
+2022-06-19,Greater Accra Region,GH-AA,GH,285,93039
+2022-06-20,Greater Accra Region,GH-AA,GH,402,93441
+2022-06-22,Greater Accra Region,GH-AA,GH,336,93777
+2022-06-23,Greater Accra Region,GH-AA,GH,71,93848
+2022-06-24,Greater Accra Region,GH-AA,GH,135,93983
+2022-06-27,Greater Accra Region,GH-AA,GH,651,94634
+2022-06-30,Greater Accra Region,GH-AA,GH,232,94866
+2022-07-03,Greater Accra Region,GH-AA,GH,291,95157
+2022-07-07,Greater Accra Region,GH-AA,GH,177,95334
+2022-07-12,Greater Accra Region,GH-AA,GH,113,95447
+2020-03-13,Ashanti Region,GH-AH,GH,1,1
+2020-03-19,Ashanti Region,GH-AH,GH,2,3
+2020-03-21,Ashanti Region,GH-AH,GH,3,6
+2020-03-22,Ashanti Region,GH-AH,GH,1,7
+2020-03-29,Ashanti Region,GH-AH,GH,1,8
+2020-04-01,Ashanti Region,GH-AH,GH,1,9
+2020-04-04,Ashanti Region,GH-AH,GH,3,12
+2020-04-06,Ashanti Region,GH-AH,GH,4,16
+2020-04-07,Ashanti Region,GH-AH,GH,7,23
+2020-04-09,Ashanti Region,GH-AH,GH,15,38
+2020-04-13,Ashanti Region,GH-AH,GH,4,42
+2020-04-18,Ashanti Region,GH-AH,GH,6,48
+2020-04-19,Ashanti Region,GH-AH,GH,3,51
+2020-04-22,Ashanti Region,GH-AH,GH,7,58
+2020-04-28,Ashanti Region,GH-AH,GH,15,73
+2020-05-01,Ashanti Region,GH-AH,GH,18,91
+2020-05-06,Ashanti Region,GH-AH,GH,74,165
+2020-05-08,Ashanti Region,GH-AH,GH,45,210
+2020-05-09,Ashanti Region,GH-AH,GH,42,252
+2020-05-11,Ashanti Region,GH-AH,GH,103,355
+2020-05-12,Ashanti Region,GH-AH,GH,307,662
+2020-05-13,Ashanti Region,GH-AH,GH,64,726
+2020-05-14,Ashanti Region,GH-AH,GH,62,788
+2020-05-15,Ashanti Region,GH-AH,GH,10,798
+2020-05-16,Ashanti Region,GH-AH,GH,20,818
+2020-05-19,Ashanti Region,GH-AH,GH,68,886
+2020-05-20,Ashanti Region,GH-AH,GH,35,921
+2020-05-21,Ashanti Region,GH-AH,GH,67,988
+2020-05-22,Ashanti Region,GH-AH,GH,22,1010
+2020-05-23,Ashanti Region,GH-AH,GH,39,1049
+2020-05-25,Ashanti Region,GH-AH,GH,13,1062
+2020-05-26,Ashanti Region,GH-AH,GH,23,1085
+2020-05-27,Ashanti Region,GH-AH,GH,14,1099
+2020-05-29,Ashanti Region,GH-AH,GH,61,1160
+2020-05-30,Ashanti Region,GH-AH,GH,24,1184
+2020-05-31,Ashanti Region,GH-AH,GH,63,1247
+2020-06-02,Ashanti Region,GH-AH,GH,16,1263
+2020-06-03,Ashanti Region,GH-AH,GH,79,1342
+2020-06-04,Ashanti Region,GH-AH,GH,110,1452
+2020-06-05,Ashanti Region,GH-AH,GH,66,1518
+2020-06-06,Ashanti Region,GH-AH,GH,216,1734
+2020-06-09,Ashanti Region,GH-AH,GH,65,1799
+2020-06-11,Ashanti Region,GH-AH,GH,106,1905
+2020-06-12,Ashanti Region,GH-AH,GH,84,1989
+2020-06-13,Ashanti Region,GH-AH,GH,32,2021
+2020-06-14,Ashanti Region,GH-AH,GH,184,2205
+2020-06-15,Ashanti Region,GH-AH,GH,70,2275
+2020-06-16,Ashanti Region,GH-AH,GH,87,2362
+2020-06-17,Ashanti Region,GH-AH,GH,41,2403
+2020-06-18,Ashanti Region,GH-AH,GH,95,2498
+2020-06-20,Ashanti Region,GH-AH,GH,139,2637
+2020-06-21,Ashanti Region,GH-AH,GH,175,2812
+2020-06-22,Ashanti Region,GH-AH,GH,55,2867
+2020-06-23,Ashanti Region,GH-AH,GH,48,2915
+2020-06-24,Ashanti Region,GH-AH,GH,42,2957
+2020-06-25,Ashanti Region,GH-AH,GH,204,3161
+2020-06-26,Ashanti Region,GH-AH,GH,183,3344
+2020-06-27,Ashanti Region,GH-AH,GH,54,3398
+2020-06-28,Ashanti Region,GH-AH,GH,77,3475
+2020-06-29,Ashanti Region,GH-AH,GH,140,3615
+2020-06-30,Ashanti Region,GH-AH,GH,61,3676
+2020-07-01,Ashanti Region,GH-AH,GH,423,4099
+2020-07-02,Ashanti Region,GH-AH,GH,145,4244
+2020-07-03,Ashanti Region,GH-AH,GH,290,4534
+2020-07-04,Ashanti Region,GH-AH,GH,93,4627
+2020-07-05,Ashanti Region,GH-AH,GH,197,4824
+2020-07-06,Ashanti Region,GH-AH,GH,148,4972
+2020-07-07,Ashanti Region,GH-AH,GH,106,5078
+2020-07-08,Ashanti Region,GH-AH,GH,72,5150
+2020-07-09,Ashanti Region,GH-AH,GH,104,5254
+2020-07-10,Ashanti Region,GH-AH,GH,5,5259
+2020-07-11,Ashanti Region,GH-AH,GH,18,5277
+2020-07-16,Ashanti Region,GH-AH,GH,205,5482
+2020-07-17,Ashanti Region,GH-AH,GH,125,5607
+2020-07-18,Ashanti Region,GH-AH,GH,35,5642
+2020-07-19,Ashanti Region,GH-AH,GH,199,5841
+2020-07-20,Ashanti Region,GH-AH,GH,310,6151
+2020-07-21,Ashanti Region,GH-AH,GH,113,6264
+2020-07-22,Ashanti Region,GH-AH,GH,373,6637
+2020-07-23,Ashanti Region,GH-AH,GH,389,7026
+2020-07-24,Ashanti Region,GH-AH,GH,241,7267
+2020-07-25,Ashanti Region,GH-AH,GH,599,7866
+2020-07-27,Ashanti Region,GH-AH,GH,363,8229
+2020-07-28,Ashanti Region,GH-AH,GH,319,8548
+2020-07-29,Ashanti Region,GH-AH,GH,200,8748
+2020-07-30,Ashanti Region,GH-AH,GH,22,8770
+2020-07-31,Ashanti Region,GH-AH,GH,558,9328
+2020-08-01,Ashanti Region,GH-AH,GH,126,9454
+2020-08-02,Ashanti Region,GH-AH,GH,134,9588
+2020-08-03,Ashanti Region,GH-AH,GH,384,9972
+2020-08-04,Ashanti Region,GH-AH,GH,125,10097
+2020-08-09,Ashanti Region,GH-AH,GH,154,10251
+2020-08-10,Ashanti Region,GH-AH,GH,77,10328
+2020-08-11,Ashanti Region,GH-AH,GH,51,10379
+2020-08-12,Ashanti Region,GH-AH,GH,29,10408
+2020-08-13,Ashanti Region,GH-AH,GH,23,10431
+2020-08-14,Ashanti Region,GH-AH,GH,45,10476
+2020-08-15,Ashanti Region,GH-AH,GH,12,10488
+2020-08-16,Ashanti Region,GH-AH,GH,81,10569
+2020-08-18,Ashanti Region,GH-AH,GH,81,10650
+2020-08-19,Ashanti Region,GH-AH,GH,18,10668
+2020-08-20,Ashanti Region,GH-AH,GH,27,10695
+2020-08-21,Ashanti Region,GH-AH,GH,11,10706
+2020-08-22,Ashanti Region,GH-AH,GH,25,10731
+2020-08-24,Ashanti Region,GH-AH,GH,32,10763
+2020-08-25,Ashanti Region,GH-AH,GH,13,10776
+2020-08-26,Ashanti Region,GH-AH,GH,18,10794
+2020-08-27,Ashanti Region,GH-AH,GH,5,10799
+2020-08-28,Ashanti Region,GH-AH,GH,27,10826
+2020-08-29,Ashanti Region,GH-AH,GH,11,10837
+2020-08-31,Ashanti Region,GH-AH,GH,6,10843
+2020-09-01,Ashanti Region,GH-AH,GH,25,10868
+2020-09-02,Ashanti Region,GH-AH,GH,4,10872
+2020-09-03,Ashanti Region,GH-AH,GH,6,10878
+2020-09-04,Ashanti Region,GH-AH,GH,11,10889
+2020-09-05,Ashanti Region,GH-AH,GH,2,10891
+2020-09-06,Ashanti Region,GH-AH,GH,18,10909
+2020-09-07,Ashanti Region,GH-AH,GH,3,10912
+2020-09-08,Ashanti Region,GH-AH,GH,5,10917
+2020-09-09,Ashanti Region,GH-AH,GH,11,10928
+2020-09-10,Ashanti Region,GH-AH,GH,5,10933
+2020-09-11,Ashanti Region,GH-AH,GH,3,10936
+2020-09-18,Ashanti Region,GH-AH,GH,6,10942
+2020-09-20,Ashanti Region,GH-AH,GH,2,10944
+2020-09-21,Ashanti Region,GH-AH,GH,10,10954
+2020-09-28,Ashanti Region,GH-AH,GH,15,10969
+2020-10-02,Ashanti Region,GH-AH,GH,5,10974
+2020-10-04,Ashanti Region,GH-AH,GH,3,10977
+2020-10-05,Ashanti Region,GH-AH,GH,1,10978
+2020-10-06,Ashanti Region,GH-AH,GH,1,10979
+2020-10-12,Ashanti Region,GH-AH,GH,1,10980
+2020-10-14,Ashanti Region,GH-AH,GH,1,10981
+2020-10-17,Ashanti Region,GH-AH,GH,6,10987
+2020-10-19,Ashanti Region,GH-AH,GH,10,10997
+2020-10-23,Ashanti Region,GH-AH,GH,5,11002
+2020-10-26,Ashanti Region,GH-AH,GH,5,11007
+2020-10-29,Ashanti Region,GH-AH,GH,1,11008
+2020-11-01,Ashanti Region,GH-AH,GH,10,11018
+2020-11-02,Ashanti Region,GH-AH,GH,11,11029
+2020-11-03,Ashanti Region,GH-AH,GH,18,11047
+2020-11-12,Ashanti Region,GH-AH,GH,15,11062
+2020-11-16,Ashanti Region,GH-AH,GH,10,11072
+2020-11-17,Ashanti Region,GH-AH,GH,2,11074
+2020-11-18,Ashanti Region,GH-AH,GH,4,11078
+2020-11-19,Ashanti Region,GH-AH,GH,17,11095
+2020-11-24,Ashanti Region,GH-AH,GH,5,11100
+2020-11-25,Ashanti Region,GH-AH,GH,7,11107
+2020-11-27,Ashanti Region,GH-AH,GH,10,11117
+2020-11-29,Ashanti Region,GH-AH,GH,10,11127
+2020-11-30,Ashanti Region,GH-AH,GH,4,11131
+2020-12-12,Ashanti Region,GH-AH,GH,15,11146
+2020-12-14,Ashanti Region,GH-AH,GH,2,11148
+2020-12-25,Ashanti Region,GH-AH,GH,21,11169
+2020-12-27,Ashanti Region,GH-AH,GH,1,11170
+2020-12-30,Ashanti Region,GH-AH,GH,1,11171
+2021-01-10,Ashanti Region,GH-AH,GH,53,11224
+2021-01-12,Ashanti Region,GH-AH,GH,23,11247
+2021-01-13,Ashanti Region,GH-AH,GH,38,11285
+2021-01-17,Ashanti Region,GH-AH,GH,62,11347
+2021-01-18,Ashanti Region,GH-AH,GH,19,11366
+2021-01-19,Ashanti Region,GH-AH,GH,35,11401
+2021-01-20,Ashanti Region,GH-AH,GH,83,11484
+2021-01-21,Ashanti Region,GH-AH,GH,76,11560
+2021-01-23,Ashanti Region,GH-AH,GH,52,11612
+2021-01-24,Ashanti Region,GH-AH,GH,75,11687
+2021-01-25,Ashanti Region,GH-AH,GH,88,11775
+2021-01-26,Ashanti Region,GH-AH,GH,52,11827
+2021-01-27,Ashanti Region,GH-AH,GH,68,11895
+2021-01-29,Ashanti Region,GH-AH,GH,259,12154
+2021-01-31,Ashanti Region,GH-AH,GH,193,12347
+2021-02-02,Ashanti Region,GH-AH,GH,97,12444
+2021-02-03,Ashanti Region,GH-AH,GH,9,12453
+2021-02-04,Ashanti Region,GH-AH,GH,58,12511
+2021-02-05,Ashanti Region,GH-AH,GH,108,12619
+2021-02-06,Ashanti Region,GH-AH,GH,151,12770
+2021-02-07,Ashanti Region,GH-AH,GH,165,12935
+2021-02-08,Ashanti Region,GH-AH,GH,157,13092
+2021-02-09,Ashanti Region,GH-AH,GH,99,13191
+2021-02-10,Ashanti Region,GH-AH,GH,40,13231
+2021-02-11,Ashanti Region,GH-AH,GH,130,13361
+2021-02-12,Ashanti Region,GH-AH,GH,232,13593
+2021-02-15,Ashanti Region,GH-AH,GH,48,13641
+2021-02-16,Ashanti Region,GH-AH,GH,181,13822
+2021-02-17,Ashanti Region,GH-AH,GH,63,13885
+2021-02-18,Ashanti Region,GH-AH,GH,5,13890
+2021-02-19,Ashanti Region,GH-AH,GH,76,13966
+2021-02-20,Ashanti Region,GH-AH,GH,80,14046
+2021-02-21,Ashanti Region,GH-AH,GH,96,14142
+2021-02-22,Ashanti Region,GH-AH,GH,23,14165
+2021-02-23,Ashanti Region,GH-AH,GH,30,14195
+2021-02-24,Ashanti Region,GH-AH,GH,68,14263
+2021-02-25,Ashanti Region,GH-AH,GH,61,14324
+2021-02-26,Ashanti Region,GH-AH,GH,159,14483
+2021-02-28,Ashanti Region,GH-AH,GH,117,14600
+2021-03-01,Ashanti Region,GH-AH,GH,354,14954
+2021-03-02,Ashanti Region,GH-AH,GH,11,14965
+2021-03-12,Ashanti Region,GH-AH,GH,37,15002
+2021-03-13,Ashanti Region,GH-AH,GH,16,15018
+2021-03-14,Ashanti Region,GH-AH,GH,7,15025
+2021-03-15,Ashanti Region,GH-AH,GH,12,15037
+2021-03-16,Ashanti Region,GH-AH,GH,64,15101
+2021-03-17,Ashanti Region,GH-AH,GH,25,15126
+2021-03-19,Ashanti Region,GH-AH,GH,51,15177
+2021-03-20,Ashanti Region,GH-AH,GH,18,15195
+2021-03-21,Ashanti Region,GH-AH,GH,18,15213
+2021-03-22,Ashanti Region,GH-AH,GH,9,15222
+2021-03-23,Ashanti Region,GH-AH,GH,12,15234
+2021-03-24,Ashanti Region,GH-AH,GH,52,15286
+2021-03-31,Ashanti Region,GH-AH,GH,53,15339
+2021-04-02,Ashanti Region,GH-AH,GH,4,15343
+2021-04-03,Ashanti Region,GH-AH,GH,2,15345
+2021-04-04,Ashanti Region,GH-AH,GH,2,15347
+2021-04-05,Ashanti Region,GH-AH,GH,9,15356
+2021-04-06,Ashanti Region,GH-AH,GH,23,15379
+2021-04-07,Ashanti Region,GH-AH,GH,15,15394
+2021-04-08,Ashanti Region,GH-AH,GH,4,15398
+2021-04-09,Ashanti Region,GH-AH,GH,2,15400
+2021-04-13,Ashanti Region,GH-AH,GH,23,15423
+2021-04-14,Ashanti Region,GH-AH,GH,5,15428
+2021-04-15,Ashanti Region,GH-AH,GH,11,15439
+2021-04-17,Ashanti Region,GH-AH,GH,4,15443
+2021-04-18,Ashanti Region,GH-AH,GH,2,15445
+2021-04-19,Ashanti Region,GH-AH,GH,21,15466
+2021-04-20,Ashanti Region,GH-AH,GH,13,15479
+2021-04-25,Ashanti Region,GH-AH,GH,10,15489
+2021-04-26,Ashanti Region,GH-AH,GH,5,15494
+2021-04-27,Ashanti Region,GH-AH,GH,8,15502
+2021-04-28,Ashanti Region,GH-AH,GH,-7,15495
+2021-04-29,Ashanti Region,GH-AH,GH,12,15507
+2021-05-01,Ashanti Region,GH-AH,GH,2,15509
+2021-05-02,Ashanti Region,GH-AH,GH,8,15517
+2021-05-03,Ashanti Region,GH-AH,GH,4,15521
+2021-05-04,Ashanti Region,GH-AH,GH,2,15523
+2021-05-05,Ashanti Region,GH-AH,GH,1,15524
+2021-05-06,Ashanti Region,GH-AH,GH,10,15534
+2021-05-07,Ashanti Region,GH-AH,GH,5,15539
+2021-05-12,Ashanti Region,GH-AH,GH,4,15543
+2021-05-13,Ashanti Region,GH-AH,GH,1,15544
+2021-05-14,Ashanti Region,GH-AH,GH,1,15545
+2021-05-16,Ashanti Region,GH-AH,GH,5,15550
+2021-05-17,Ashanti Region,GH-AH,GH,3,15553
+2021-05-18,Ashanti Region,GH-AH,GH,15,15568
+2021-05-19,Ashanti Region,GH-AH,GH,3,15571
+2021-05-22,Ashanti Region,GH-AH,GH,8,15579
+2021-05-23,Ashanti Region,GH-AH,GH,5,15584
+2021-05-24,Ashanti Region,GH-AH,GH,4,15588
+2021-05-25,Ashanti Region,GH-AH,GH,2,15590
+2021-05-27,Ashanti Region,GH-AH,GH,1,15591
+2021-05-28,Ashanti Region,GH-AH,GH,2,15593
+2021-05-30,Ashanti Region,GH-AH,GH,17,15610
+2021-05-31,Ashanti Region,GH-AH,GH,2,15612
+2021-06-04,Ashanti Region,GH-AH,GH,21,15633
+2021-06-05,Ashanti Region,GH-AH,GH,2,15635
+2021-06-09,Ashanti Region,GH-AH,GH,3,15638
+2021-06-11,Ashanti Region,GH-AH,GH,2,15640
+2021-06-12,Ashanti Region,GH-AH,GH,11,15651
+2021-06-13,Ashanti Region,GH-AH,GH,22,15673
+2021-06-14,Ashanti Region,GH-AH,GH,10,15683
+2021-06-15,Ashanti Region,GH-AH,GH,4,15687
+2021-06-16,Ashanti Region,GH-AH,GH,23,15710
+2021-06-21,Ashanti Region,GH-AH,GH,19,15729
+2021-06-22,Ashanti Region,GH-AH,GH,10,15739
+2021-06-24,Ashanti Region,GH-AH,GH,2,15741
+2021-06-25,Ashanti Region,GH-AH,GH,27,15768
+2021-06-26,Ashanti Region,GH-AH,GH,51,15819
+2021-06-27,Ashanti Region,GH-AH,GH,65,15884
+2021-06-28,Ashanti Region,GH-AH,GH,100,15984
+2021-06-29,Ashanti Region,GH-AH,GH,81,16065
+2021-06-30,Ashanti Region,GH-AH,GH,110,16175
+2021-07-01,Ashanti Region,GH-AH,GH,13,16188
+2021-07-06,Ashanti Region,GH-AH,GH,81,16269
+2021-07-07,Ashanti Region,GH-AH,GH,68,16337
+2021-07-08,Ashanti Region,GH-AH,GH,30,16367
+2021-07-11,Ashanti Region,GH-AH,GH,147,16514
+2021-07-12,Ashanti Region,GH-AH,GH,15,16529
+2021-07-16,Ashanti Region,GH-AH,GH,95,16624
+2021-07-17,Ashanti Region,GH-AH,GH,181,16805
+2021-07-18,Ashanti Region,GH-AH,GH,84,16889
+2021-07-19,Ashanti Region,GH-AH,GH,167,17056
+2021-07-20,Ashanti Region,GH-AH,GH,59,17115
+2021-07-21,Ashanti Region,GH-AH,GH,95,17210
+2021-07-22,Ashanti Region,GH-AH,GH,54,17264
+2021-07-23,Ashanti Region,GH-AH,GH,48,17312
+2021-07-24,Ashanti Region,GH-AH,GH,191,17503
+2021-07-25,Ashanti Region,GH-AH,GH,24,17527
+2021-07-27,Ashanti Region,GH-AH,GH,371,17898
+2021-07-28,Ashanti Region,GH-AH,GH,99,17997
+2021-07-29,Ashanti Region,GH-AH,GH,198,18195
+2021-08-01,Ashanti Region,GH-AH,GH,78,18273
+2021-08-02,Ashanti Region,GH-AH,GH,75,18348
+2021-08-03,Ashanti Region,GH-AH,GH,84,18432
+2021-08-04,Ashanti Region,GH-AH,GH,101,18533
+2021-08-05,Ashanti Region,GH-AH,GH,137,18670
+2021-08-07,Ashanti Region,GH-AH,GH,203,18873
+2021-08-08,Ashanti Region,GH-AH,GH,49,18922
+2021-08-10,Ashanti Region,GH-AH,GH,215,19137
+2021-08-11,Ashanti Region,GH-AH,GH,93,19230
+2021-08-12,Ashanti Region,GH-AH,GH,694,19924
+2021-08-13,Ashanti Region,GH-AH,GH,-581,19343
+2021-08-14,Ashanti Region,GH-AH,GH,71,19414
+2021-08-15,Ashanti Region,GH-AH,GH,131,19545
+2021-08-17,Ashanti Region,GH-AH,GH,77,19622
+2021-08-19,Ashanti Region,GH-AH,GH,41,19663
+2021-08-21,Ashanti Region,GH-AH,GH,53,19716
+2021-08-22,Ashanti Region,GH-AH,GH,29,19745
+2021-08-23,Ashanti Region,GH-AH,GH,33,19778
+2021-08-24,Ashanti Region,GH-AH,GH,26,19804
+2021-08-25,Ashanti Region,GH-AH,GH,50,19854
+2021-08-26,Ashanti Region,GH-AH,GH,11,19865
+2021-08-27,Ashanti Region,GH-AH,GH,46,19911
+2021-08-28,Ashanti Region,GH-AH,GH,37,19948
+2021-08-29,Ashanti Region,GH-AH,GH,28,19976
+2021-08-30,Ashanti Region,GH-AH,GH,49,20025
+2021-08-31,Ashanti Region,GH-AH,GH,88,20113
+2021-09-01,Ashanti Region,GH-AH,GH,51,20164
+2021-09-06,Ashanti Region,GH-AH,GH,76,20240
+2021-09-07,Ashanti Region,GH-AH,GH,31,20271
+2021-09-08,Ashanti Region,GH-AH,GH,69,20340
+2021-09-10,Ashanti Region,GH-AH,GH,15,20355
+2021-09-12,Ashanti Region,GH-AH,GH,47,20402
+2021-09-13,Ashanti Region,GH-AH,GH,56,20458
+2021-09-17,Ashanti Region,GH-AH,GH,97,20555
+2021-09-18,Ashanti Region,GH-AH,GH,20,20575
+2021-09-19,Ashanti Region,GH-AH,GH,16,20591
+2021-09-20,Ashanti Region,GH-AH,GH,11,20602
+2021-09-21,Ashanti Region,GH-AH,GH,11,20613
+2021-09-22,Ashanti Region,GH-AH,GH,13,20626
+2021-09-23,Ashanti Region,GH-AH,GH,24,20650
+2021-09-24,Ashanti Region,GH-AH,GH,8,20658
+2021-09-30,Ashanti Region,GH-AH,GH,5,20663
+2021-10-05,Ashanti Region,GH-AH,GH,14,20677
+2021-10-17,Ashanti Region,GH-AH,GH,15,20692
+2021-10-22,Ashanti Region,GH-AH,GH,2,20694
+2021-10-25,Ashanti Region,GH-AH,GH,4,20698
+2021-10-28,Ashanti Region,GH-AH,GH,4,20702
+2021-11-02,Ashanti Region,GH-AH,GH,3,20705
+2021-11-03,Ashanti Region,GH-AH,GH,5,20710
+2021-11-08,Ashanti Region,GH-AH,GH,6,20716
+2021-11-16,Ashanti Region,GH-AH,GH,1,20717
+2021-12-06,Ashanti Region,GH-AH,GH,4,20721
+2021-12-10,Ashanti Region,GH-AH,GH,5,20726
+2021-12-11,Ashanti Region,GH-AH,GH,5,20731
+2021-12-15,Ashanti Region,GH-AH,GH,4,20735
+2021-12-16,Ashanti Region,GH-AH,GH,16,20751
+2021-12-21,Ashanti Region,GH-AH,GH,64,20815
+2021-12-22,Ashanti Region,GH-AH,GH,72,20887
+2021-12-23,Ashanti Region,GH-AH,GH,19,20906
+2021-12-26,Ashanti Region,GH-AH,GH,211,21117
+2021-12-27,Ashanti Region,GH-AH,GH,312,21429
+2021-12-28,Ashanti Region,GH-AH,GH,36,21465
+2021-12-29,Ashanti Region,GH-AH,GH,23,21488
+2021-12-30,Ashanti Region,GH-AH,GH,118,21606
+2021-12-31,Ashanti Region,GH-AH,GH,40,21646
+2022-01-01,Ashanti Region,GH-AH,GH,21,21667
+2022-01-03,Ashanti Region,GH-AH,GH,14,21681
+2022-01-04,Ashanti Region,GH-AH,GH,11,21692
+2022-01-05,Ashanti Region,GH-AH,GH,121,21813
+2022-01-08,Ashanti Region,GH-AH,GH,151,21964
+2022-01-09,Ashanti Region,GH-AH,GH,20,21984
+2022-01-10,Ashanti Region,GH-AH,GH,115,22099
+2022-01-11,Ashanti Region,GH-AH,GH,78,22177
+2022-01-12,Ashanti Region,GH-AH,GH,42,22219
+2022-01-17,Ashanti Region,GH-AH,GH,7,22226
+2022-01-18,Ashanti Region,GH-AH,GH,4,22230
+2022-01-20,Ashanti Region,GH-AH,GH,4,22234
+2022-01-23,Ashanti Region,GH-AH,GH,19,22253
+2022-01-24,Ashanti Region,GH-AH,GH,9,22262
+2022-01-25,Ashanti Region,GH-AH,GH,7,22269
+2022-01-26,Ashanti Region,GH-AH,GH,11,22280
+2022-02-04,Ashanti Region,GH-AH,GH,6,22286
+2022-02-19,Ashanti Region,GH-AH,GH,6,22292
+2022-03-15,Ashanti Region,GH-AH,GH,6,22298
+2022-04-25,Ashanti Region,GH-AH,GH,1,22299
+2022-06-07,Ashanti Region,GH-AH,GH,1,22300
+2022-06-13,Ashanti Region,GH-AH,GH,11,22311
+2022-06-14,Ashanti Region,GH-AH,GH,4,22315
+2022-06-15,Ashanti Region,GH-AH,GH,35,22350
+2022-06-24,Ashanti Region,GH-AH,GH,31,22381
+2022-06-27,Ashanti Region,GH-AH,GH,18,22399
+2022-06-30,Ashanti Region,GH-AH,GH,48,22447
+2022-07-12,Ashanti Region,GH-AH,GH,13,22460
+2020-06-09,Brong-Ahafo Region,GH-BA,GH,1,1
+2020-06-18,Brong-Ahafo Region,GH-BA,GH,7,8
+2020-07-01,Brong-Ahafo Region,GH-BA,GH,18,26
+2020-07-05,Brong-Ahafo Region,GH-BA,GH,10,36
+2020-07-08,Brong-Ahafo Region,GH-BA,GH,30,66
+2020-07-09,Brong-Ahafo Region,GH-BA,GH,32,98
+2020-07-15,Brong-Ahafo Region,GH-BA,GH,5,103
+2020-07-20,Brong-Ahafo Region,GH-BA,GH,13,116
+2020-07-25,Brong-Ahafo Region,GH-BA,GH,5,121
+2020-07-29,Brong-Ahafo Region,GH-BA,GH,24,145
+2020-07-30,Brong-Ahafo Region,GH-BA,GH,19,164
+2020-07-31,Brong-Ahafo Region,GH-BA,GH,68,232
+2020-08-02,Brong-Ahafo Region,GH-BA,GH,132,364
+2020-08-09,Brong-Ahafo Region,GH-BA,GH,64,428
+2020-08-11,Brong-Ahafo Region,GH-BA,GH,35,463
+2020-08-12,Brong-Ahafo Region,GH-BA,GH,6,469
+2020-08-16,Brong-Ahafo Region,GH-BA,GH,16,485
+2020-08-18,Brong-Ahafo Region,GH-BA,GH,5,490
+2020-08-24,Brong-Ahafo Region,GH-BA,GH,6,496
+2020-08-26,Brong-Ahafo Region,GH-BA,GH,5,501
+2020-08-28,Brong-Ahafo Region,GH-BA,GH,3,504
+2020-08-29,Brong-Ahafo Region,GH-BA,GH,3,507
+2020-09-02,Brong-Ahafo Region,GH-BA,GH,17,524
+2020-09-25,Brong-Ahafo Region,GH-BA,GH,3,527
+2020-10-20,Brong-Ahafo Region,GH-BA,GH,1,528
+2020-11-20,Brong-Ahafo Region,GH-BA,GH,2,530
+2021-01-17,Brong-Ahafo Region,GH-BA,GH,4,534
+2021-01-19,Brong-Ahafo Region,GH-BA,GH,3,537
+2021-01-25,Brong-Ahafo Region,GH-BA,GH,2,539
+2021-01-29,Brong-Ahafo Region,GH-BA,GH,6,545
+2021-01-31,Brong-Ahafo Region,GH-BA,GH,3,548
+2021-02-03,Brong-Ahafo Region,GH-BA,GH,3,551
+2021-02-05,Brong-Ahafo Region,GH-BA,GH,2,553
+2021-02-07,Brong-Ahafo Region,GH-BA,GH,10,563
+2021-02-10,Brong-Ahafo Region,GH-BA,GH,2,565
+2021-02-12,Brong-Ahafo Region,GH-BA,GH,59,624
+2021-02-15,Brong-Ahafo Region,GH-BA,GH,1,625
+2021-02-17,Brong-Ahafo Region,GH-BA,GH,10,635
+2021-02-18,Brong-Ahafo Region,GH-BA,GH,10,645
+2021-02-20,Brong-Ahafo Region,GH-BA,GH,15,660
+2021-02-22,Brong-Ahafo Region,GH-BA,GH,3,663
+2021-02-28,Brong-Ahafo Region,GH-BA,GH,3,666
+2021-03-12,Brong-Ahafo Region,GH-BA,GH,7,673
+2021-03-13,Brong-Ahafo Region,GH-BA,GH,5,678
+2021-03-15,Brong-Ahafo Region,GH-BA,GH,1,679
+2021-03-19,Brong-Ahafo Region,GH-BA,GH,7,686
+2021-03-21,Brong-Ahafo Region,GH-BA,GH,8,694
+2021-03-24,Brong-Ahafo Region,GH-BA,GH,6,700
+2021-03-31,Brong-Ahafo Region,GH-BA,GH,3,703
+2021-04-07,Brong-Ahafo Region,GH-BA,GH,1,704
+2021-04-17,Brong-Ahafo Region,GH-BA,GH,3,707
+2021-04-20,Brong-Ahafo Region,GH-BA,GH,4,711
+2021-05-03,Brong-Ahafo Region,GH-BA,GH,1,712
+2021-05-06,Brong-Ahafo Region,GH-BA,GH,2,714
+2021-05-13,Brong-Ahafo Region,GH-BA,GH,4,718
+2021-05-19,Brong-Ahafo Region,GH-BA,GH,4,722
+2021-05-30,Brong-Ahafo Region,GH-BA,GH,3,725
+2021-06-04,Brong-Ahafo Region,GH-BA,GH,2,727
+2021-06-21,Brong-Ahafo Region,GH-BA,GH,9,736
+2021-06-22,Brong-Ahafo Region,GH-BA,GH,7,743
+2021-06-25,Brong-Ahafo Region,GH-BA,GH,2,745
+2021-06-27,Brong-Ahafo Region,GH-BA,GH,5,750
+2021-06-28,Brong-Ahafo Region,GH-BA,GH,25,775
+2021-07-06,Brong-Ahafo Region,GH-BA,GH,19,794
+2021-07-07,Brong-Ahafo Region,GH-BA,GH,7,801
+2021-07-08,Brong-Ahafo Region,GH-BA,GH,8,809
+2021-07-11,Brong-Ahafo Region,GH-BA,GH,22,831
+2021-07-12,Brong-Ahafo Region,GH-BA,GH,2,833
+2021-07-17,Brong-Ahafo Region,GH-BA,GH,11,844
+2021-07-18,Brong-Ahafo Region,GH-BA,GH,3,847
+2021-08-07,Brong-Ahafo Region,GH-BA,GH,64,911
+2021-08-10,Brong-Ahafo Region,GH-BA,GH,18,929
+2021-08-13,Brong-Ahafo Region,GH-BA,GH,2,931
+2021-08-15,Brong-Ahafo Region,GH-BA,GH,24,955
+2021-08-17,Brong-Ahafo Region,GH-BA,GH,20,975
+2021-08-22,Brong-Ahafo Region,GH-BA,GH,26,1001
+2021-08-25,Brong-Ahafo Region,GH-BA,GH,13,1014
+2021-08-26,Brong-Ahafo Region,GH-BA,GH,8,1022
+2021-08-31,Brong-Ahafo Region,GH-BA,GH,4,1026
+2021-09-01,Brong-Ahafo Region,GH-BA,GH,4,1030
+2021-09-06,Brong-Ahafo Region,GH-BA,GH,3,1033
+2021-09-08,Brong-Ahafo Region,GH-BA,GH,6,1039
+2021-09-10,Brong-Ahafo Region,GH-BA,GH,1,1040
+2021-09-17,Brong-Ahafo Region,GH-BA,GH,12,1052
+2021-09-19,Brong-Ahafo Region,GH-BA,GH,2,1054
+2021-09-24,Brong-Ahafo Region,GH-BA,GH,3,1057
+2021-10-17,Brong-Ahafo Region,GH-BA,GH,1,1058
+2021-12-06,Brong-Ahafo Region,GH-BA,GH,2,1060
+2021-12-27,Brong-Ahafo Region,GH-BA,GH,1,1061
+2021-12-29,Brong-Ahafo Region,GH-BA,GH,8,1069
+2021-12-31,Brong-Ahafo Region,GH-BA,GH,5,1074
+2022-01-01,Brong-Ahafo Region,GH-BA,GH,2,1076
+2022-01-03,Brong-Ahafo Region,GH-BA,GH,21,1097
+2022-01-04,Brong-Ahafo Region,GH-BA,GH,11,1108
+2022-01-08,Brong-Ahafo Region,GH-BA,GH,5,1113
+2022-01-09,Brong-Ahafo Region,GH-BA,GH,5,1118
+2022-01-10,Brong-Ahafo Region,GH-BA,GH,1,1119
+2022-01-12,Brong-Ahafo Region,GH-BA,GH,8,1127
+2022-01-17,Brong-Ahafo Region,GH-BA,GH,5,1132
+2022-01-23,Brong-Ahafo Region,GH-BA,GH,1,1133
+2022-02-04,Brong-Ahafo Region,GH-BA,GH,1,1134
+2022-02-20,Brong-Ahafo Region,GH-BA,GH,1,1135
+2022-03-13,Brong-Ahafo Region,GH-BA,GH,1,1136
+2022-06-20,Brong-Ahafo Region,GH-BA,GH,5,1141
+2022-06-22,Brong-Ahafo Region,GH-BA,GH,3,1144
+2022-06-27,Brong-Ahafo Region,GH-BA,GH,13,1157
+2022-06-30,Brong-Ahafo Region,GH-BA,GH,9,1166
+2022-07-07,Brong-Ahafo Region,GH-BA,GH,29,1195
+2022-07-12,Brong-Ahafo Region,GH-BA,GH,8,1203
+2020-05-29,Bono East Region,GH-BE,GH,1,1
+2020-05-31,Bono East Region,GH-BE,GH,5,6
+2020-06-06,Bono East Region,GH-BE,GH,1,7
+2020-06-08,Bono East Region,GH-BE,GH,7,14
+2020-06-09,Bono East Region,GH-BE,GH,6,20
+2020-06-10,Bono East Region,GH-BE,GH,-7,13
+2020-06-14,Bono East Region,GH-BE,GH,1,14
+2020-06-17,Bono East Region,GH-BE,GH,9,23
+2020-06-21,Bono East Region,GH-BE,GH,10,33
+2020-06-23,Bono East Region,GH-BE,GH,2,35
+2020-06-24,Bono East Region,GH-BE,GH,12,47
+2020-06-26,Bono East Region,GH-BE,GH,3,50
+2020-06-27,Bono East Region,GH-BE,GH,2,52
+2020-06-30,Bono East Region,GH-BE,GH,37,89
+2020-07-01,Bono East Region,GH-BE,GH,47,136
+2020-07-03,Bono East Region,GH-BE,GH,3,139
+2020-07-04,Bono East Region,GH-BE,GH,1,140
+2020-07-05,Bono East Region,GH-BE,GH,2,142
+2020-07-08,Bono East Region,GH-BE,GH,59,201
+2020-07-09,Bono East Region,GH-BE,GH,4,205
+2020-07-15,Bono East Region,GH-BE,GH,1,206
+2020-07-18,Bono East Region,GH-BE,GH,88,294
+2020-07-21,Bono East Region,GH-BE,GH,89,383
+2020-07-23,Bono East Region,GH-BE,GH,30,413
+2020-07-25,Bono East Region,GH-BE,GH,21,434
+2020-07-26,Bono East Region,GH-BE,GH,2,436
+2020-07-28,Bono East Region,GH-BE,GH,21,457
+2020-07-29,Bono East Region,GH-BE,GH,26,483
+2020-07-31,Bono East Region,GH-BE,GH,28,511
+2020-08-02,Bono East Region,GH-BE,GH,25,536
+2020-08-03,Bono East Region,GH-BE,GH,33,569
+2020-08-04,Bono East Region,GH-BE,GH,67,636
+2020-08-09,Bono East Region,GH-BE,GH,24,660
+2020-08-10,Bono East Region,GH-BE,GH,24,684
+2020-08-11,Bono East Region,GH-BE,GH,5,689
+2020-08-12,Bono East Region,GH-BE,GH,11,700
+2020-08-13,Bono East Region,GH-BE,GH,3,703
+2020-08-15,Bono East Region,GH-BE,GH,13,716
+2020-08-16,Bono East Region,GH-BE,GH,4,720
+2020-08-18,Bono East Region,GH-BE,GH,10,730
+2020-08-22,Bono East Region,GH-BE,GH,16,746
+2020-08-24,Bono East Region,GH-BE,GH,3,749
+2020-08-27,Bono East Region,GH-BE,GH,6,755
+2020-08-29,Bono East Region,GH-BE,GH,8,763
+2020-09-02,Bono East Region,GH-BE,GH,6,769
+2020-09-03,Bono East Region,GH-BE,GH,8,777
+2020-09-08,Bono East Region,GH-BE,GH,1,778
+2020-09-09,Bono East Region,GH-BE,GH,3,781
+2020-10-12,Bono East Region,GH-BE,GH,2,783
+2020-10-23,Bono East Region,GH-BE,GH,1,784
+2020-10-26,Bono East Region,GH-BE,GH,1,785
+2020-11-16,Bono East Region,GH-BE,GH,2,787
+2020-11-24,Bono East Region,GH-BE,GH,1,788
+2021-01-13,Bono East Region,GH-BE,GH,1,789
+2021-01-17,Bono East Region,GH-BE,GH,5,794
+2021-01-19,Bono East Region,GH-BE,GH,1,795
+2021-01-24,Bono East Region,GH-BE,GH,1,796
+2021-01-25,Bono East Region,GH-BE,GH,6,802
+2021-01-27,Bono East Region,GH-BE,GH,4,806
+2021-01-29,Bono East Region,GH-BE,GH,8,814
+2021-02-03,Bono East Region,GH-BE,GH,23,837
+2021-02-05,Bono East Region,GH-BE,GH,8,845
+2021-02-08,Bono East Region,GH-BE,GH,37,882
+2021-02-11,Bono East Region,GH-BE,GH,40,922
+2021-02-12,Bono East Region,GH-BE,GH,29,951
+2021-02-16,Bono East Region,GH-BE,GH,15,966
+2021-02-17,Bono East Region,GH-BE,GH,6,972
+2021-02-19,Bono East Region,GH-BE,GH,109,1081
+2021-02-21,Bono East Region,GH-BE,GH,8,1089
+2021-02-22,Bono East Region,GH-BE,GH,10,1099
+2021-02-25,Bono East Region,GH-BE,GH,15,1114
+2021-02-26,Bono East Region,GH-BE,GH,20,1134
+2021-02-28,Bono East Region,GH-BE,GH,38,1172
+2021-03-01,Bono East Region,GH-BE,GH,65,1237
+2021-03-12,Bono East Region,GH-BE,GH,8,1245
+2021-03-15,Bono East Region,GH-BE,GH,52,1297
+2021-03-19,Bono East Region,GH-BE,GH,19,1316
+2021-03-21,Bono East Region,GH-BE,GH,64,1380
+2021-03-22,Bono East Region,GH-BE,GH,11,1391
+2021-03-24,Bono East Region,GH-BE,GH,15,1406
+2021-03-31,Bono East Region,GH-BE,GH,14,1420
+2021-04-06,Bono East Region,GH-BE,GH,1,1421
+2021-04-09,Bono East Region,GH-BE,GH,1,1422
+2021-04-14,Bono East Region,GH-BE,GH,1,1423
+2021-04-19,Bono East Region,GH-BE,GH,1,1424
+2021-04-26,Bono East Region,GH-BE,GH,1,1425
+2021-04-29,Bono East Region,GH-BE,GH,1,1426
+2021-05-03,Bono East Region,GH-BE,GH,4,1430
+2021-05-05,Bono East Region,GH-BE,GH,3,1433
+2021-05-12,Bono East Region,GH-BE,GH,1,1434
+2021-05-13,Bono East Region,GH-BE,GH,1,1435
+2021-05-16,Bono East Region,GH-BE,GH,1,1436
+2021-05-19,Bono East Region,GH-BE,GH,3,1439
+2021-06-21,Bono East Region,GH-BE,GH,7,1446
+2021-06-30,Bono East Region,GH-BE,GH,1,1447
+2021-07-11,Bono East Region,GH-BE,GH,5,1452
+2021-07-12,Bono East Region,GH-BE,GH,2,1454
+2021-07-17,Bono East Region,GH-BE,GH,9,1463
+2021-07-18,Bono East Region,GH-BE,GH,4,1467
+2021-07-20,Bono East Region,GH-BE,GH,14,1481
+2021-07-22,Bono East Region,GH-BE,GH,1,1482
+2021-07-24,Bono East Region,GH-BE,GH,44,1526
+2021-07-25,Bono East Region,GH-BE,GH,6,1532
+2021-07-26,Bono East Region,GH-BE,GH,11,1543
+2021-07-28,Bono East Region,GH-BE,GH,33,1576
+2021-08-01,Bono East Region,GH-BE,GH,30,1606
+2021-08-02,Bono East Region,GH-BE,GH,64,1670
+2021-08-03,Bono East Region,GH-BE,GH,1,1671
+2021-08-05,Bono East Region,GH-BE,GH,53,1724
+2021-08-07,Bono East Region,GH-BE,GH,72,1796
+2021-08-08,Bono East Region,GH-BE,GH,59,1855
+2021-08-11,Bono East Region,GH-BE,GH,49,1904
+2021-08-12,Bono East Region,GH-BE,GH,52,1956
+2021-08-13,Bono East Region,GH-BE,GH,52,2008
+2021-08-14,Bono East Region,GH-BE,GH,19,2027
+2021-08-15,Bono East Region,GH-BE,GH,13,2040
+2021-08-17,Bono East Region,GH-BE,GH,64,2104
+2021-08-19,Bono East Region,GH-BE,GH,53,2157
+2021-08-21,Bono East Region,GH-BE,GH,38,2195
+2021-08-22,Bono East Region,GH-BE,GH,6,2201
+2021-08-23,Bono East Region,GH-BE,GH,28,2229
+2021-08-24,Bono East Region,GH-BE,GH,4,2233
+2021-08-25,Bono East Region,GH-BE,GH,73,2306
+2021-08-26,Bono East Region,GH-BE,GH,13,2319
+2021-08-27,Bono East Region,GH-BE,GH,17,2336
+2021-08-28,Bono East Region,GH-BE,GH,8,2344
+2021-08-29,Bono East Region,GH-BE,GH,9,2353
+2021-08-30,Bono East Region,GH-BE,GH,16,2369
+2021-08-31,Bono East Region,GH-BE,GH,40,2409
+2021-09-01,Bono East Region,GH-BE,GH,2,2411
+2021-09-06,Bono East Region,GH-BE,GH,4,2415
+2021-09-07,Bono East Region,GH-BE,GH,10,2425
+2021-09-08,Bono East Region,GH-BE,GH,3,2428
+2021-09-12,Bono East Region,GH-BE,GH,32,2460
+2021-09-13,Bono East Region,GH-BE,GH,21,2481
+2021-09-17,Bono East Region,GH-BE,GH,21,2502
+2021-09-18,Bono East Region,GH-BE,GH,7,2509
+2021-09-20,Bono East Region,GH-BE,GH,16,2525
+2021-09-23,Bono East Region,GH-BE,GH,7,2532
+2021-09-24,Bono East Region,GH-BE,GH,1,2533
+2021-09-30,Bono East Region,GH-BE,GH,7,2540
+2021-10-17,Bono East Region,GH-BE,GH,2,2542
+2021-10-18,Bono East Region,GH-BE,GH,10,2552
+2021-11-23,Bono East Region,GH-BE,GH,3,2555
+2021-12-15,Bono East Region,GH-BE,GH,1,2556
+2021-12-22,Bono East Region,GH-BE,GH,2,2558
+2021-12-26,Bono East Region,GH-BE,GH,1,2559
+2021-12-27,Bono East Region,GH-BE,GH,36,2595
+2021-12-28,Bono East Region,GH-BE,GH,14,2609
+2021-12-29,Bono East Region,GH-BE,GH,20,2629
+2021-12-30,Bono East Region,GH-BE,GH,11,2640
+2021-12-31,Bono East Region,GH-BE,GH,27,2667
+2022-01-01,Bono East Region,GH-BE,GH,24,2691
+2022-01-03,Bono East Region,GH-BE,GH,23,2714
+2022-01-04,Bono East Region,GH-BE,GH,12,2726
+2022-01-05,Bono East Region,GH-BE,GH,18,2744
+2022-01-08,Bono East Region,GH-BE,GH,73,2817
+2022-01-09,Bono East Region,GH-BE,GH,29,2846
+2022-01-10,Bono East Region,GH-BE,GH,29,2875
+2022-01-11,Bono East Region,GH-BE,GH,6,2881
+2022-01-12,Bono East Region,GH-BE,GH,1,2882
+2022-01-17,Bono East Region,GH-BE,GH,1,2883
+2022-01-18,Bono East Region,GH-BE,GH,27,2910
+2022-01-23,Bono East Region,GH-BE,GH,46,2956
+2022-01-24,Bono East Region,GH-BE,GH,1,2957
+2022-01-25,Bono East Region,GH-BE,GH,4,2961
+2022-02-03,Bono East Region,GH-BE,GH,1,2962
+2022-02-04,Bono East Region,GH-BE,GH,1,2963
+2022-02-14,Bono East Region,GH-BE,GH,1,2964
+2022-02-15,Bono East Region,GH-BE,GH,2,2966
+2022-03-19,Bono East Region,GH-BE,GH,1,2967
+2022-03-26,Bono East Region,GH-BE,GH,1,2968
+2022-04-04,Bono East Region,GH-BE,GH,2,2970
+2022-04-19,Bono East Region,GH-BE,GH,2,2972
+2022-06-06,Bono East Region,GH-BE,GH,2,2974
+2022-06-13,Bono East Region,GH-BE,GH,2,2976
+2022-06-14,Bono East Region,GH-BE,GH,19,2995
+2022-06-19,Bono East Region,GH-BE,GH,10,3005
+2022-06-20,Bono East Region,GH-BE,GH,16,3021
+2022-06-22,Bono East Region,GH-BE,GH,1,3022
+2022-06-24,Bono East Region,GH-BE,GH,20,3042
+2022-06-27,Bono East Region,GH-BE,GH,22,3064
+2020-05-06,Bono Region,GH-BO,GH,1,1
+2020-06-08,Bono Region,GH-BO,GH,1,2
+2020-06-10,Bono Region,GH-BO,GH,-1,1
+2020-06-21,Bono Region,GH-BO,GH,2,3
+2020-06-24,Bono Region,GH-BO,GH,1,4
+2020-06-26,Bono Region,GH-BO,GH,1,5
+2020-06-28,Bono Region,GH-BO,GH,13,18
+2020-07-02,Bono Region,GH-BO,GH,20,38
+2020-07-04,Bono Region,GH-BO,GH,49,87
+2020-07-05,Bono Region,GH-BO,GH,9,96
+2020-07-08,Bono Region,GH-BO,GH,11,107
+2020-07-18,Bono Region,GH-BO,GH,59,166
+2020-07-19,Bono Region,GH-BO,GH,100,266
+2020-07-20,Bono Region,GH-BO,GH,155,421
+2020-07-25,Bono Region,GH-BO,GH,5,426
+2020-07-28,Bono Region,GH-BO,GH,5,431
+2020-07-30,Bono Region,GH-BO,GH,8,439
+2020-08-14,Bono Region,GH-BO,GH,29,468
+2020-08-16,Bono Region,GH-BO,GH,12,480
+2020-08-28,Bono Region,GH-BO,GH,31,511
+2020-10-17,Bono Region,GH-BO,GH,1,512
+2020-10-21,Bono Region,GH-BO,GH,2,514
+2020-10-29,Bono Region,GH-BO,GH,36,550
+2020-11-01,Bono Region,GH-BO,GH,50,600
+2020-11-04,Bono Region,GH-BO,GH,19,619
+2020-12-16,Bono Region,GH-BO,GH,16,635
+2021-01-10,Bono Region,GH-BO,GH,7,642
+2021-01-17,Bono Region,GH-BO,GH,2,644
+2021-01-21,Bono Region,GH-BO,GH,1,645
+2021-01-26,Bono Region,GH-BO,GH,9,654
+2021-01-29,Bono Region,GH-BO,GH,3,657
+2021-02-02,Bono Region,GH-BO,GH,10,667
+2021-02-03,Bono Region,GH-BO,GH,13,680
+2021-02-07,Bono Region,GH-BO,GH,14,694
+2021-02-08,Bono Region,GH-BO,GH,11,705
+2021-02-09,Bono Region,GH-BO,GH,13,718
+2021-02-11,Bono Region,GH-BO,GH,30,748
+2021-02-12,Bono Region,GH-BO,GH,19,767
+2021-02-15,Bono Region,GH-BO,GH,12,779
+2021-02-16,Bono Region,GH-BO,GH,54,833
+2021-02-17,Bono Region,GH-BO,GH,3,836
+2021-02-18,Bono Region,GH-BO,GH,29,865
+2021-02-19,Bono Region,GH-BO,GH,29,894
+2021-02-20,Bono Region,GH-BO,GH,30,924
+2021-02-21,Bono Region,GH-BO,GH,21,945
+2021-02-22,Bono Region,GH-BO,GH,4,949
+2021-02-23,Bono Region,GH-BO,GH,9,958
+2021-02-24,Bono Region,GH-BO,GH,16,974
+2021-02-25,Bono Region,GH-BO,GH,8,982
+2021-02-26,Bono Region,GH-BO,GH,10,992
+2021-02-28,Bono Region,GH-BO,GH,48,1040
+2021-03-01,Bono Region,GH-BO,GH,62,1102
+2021-03-02,Bono Region,GH-BO,GH,3,1105
+2021-03-12,Bono Region,GH-BO,GH,5,1110
+2021-03-14,Bono Region,GH-BO,GH,14,1124
+2021-03-15,Bono Region,GH-BO,GH,11,1135
+2021-03-17,Bono Region,GH-BO,GH,28,1163
+2021-03-19,Bono Region,GH-BO,GH,99,1262
+2021-03-21,Bono Region,GH-BO,GH,35,1297
+2021-03-23,Bono Region,GH-BO,GH,10,1307
+2021-03-24,Bono Region,GH-BO,GH,3,1310
+2021-03-31,Bono Region,GH-BO,GH,3,1313
+2021-04-02,Bono Region,GH-BO,GH,1,1314
+2021-04-03,Bono Region,GH-BO,GH,1,1315
+2021-04-04,Bono Region,GH-BO,GH,19,1334
+2021-04-06,Bono Region,GH-BO,GH,1,1335
+2021-04-07,Bono Region,GH-BO,GH,1,1336
+2021-04-08,Bono Region,GH-BO,GH,5,1341
+2021-04-09,Bono Region,GH-BO,GH,3,1344
+2021-04-14,Bono Region,GH-BO,GH,26,1370
+2021-04-15,Bono Region,GH-BO,GH,1,1371
+2021-04-20,Bono Region,GH-BO,GH,9,1380
+2021-04-26,Bono Region,GH-BO,GH,12,1392
+2021-04-27,Bono Region,GH-BO,GH,4,1396
+2021-05-01,Bono Region,GH-BO,GH,1,1397
+2021-05-03,Bono Region,GH-BO,GH,1,1398
+2021-05-12,Bono Region,GH-BO,GH,3,1401
+2021-05-13,Bono Region,GH-BO,GH,2,1403
+2021-05-14,Bono Region,GH-BO,GH,2,1405
+2021-05-16,Bono Region,GH-BO,GH,1,1406
+2021-05-19,Bono Region,GH-BO,GH,2,1408
+2021-05-22,Bono Region,GH-BO,GH,1,1409
+2021-05-25,Bono Region,GH-BO,GH,1,1410
+2021-06-14,Bono Region,GH-BO,GH,4,1414
+2021-06-21,Bono Region,GH-BO,GH,1,1415
+2021-06-22,Bono Region,GH-BO,GH,2,1417
+2021-06-25,Bono Region,GH-BO,GH,3,1420
+2021-06-26,Bono Region,GH-BO,GH,4,1424
+2021-06-28,Bono Region,GH-BO,GH,1,1425
+2021-06-30,Bono Region,GH-BO,GH,1,1426
+2021-07-06,Bono Region,GH-BO,GH,8,1434
+2021-07-07,Bono Region,GH-BO,GH,-3,1431
+2021-07-08,Bono Region,GH-BO,GH,10,1441
+2021-07-11,Bono Region,GH-BO,GH,8,1449
+2021-07-16,Bono Region,GH-BO,GH,6,1455
+2021-07-17,Bono Region,GH-BO,GH,13,1468
+2021-07-18,Bono Region,GH-BO,GH,26,1494
+2021-07-20,Bono Region,GH-BO,GH,13,1507
+2021-07-22,Bono Region,GH-BO,GH,13,1520
+2021-07-24,Bono Region,GH-BO,GH,9,1529
+2021-07-25,Bono Region,GH-BO,GH,19,1548
+2021-07-26,Bono Region,GH-BO,GH,31,1579
+2021-07-27,Bono Region,GH-BO,GH,7,1586
+2021-07-28,Bono Region,GH-BO,GH,14,1600
+2021-07-29,Bono Region,GH-BO,GH,19,1619
+2021-08-01,Bono Region,GH-BO,GH,6,1625
+2021-08-03,Bono Region,GH-BO,GH,41,1666
+2021-08-04,Bono Region,GH-BO,GH,29,1695
+2021-08-05,Bono Region,GH-BO,GH,6,1701
+2021-08-07,Bono Region,GH-BO,GH,65,1766
+2021-08-10,Bono Region,GH-BO,GH,89,1855
+2021-08-11,Bono Region,GH-BO,GH,-81,1774
+2021-08-12,Bono Region,GH-BO,GH,65,1839
+2021-08-13,Bono Region,GH-BO,GH,5,1844
+2021-08-14,Bono Region,GH-BO,GH,27,1871
+2021-08-15,Bono Region,GH-BO,GH,23,1894
+2021-08-17,Bono Region,GH-BO,GH,56,1950
+2021-08-19,Bono Region,GH-BO,GH,7,1957
+2021-08-21,Bono Region,GH-BO,GH,25,1982
+2021-08-22,Bono Region,GH-BO,GH,10,1992
+2021-08-23,Bono Region,GH-BO,GH,9,2001
+2021-08-24,Bono Region,GH-BO,GH,4,2005
+2021-08-25,Bono Region,GH-BO,GH,24,2029
+2021-08-26,Bono Region,GH-BO,GH,5,2034
+2021-08-27,Bono Region,GH-BO,GH,1,2035
+2021-08-28,Bono Region,GH-BO,GH,2,2037
+2021-08-30,Bono Region,GH-BO,GH,3,2040
+2021-08-31,Bono Region,GH-BO,GH,6,2046
+2021-09-06,Bono Region,GH-BO,GH,4,2050
+2021-09-07,Bono Region,GH-BO,GH,10,2060
+2021-09-10,Bono Region,GH-BO,GH,10,2070
+2021-09-12,Bono Region,GH-BO,GH,7,2077
+2021-09-13,Bono Region,GH-BO,GH,1,2078
+2021-09-17,Bono Region,GH-BO,GH,5,2083
+2021-09-20,Bono Region,GH-BO,GH,6,2089
+2021-09-21,Bono Region,GH-BO,GH,1,2090
+2021-09-23,Bono Region,GH-BO,GH,8,2098
+2021-10-05,Bono Region,GH-BO,GH,10,2108
+2021-10-06,Bono Region,GH-BO,GH,3,2111
+2021-10-17,Bono Region,GH-BO,GH,2,2113
+2021-10-18,Bono Region,GH-BO,GH,5,2118
+2021-10-25,Bono Region,GH-BO,GH,1,2119
+2021-11-11,Bono Region,GH-BO,GH,3,2122
+2021-12-06,Bono Region,GH-BO,GH,1,2123
+2021-12-10,Bono Region,GH-BO,GH,1,2124
+2021-12-22,Bono Region,GH-BO,GH,2,2126
+2021-12-27,Bono Region,GH-BO,GH,10,2136
+2021-12-28,Bono Region,GH-BO,GH,4,2140
+2021-12-29,Bono Region,GH-BO,GH,9,2149
+2021-12-31,Bono Region,GH-BO,GH,6,2155
+2022-01-03,Bono Region,GH-BO,GH,2,2157
+2022-01-05,Bono Region,GH-BO,GH,35,2192
+2022-01-08,Bono Region,GH-BO,GH,22,2214
+2022-01-09,Bono Region,GH-BO,GH,4,2218
+2022-01-10,Bono Region,GH-BO,GH,22,2240
+2022-01-11,Bono Region,GH-BO,GH,4,2244
+2022-01-12,Bono Region,GH-BO,GH,11,2255
+2022-01-17,Bono Region,GH-BO,GH,15,2270
+2022-01-20,Bono Region,GH-BO,GH,7,2277
+2022-01-23,Bono Region,GH-BO,GH,4,2281
+2022-01-24,Bono Region,GH-BO,GH,18,2299
+2022-01-26,Bono Region,GH-BO,GH,8,2307
+2022-02-03,Bono Region,GH-BO,GH,14,2321
+2022-02-14,Bono Region,GH-BO,GH,2,2323
+2022-02-15,Bono Region,GH-BO,GH,2,2325
+2022-02-19,Bono Region,GH-BO,GH,5,2330
+2022-02-28,Bono Region,GH-BO,GH,1,2331
+2022-03-03,Bono Region,GH-BO,GH,1,2332
+2022-04-25,Bono Region,GH-BO,GH,1,2333
+2022-06-03,Bono Region,GH-BO,GH,1,2334
+2022-06-12,Bono Region,GH-BO,GH,1,2335
+2022-06-13,Bono Region,GH-BO,GH,2,2337
+2022-06-14,Bono Region,GH-BO,GH,3,2340
+2022-06-19,Bono Region,GH-BO,GH,8,2348
+2022-06-20,Bono Region,GH-BO,GH,8,2356
+2022-06-27,Bono Region,GH-BO,GH,72,2428
+2022-06-30,Bono Region,GH-BO,GH,29,2457
+2022-07-03,Bono Region,GH-BO,GH,13,2470
+2022-07-07,Bono Region,GH-BO,GH,14,2484
+2022-07-12,Bono Region,GH-BO,GH,13,2497
+2020-04-07,Central Region,GH-CP,GH,1,1
+2020-04-19,Central Region,GH-CP,GH,6,7
+2020-04-22,Central Region,GH-CP,GH,2,9
+2020-04-25,Central Region,GH-CP,GH,8,17
+2020-04-28,Central Region,GH-CP,GH,4,21
+2020-05-06,Central Region,GH-CP,GH,29,50
+2020-05-08,Central Region,GH-CP,GH,8,58
+2020-05-09,Central Region,GH-CP,GH,4,62
+2020-05-11,Central Region,GH-CP,GH,65,127
+2020-05-12,Central Region,GH-CP,GH,27,154
+2020-05-13,Central Region,GH-CP,GH,38,192
+2020-05-15,Central Region,GH-CP,GH,18,210
+2020-05-19,Central Region,GH-CP,GH,48,258
+2020-05-20,Central Region,GH-CP,GH,27,285
+2020-05-21,Central Region,GH-CP,GH,2,287
+2020-05-22,Central Region,GH-CP,GH,10,297
+2020-05-23,Central Region,GH-CP,GH,2,299
+2020-05-25,Central Region,GH-CP,GH,7,306
+2020-05-26,Central Region,GH-CP,GH,31,337
+2020-05-27,Central Region,GH-CP,GH,23,360
+2020-05-29,Central Region,GH-CP,GH,16,376
+2020-05-30,Central Region,GH-CP,GH,17,393
+2020-05-31,Central Region,GH-CP,GH,11,404
+2020-06-02,Central Region,GH-CP,GH,6,410
+2020-06-03,Central Region,GH-CP,GH,28,438
+2020-06-04,Central Region,GH-CP,GH,7,445
+2020-06-05,Central Region,GH-CP,GH,7,452
+2020-06-06,Central Region,GH-CP,GH,37,489
+2020-06-09,Central Region,GH-CP,GH,50,539
+2020-06-12,Central Region,GH-CP,GH,45,584
+2020-06-13,Central Region,GH-CP,GH,37,621
+2020-06-14,Central Region,GH-CP,GH,31,652
+2020-06-15,Central Region,GH-CP,GH,42,694
+2020-06-17,Central Region,GH-CP,GH,38,732
+2020-06-18,Central Region,GH-CP,GH,50,782
+2020-06-20,Central Region,GH-CP,GH,7,789
+2020-06-21,Central Region,GH-CP,GH,5,794
+2020-06-23,Central Region,GH-CP,GH,4,798
+2020-06-25,Central Region,GH-CP,GH,1,799
+2020-06-26,Central Region,GH-CP,GH,104,903
+2020-06-27,Central Region,GH-CP,GH,33,936
+2020-06-28,Central Region,GH-CP,GH,36,972
+2020-06-30,Central Region,GH-CP,GH,1,973
+2020-07-01,Central Region,GH-CP,GH,10,983
+2020-07-03,Central Region,GH-CP,GH,9,992
+2020-07-04,Central Region,GH-CP,GH,25,1017
+2020-07-05,Central Region,GH-CP,GH,47,1064
+2020-07-06,Central Region,GH-CP,GH,7,1071
+2020-07-07,Central Region,GH-CP,GH,5,1076
+2020-07-08,Central Region,GH-CP,GH,34,1110
+2020-07-15,Central Region,GH-CP,GH,21,1131
+2020-07-17,Central Region,GH-CP,GH,9,1140
+2020-07-20,Central Region,GH-CP,GH,15,1155
+2020-07-21,Central Region,GH-CP,GH,81,1236
+2020-07-23,Central Region,GH-CP,GH,33,1269
+2020-07-24,Central Region,GH-CP,GH,59,1328
+2020-07-25,Central Region,GH-CP,GH,21,1349
+2020-07-26,Central Region,GH-CP,GH,6,1355
+2020-07-27,Central Region,GH-CP,GH,7,1362
+2020-07-29,Central Region,GH-CP,GH,4,1366
+2020-07-30,Central Region,GH-CP,GH,64,1430
+2020-07-31,Central Region,GH-CP,GH,63,1493
+2020-08-01,Central Region,GH-CP,GH,60,1553
+2020-08-02,Central Region,GH-CP,GH,67,1620
+2020-08-03,Central Region,GH-CP,GH,49,1669
+2020-08-09,Central Region,GH-CP,GH,52,1721
+2020-08-11,Central Region,GH-CP,GH,14,1735
+2020-08-12,Central Region,GH-CP,GH,16,1751
+2020-08-14,Central Region,GH-CP,GH,3,1754
+2020-08-16,Central Region,GH-CP,GH,47,1801
+2020-08-18,Central Region,GH-CP,GH,28,1829
+2020-08-19,Central Region,GH-CP,GH,7,1836
+2020-08-21,Central Region,GH-CP,GH,1,1837
+2020-08-22,Central Region,GH-CP,GH,12,1849
+2020-08-25,Central Region,GH-CP,GH,2,1851
+2020-08-26,Central Region,GH-CP,GH,10,1861
+2020-08-28,Central Region,GH-CP,GH,1,1862
+2020-08-29,Central Region,GH-CP,GH,8,1870
+2020-08-31,Central Region,GH-CP,GH,4,1874
+2020-09-02,Central Region,GH-CP,GH,4,1878
+2020-09-05,Central Region,GH-CP,GH,20,1898
+2020-09-06,Central Region,GH-CP,GH,6,1904
+2020-09-11,Central Region,GH-CP,GH,14,1918
+2020-09-19,Central Region,GH-CP,GH,3,1921
+2020-09-28,Central Region,GH-CP,GH,6,1927
+2020-10-02,Central Region,GH-CP,GH,1,1928
+2020-10-23,Central Region,GH-CP,GH,3,1931
+2020-11-01,Central Region,GH-CP,GH,4,1935
+2020-11-12,Central Region,GH-CP,GH,5,1940
+2020-11-30,Central Region,GH-CP,GH,113,2053
+2020-12-06,Central Region,GH-CP,GH,7,2060
+2020-12-13,Central Region,GH-CP,GH,3,2063
+2020-12-14,Central Region,GH-CP,GH,11,2074
+2020-12-16,Central Region,GH-CP,GH,6,2080
+2020-12-17,Central Region,GH-CP,GH,24,2104
+2020-12-21,Central Region,GH-CP,GH,4,2108
+2020-12-28,Central Region,GH-CP,GH,5,2113
+2020-12-29,Central Region,GH-CP,GH,5,2118
+2020-12-30,Central Region,GH-CP,GH,12,2130
+2021-01-10,Central Region,GH-CP,GH,21,2151
+2021-01-12,Central Region,GH-CP,GH,20,2171
+2021-01-13,Central Region,GH-CP,GH,13,2184
+2021-01-17,Central Region,GH-CP,GH,10,2194
+2021-01-20,Central Region,GH-CP,GH,6,2200
+2021-01-21,Central Region,GH-CP,GH,10,2210
+2021-01-23,Central Region,GH-CP,GH,5,2215
+2021-01-26,Central Region,GH-CP,GH,13,2228
+2021-01-27,Central Region,GH-CP,GH,17,2245
+2021-01-29,Central Region,GH-CP,GH,24,2269
+2021-01-31,Central Region,GH-CP,GH,52,2321
+2021-02-03,Central Region,GH-CP,GH,19,2340
+2021-02-04,Central Region,GH-CP,GH,23,2363
+2021-02-05,Central Region,GH-CP,GH,38,2401
+2021-02-06,Central Region,GH-CP,GH,16,2417
+2021-02-07,Central Region,GH-CP,GH,41,2458
+2021-02-09,Central Region,GH-CP,GH,10,2468
+2021-02-10,Central Region,GH-CP,GH,30,2498
+2021-02-11,Central Region,GH-CP,GH,16,2514
+2021-02-12,Central Region,GH-CP,GH,36,2550
+2021-02-15,Central Region,GH-CP,GH,114,2664
+2021-02-16,Central Region,GH-CP,GH,33,2697
+2021-02-17,Central Region,GH-CP,GH,12,2709
+2021-02-18,Central Region,GH-CP,GH,27,2736
+2021-02-19,Central Region,GH-CP,GH,47,2783
+2021-02-21,Central Region,GH-CP,GH,28,2811
+2021-02-22,Central Region,GH-CP,GH,22,2833
+2021-02-23,Central Region,GH-CP,GH,37,2870
+2021-02-24,Central Region,GH-CP,GH,14,2884
+2021-02-26,Central Region,GH-CP,GH,28,2912
+2021-02-28,Central Region,GH-CP,GH,24,2936
+2021-03-01,Central Region,GH-CP,GH,94,3030
+2021-03-02,Central Region,GH-CP,GH,17,3047
+2021-03-13,Central Region,GH-CP,GH,72,3119
+2021-03-14,Central Region,GH-CP,GH,38,3157
+2021-03-19,Central Region,GH-CP,GH,33,3190
+2021-03-20,Central Region,GH-CP,GH,3,3193
+2021-03-21,Central Region,GH-CP,GH,8,3201
+2021-03-23,Central Region,GH-CP,GH,17,3218
+2021-03-24,Central Region,GH-CP,GH,54,3272
+2021-04-02,Central Region,GH-CP,GH,14,3286
+2021-04-04,Central Region,GH-CP,GH,8,3294
+2021-04-07,Central Region,GH-CP,GH,10,3304
+2021-04-09,Central Region,GH-CP,GH,5,3309
+2021-04-17,Central Region,GH-CP,GH,2,3311
+2021-04-19,Central Region,GH-CP,GH,13,3324
+2021-04-20,Central Region,GH-CP,GH,15,3339
+2021-04-25,Central Region,GH-CP,GH,13,3352
+2021-04-27,Central Region,GH-CP,GH,4,3356
+2021-04-28,Central Region,GH-CP,GH,16,3372
+2021-05-01,Central Region,GH-CP,GH,1,3373
+2021-05-02,Central Region,GH-CP,GH,10,3383
+2021-05-05,Central Region,GH-CP,GH,16,3399
+2021-05-06,Central Region,GH-CP,GH,38,3437
+2021-05-07,Central Region,GH-CP,GH,6,3443
+2021-05-12,Central Region,GH-CP,GH,-18,3425
+2021-05-13,Central Region,GH-CP,GH,3,3428
+2021-05-14,Central Region,GH-CP,GH,7,3435
+2021-05-18,Central Region,GH-CP,GH,4,3439
+2021-05-19,Central Region,GH-CP,GH,10,3449
+2021-05-28,Central Region,GH-CP,GH,13,3462
+2021-05-30,Central Region,GH-CP,GH,30,3492
+2021-05-31,Central Region,GH-CP,GH,21,3513
+2021-06-04,Central Region,GH-CP,GH,14,3527
+2021-06-11,Central Region,GH-CP,GH,2,3529
+2021-06-14,Central Region,GH-CP,GH,10,3539
+2021-06-21,Central Region,GH-CP,GH,4,3543
+2021-06-25,Central Region,GH-CP,GH,4,3547
+2021-06-27,Central Region,GH-CP,GH,4,3551
+2021-06-29,Central Region,GH-CP,GH,1,3552
+2021-07-21,Central Region,GH-CP,GH,13,3565
+2021-07-22,Central Region,GH-CP,GH,15,3580
+2021-07-23,Central Region,GH-CP,GH,35,3615
+2021-07-24,Central Region,GH-CP,GH,26,3641
+2021-07-25,Central Region,GH-CP,GH,19,3660
+2021-07-26,Central Region,GH-CP,GH,74,3734
+2021-07-27,Central Region,GH-CP,GH,6,3740
+2021-07-28,Central Region,GH-CP,GH,21,3761
+2021-07-29,Central Region,GH-CP,GH,29,3790
+2021-08-01,Central Region,GH-CP,GH,33,3823
+2021-08-02,Central Region,GH-CP,GH,43,3866
+2021-08-03,Central Region,GH-CP,GH,9,3875
+2021-08-04,Central Region,GH-CP,GH,13,3888
+2021-08-07,Central Region,GH-CP,GH,69,3957
+2021-08-08,Central Region,GH-CP,GH,9,3966
+2021-08-10,Central Region,GH-CP,GH,15,3981
+2021-08-12,Central Region,GH-CP,GH,25,4006
+2021-08-13,Central Region,GH-CP,GH,5,4011
+2021-08-14,Central Region,GH-CP,GH,17,4028
+2021-08-15,Central Region,GH-CP,GH,19,4047
+2021-08-17,Central Region,GH-CP,GH,44,4091
+2021-08-21,Central Region,GH-CP,GH,84,4175
+2021-08-22,Central Region,GH-CP,GH,41,4216
+2021-08-28,Central Region,GH-CP,GH,43,4259
+2021-09-06,Central Region,GH-CP,GH,107,4366
+2021-09-07,Central Region,GH-CP,GH,7,4373
+2021-09-08,Central Region,GH-CP,GH,11,4384
+2021-09-10,Central Region,GH-CP,GH,7,4391
+2021-09-12,Central Region,GH-CP,GH,37,4428
+2021-09-19,Central Region,GH-CP,GH,31,4459
+2021-09-20,Central Region,GH-CP,GH,33,4492
+2021-09-21,Central Region,GH-CP,GH,30,4522
+2021-09-30,Central Region,GH-CP,GH,87,4609
+2021-10-06,Central Region,GH-CP,GH,47,4656
+2021-10-17,Central Region,GH-CP,GH,9,4665
+2021-10-22,Central Region,GH-CP,GH,16,4681
+2021-10-25,Central Region,GH-CP,GH,31,4712
+2021-10-26,Central Region,GH-CP,GH,17,4729
+2021-10-27,Central Region,GH-CP,GH,7,4736
+2021-10-28,Central Region,GH-CP,GH,4,4740
+2021-11-02,Central Region,GH-CP,GH,50,4790
+2021-11-03,Central Region,GH-CP,GH,16,4806
+2021-11-08,Central Region,GH-CP,GH,48,4854
+2021-11-11,Central Region,GH-CP,GH,5,4859
+2021-12-06,Central Region,GH-CP,GH,3,4862
+2021-12-26,Central Region,GH-CP,GH,58,4920
+2021-12-27,Central Region,GH-CP,GH,190,5110
+2021-12-28,Central Region,GH-CP,GH,21,5131
+2021-12-31,Central Region,GH-CP,GH,12,5143
+2022-01-01,Central Region,GH-CP,GH,54,5197
+2022-01-03,Central Region,GH-CP,GH,46,5243
+2022-01-04,Central Region,GH-CP,GH,14,5257
+2022-01-05,Central Region,GH-CP,GH,1,5258
+2022-01-08,Central Region,GH-CP,GH,9,5267
+2022-01-09,Central Region,GH-CP,GH,27,5294
+2022-01-10,Central Region,GH-CP,GH,48,5342
+2022-01-11,Central Region,GH-CP,GH,10,5352
+2022-01-12,Central Region,GH-CP,GH,30,5382
+2022-01-18,Central Region,GH-CP,GH,5,5387
+2022-01-20,Central Region,GH-CP,GH,6,5393
+2022-02-03,Central Region,GH-CP,GH,9,5402
+2022-06-13,Central Region,GH-CP,GH,6,5408
+2022-06-14,Central Region,GH-CP,GH,6,5414
+2022-06-19,Central Region,GH-CP,GH,5,5419
+2022-06-20,Central Region,GH-CP,GH,13,5432
+2022-06-22,Central Region,GH-CP,GH,3,5435
+2022-06-24,Central Region,GH-CP,GH,38,5473
+2022-06-27,Central Region,GH-CP,GH,36,5509
+2022-06-30,Central Region,GH-CP,GH,8,5517
+2022-07-03,Central Region,GH-CP,GH,8,5525
+2022-07-12,Central Region,GH-CP,GH,10,5535
+2020-04-01,Eastern Region,GH-EP,GH,1,1
+2020-04-09,Eastern Region,GH-EP,GH,25,26
+2020-04-13,Eastern Region,GH-EP,GH,9,35
+2020-04-18,Eastern Region,GH-EP,GH,10,45
+2020-04-22,Eastern Region,GH-EP,GH,5,50
+2020-04-25,Eastern Region,GH-EP,GH,1,51
+2020-04-28,Eastern Region,GH-EP,GH,13,64
+2020-05-01,Eastern Region,GH-EP,GH,17,81
+2020-05-06,Eastern Region,GH-EP,GH,14,95
+2020-05-08,Eastern Region,GH-EP,GH,1,96
+2020-05-11,Eastern Region,GH-EP,GH,3,99
+2020-05-19,Eastern Region,GH-EP,GH,1,100
+2020-05-20,Eastern Region,GH-EP,GH,6,106
+2020-05-26,Eastern Region,GH-EP,GH,2,108
+2020-05-27,Eastern Region,GH-EP,GH,9,117
+2020-06-03,Eastern Region,GH-EP,GH,17,134
+2020-06-05,Eastern Region,GH-EP,GH,28,162
+2020-06-06,Eastern Region,GH-EP,GH,4,166
+2020-06-09,Eastern Region,GH-EP,GH,9,175
+2020-06-10,Eastern Region,GH-EP,GH,23,198
+2020-06-11,Eastern Region,GH-EP,GH,6,204
+2020-06-14,Eastern Region,GH-EP,GH,31,235
+2020-06-15,Eastern Region,GH-EP,GH,11,246
+2020-06-16,Eastern Region,GH-EP,GH,38,284
+2020-06-17,Eastern Region,GH-EP,GH,15,299
+2020-06-18,Eastern Region,GH-EP,GH,2,301
+2020-06-20,Eastern Region,GH-EP,GH,57,358
+2020-06-21,Eastern Region,GH-EP,GH,15,373
+2020-06-22,Eastern Region,GH-EP,GH,27,400
+2020-06-23,Eastern Region,GH-EP,GH,7,407
+2020-06-24,Eastern Region,GH-EP,GH,45,452
+2020-06-25,Eastern Region,GH-EP,GH,34,486
+2020-06-26,Eastern Region,GH-EP,GH,55,541
+2020-06-27,Eastern Region,GH-EP,GH,30,571
+2020-06-28,Eastern Region,GH-EP,GH,30,601
+2020-06-29,Eastern Region,GH-EP,GH,22,623
+2020-06-30,Eastern Region,GH-EP,GH,45,668
+2020-07-01,Eastern Region,GH-EP,GH,48,716
+2020-07-02,Eastern Region,GH-EP,GH,82,798
+2020-07-03,Eastern Region,GH-EP,GH,37,835
+2020-07-04,Eastern Region,GH-EP,GH,18,853
+2020-07-05,Eastern Region,GH-EP,GH,2,855
+2020-07-06,Eastern Region,GH-EP,GH,52,907
+2020-07-07,Eastern Region,GH-EP,GH,4,911
+2020-07-09,Eastern Region,GH-EP,GH,20,931
+2020-07-10,Eastern Region,GH-EP,GH,17,948
+2020-07-11,Eastern Region,GH-EP,GH,12,960
+2020-07-15,Eastern Region,GH-EP,GH,2,962
+2020-07-16,Eastern Region,GH-EP,GH,36,998
+2020-07-17,Eastern Region,GH-EP,GH,14,1012
+2020-07-18,Eastern Region,GH-EP,GH,18,1030
+2020-07-19,Eastern Region,GH-EP,GH,47,1077
+2020-07-20,Eastern Region,GH-EP,GH,10,1087
+2020-07-21,Eastern Region,GH-EP,GH,4,1091
+2020-07-22,Eastern Region,GH-EP,GH,29,1120
+2020-07-23,Eastern Region,GH-EP,GH,44,1164
+2020-07-24,Eastern Region,GH-EP,GH,50,1214
+2020-07-26,Eastern Region,GH-EP,GH,20,1234
+2020-07-27,Eastern Region,GH-EP,GH,10,1244
+2020-07-29,Eastern Region,GH-EP,GH,60,1304
+2020-07-30,Eastern Region,GH-EP,GH,112,1416
+2020-07-31,Eastern Region,GH-EP,GH,41,1457
+2020-08-01,Eastern Region,GH-EP,GH,26,1483
+2020-08-02,Eastern Region,GH-EP,GH,96,1579
+2020-08-03,Eastern Region,GH-EP,GH,230,1809
+2020-08-04,Eastern Region,GH-EP,GH,37,1846
+2020-08-09,Eastern Region,GH-EP,GH,77,1923
+2020-08-10,Eastern Region,GH-EP,GH,10,1933
+2020-08-11,Eastern Region,GH-EP,GH,5,1938
+2020-08-12,Eastern Region,GH-EP,GH,53,1991
+2020-08-13,Eastern Region,GH-EP,GH,22,2013
+2020-08-14,Eastern Region,GH-EP,GH,11,2024
+2020-08-15,Eastern Region,GH-EP,GH,41,2065
+2020-08-16,Eastern Region,GH-EP,GH,32,2097
+2020-08-18,Eastern Region,GH-EP,GH,12,2109
+2020-08-20,Eastern Region,GH-EP,GH,48,2157
+2020-08-22,Eastern Region,GH-EP,GH,67,2224
+2020-08-25,Eastern Region,GH-EP,GH,31,2255
+2020-08-26,Eastern Region,GH-EP,GH,22,2277
+2020-08-27,Eastern Region,GH-EP,GH,3,2280
+2020-08-28,Eastern Region,GH-EP,GH,5,2285
+2020-08-29,Eastern Region,GH-EP,GH,4,2289
+2020-08-31,Eastern Region,GH-EP,GH,5,2294
+2020-09-02,Eastern Region,GH-EP,GH,5,2299
+2020-09-03,Eastern Region,GH-EP,GH,21,2320
+2020-09-05,Eastern Region,GH-EP,GH,55,2375
+2020-09-06,Eastern Region,GH-EP,GH,13,2388
+2020-09-08,Eastern Region,GH-EP,GH,1,2389
+2020-09-09,Eastern Region,GH-EP,GH,5,2394
+2020-09-18,Eastern Region,GH-EP,GH,1,2395
+2020-09-20,Eastern Region,GH-EP,GH,1,2396
+2020-09-21,Eastern Region,GH-EP,GH,3,2399
+2020-09-22,Eastern Region,GH-EP,GH,2,2401
+2020-09-25,Eastern Region,GH-EP,GH,11,2412
+2020-10-05,Eastern Region,GH-EP,GH,6,2418
+2020-10-06,Eastern Region,GH-EP,GH,1,2419
+2020-10-17,Eastern Region,GH-EP,GH,1,2420
+2020-10-22,Eastern Region,GH-EP,GH,1,2421
+2020-10-26,Eastern Region,GH-EP,GH,5,2426
+2020-10-31,Eastern Region,GH-EP,GH,3,2429
+2020-11-01,Eastern Region,GH-EP,GH,23,2452
+2020-11-04,Eastern Region,GH-EP,GH,3,2455
+2020-11-12,Eastern Region,GH-EP,GH,13,2468
+2020-11-13,Eastern Region,GH-EP,GH,5,2473
+2020-11-16,Eastern Region,GH-EP,GH,15,2488
+2020-11-17,Eastern Region,GH-EP,GH,11,2499
+2020-11-18,Eastern Region,GH-EP,GH,4,2503
+2020-11-19,Eastern Region,GH-EP,GH,1,2504
+2020-11-20,Eastern Region,GH-EP,GH,8,2512
+2020-11-23,Eastern Region,GH-EP,GH,3,2515
+2020-11-24,Eastern Region,GH-EP,GH,7,2522
+2020-11-27,Eastern Region,GH-EP,GH,6,2528
+2020-11-28,Eastern Region,GH-EP,GH,2,2530
+2020-11-30,Eastern Region,GH-EP,GH,7,2537
+2020-12-01,Eastern Region,GH-EP,GH,17,2554
+2020-12-08,Eastern Region,GH-EP,GH,11,2565
+2020-12-09,Eastern Region,GH-EP,GH,4,2569
+2020-12-10,Eastern Region,GH-EP,GH,12,2581
+2020-12-12,Eastern Region,GH-EP,GH,13,2594
+2020-12-14,Eastern Region,GH-EP,GH,11,2605
+2020-12-16,Eastern Region,GH-EP,GH,4,2609
+2020-12-17,Eastern Region,GH-EP,GH,2,2611
+2020-12-21,Eastern Region,GH-EP,GH,4,2615
+2020-12-25,Eastern Region,GH-EP,GH,9,2624
+2020-12-28,Eastern Region,GH-EP,GH,5,2629
+2020-12-30,Eastern Region,GH-EP,GH,7,2636
+2021-01-10,Eastern Region,GH-EP,GH,10,2646
+2021-01-12,Eastern Region,GH-EP,GH,5,2651
+2021-01-13,Eastern Region,GH-EP,GH,7,2658
+2021-01-17,Eastern Region,GH-EP,GH,23,2681
+2021-01-20,Eastern Region,GH-EP,GH,2,2683
+2021-01-21,Eastern Region,GH-EP,GH,4,2687
+2021-01-23,Eastern Region,GH-EP,GH,11,2698
+2021-01-24,Eastern Region,GH-EP,GH,6,2704
+2021-01-25,Eastern Region,GH-EP,GH,21,2725
+2021-01-26,Eastern Region,GH-EP,GH,10,2735
+2021-01-27,Eastern Region,GH-EP,GH,44,2779
+2021-01-29,Eastern Region,GH-EP,GH,62,2841
+2021-01-31,Eastern Region,GH-EP,GH,30,2871
+2021-02-02,Eastern Region,GH-EP,GH,9,2880
+2021-02-03,Eastern Region,GH-EP,GH,25,2905
+2021-02-04,Eastern Region,GH-EP,GH,48,2953
+2021-02-05,Eastern Region,GH-EP,GH,15,2968
+2021-02-06,Eastern Region,GH-EP,GH,58,3026
+2021-02-07,Eastern Region,GH-EP,GH,20,3046
+2021-02-08,Eastern Region,GH-EP,GH,63,3109
+2021-02-09,Eastern Region,GH-EP,GH,52,3161
+2021-02-10,Eastern Region,GH-EP,GH,50,3211
+2021-02-11,Eastern Region,GH-EP,GH,6,3217
+2021-02-12,Eastern Region,GH-EP,GH,35,3252
+2021-02-15,Eastern Region,GH-EP,GH,47,3299
+2021-02-16,Eastern Region,GH-EP,GH,43,3342
+2021-02-17,Eastern Region,GH-EP,GH,23,3365
+2021-02-18,Eastern Region,GH-EP,GH,89,3454
+2021-02-19,Eastern Region,GH-EP,GH,67,3521
+2021-02-20,Eastern Region,GH-EP,GH,4,3525
+2021-02-21,Eastern Region,GH-EP,GH,51,3576
+2021-02-22,Eastern Region,GH-EP,GH,34,3610
+2021-02-23,Eastern Region,GH-EP,GH,3,3613
+2021-02-24,Eastern Region,GH-EP,GH,22,3635
+2021-02-25,Eastern Region,GH-EP,GH,33,3668
+2021-02-26,Eastern Region,GH-EP,GH,19,3687
+2021-02-28,Eastern Region,GH-EP,GH,43,3730
+2021-03-01,Eastern Region,GH-EP,GH,142,3872
+2021-03-02,Eastern Region,GH-EP,GH,32,3904
+2021-03-12,Eastern Region,GH-EP,GH,13,3917
+2021-03-13,Eastern Region,GH-EP,GH,40,3957
+2021-03-14,Eastern Region,GH-EP,GH,42,3999
+2021-03-15,Eastern Region,GH-EP,GH,4,4003
+2021-03-16,Eastern Region,GH-EP,GH,11,4014
+2021-03-19,Eastern Region,GH-EP,GH,22,4036
+2021-03-20,Eastern Region,GH-EP,GH,26,4062
+2021-03-21,Eastern Region,GH-EP,GH,31,4093
+2021-03-22,Eastern Region,GH-EP,GH,9,4102
+2021-03-24,Eastern Region,GH-EP,GH,19,4121
+2021-03-31,Eastern Region,GH-EP,GH,2,4123
+2021-04-02,Eastern Region,GH-EP,GH,7,4130
+2021-04-04,Eastern Region,GH-EP,GH,1,4131
+2021-04-05,Eastern Region,GH-EP,GH,3,4134
+2021-04-07,Eastern Region,GH-EP,GH,2,4136
+2021-04-09,Eastern Region,GH-EP,GH,12,4148
+2021-04-13,Eastern Region,GH-EP,GH,1,4149
+2021-04-15,Eastern Region,GH-EP,GH,2,4151
+2021-04-17,Eastern Region,GH-EP,GH,6,4157
+2021-04-19,Eastern Region,GH-EP,GH,7,4164
+2021-04-26,Eastern Region,GH-EP,GH,2,4166
+2021-04-27,Eastern Region,GH-EP,GH,6,4172
+2021-04-28,Eastern Region,GH-EP,GH,2,4174
+2021-04-29,Eastern Region,GH-EP,GH,1,4175
+2021-05-02,Eastern Region,GH-EP,GH,2,4177
+2021-05-04,Eastern Region,GH-EP,GH,1,4178
+2021-05-06,Eastern Region,GH-EP,GH,2,4180
+2021-05-07,Eastern Region,GH-EP,GH,5,4185
+2021-05-12,Eastern Region,GH-EP,GH,3,4188
+2021-05-13,Eastern Region,GH-EP,GH,1,4189
+2021-05-14,Eastern Region,GH-EP,GH,11,4200
+2021-05-17,Eastern Region,GH-EP,GH,8,4208
+2021-05-19,Eastern Region,GH-EP,GH,7,4215
+2021-05-23,Eastern Region,GH-EP,GH,9,4224
+2021-05-25,Eastern Region,GH-EP,GH,1,4225
+2021-05-28,Eastern Region,GH-EP,GH,10,4235
+2021-05-30,Eastern Region,GH-EP,GH,22,4257
+2021-05-31,Eastern Region,GH-EP,GH,22,4279
+2021-06-04,Eastern Region,GH-EP,GH,22,4301
+2021-06-05,Eastern Region,GH-EP,GH,14,4315
+2021-06-09,Eastern Region,GH-EP,GH,8,4323
+2021-06-11,Eastern Region,GH-EP,GH,11,4334
+2021-06-13,Eastern Region,GH-EP,GH,12,4346
+2021-06-15,Eastern Region,GH-EP,GH,4,4350
+2021-06-16,Eastern Region,GH-EP,GH,9,4359
+2021-06-21,Eastern Region,GH-EP,GH,3,4362
+2021-06-22,Eastern Region,GH-EP,GH,19,4381
+2021-06-25,Eastern Region,GH-EP,GH,5,4386
+2021-06-26,Eastern Region,GH-EP,GH,2,4388
+2021-06-27,Eastern Region,GH-EP,GH,17,4405
+2021-06-28,Eastern Region,GH-EP,GH,2,4407
+2021-06-29,Eastern Region,GH-EP,GH,16,4423
+2021-06-30,Eastern Region,GH-EP,GH,8,4431
+2021-07-01,Eastern Region,GH-EP,GH,9,4440
+2021-07-06,Eastern Region,GH-EP,GH,24,4464
+2021-07-08,Eastern Region,GH-EP,GH,4,4468
+2021-07-11,Eastern Region,GH-EP,GH,23,4491
+2021-07-12,Eastern Region,GH-EP,GH,3,4494
+2021-07-16,Eastern Region,GH-EP,GH,6,4500
+2021-07-17,Eastern Region,GH-EP,GH,19,4519
+2021-07-18,Eastern Region,GH-EP,GH,40,4559
+2021-07-20,Eastern Region,GH-EP,GH,13,4572
+2021-07-22,Eastern Region,GH-EP,GH,11,4583
+2021-07-23,Eastern Region,GH-EP,GH,51,4634
+2021-07-24,Eastern Region,GH-EP,GH,27,4661
+2021-07-25,Eastern Region,GH-EP,GH,48,4709
+2021-07-26,Eastern Region,GH-EP,GH,18,4727
+2021-07-27,Eastern Region,GH-EP,GH,38,4765
+2021-07-28,Eastern Region,GH-EP,GH,30,4795
+2021-07-29,Eastern Region,GH-EP,GH,73,4868
+2021-08-01,Eastern Region,GH-EP,GH,11,4879
+2021-08-02,Eastern Region,GH-EP,GH,27,4906
+2021-08-03,Eastern Region,GH-EP,GH,63,4969
+2021-08-04,Eastern Region,GH-EP,GH,11,4980
+2021-08-05,Eastern Region,GH-EP,GH,3,4983
+2021-08-07,Eastern Region,GH-EP,GH,23,5006
+2021-08-08,Eastern Region,GH-EP,GH,136,5142
+2021-08-10,Eastern Region,GH-EP,GH,19,5161
+2021-08-12,Eastern Region,GH-EP,GH,40,5201
+2021-08-13,Eastern Region,GH-EP,GH,13,5214
+2021-08-14,Eastern Region,GH-EP,GH,40,5254
+2021-08-15,Eastern Region,GH-EP,GH,10,5264
+2021-08-17,Eastern Region,GH-EP,GH,31,5295
+2021-08-19,Eastern Region,GH-EP,GH,38,5333
+2021-08-21,Eastern Region,GH-EP,GH,171,5504
+2021-08-22,Eastern Region,GH-EP,GH,23,5527
+2021-08-23,Eastern Region,GH-EP,GH,57,5584
+2021-08-24,Eastern Region,GH-EP,GH,46,5630
+2021-08-25,Eastern Region,GH-EP,GH,33,5663
+2021-08-26,Eastern Region,GH-EP,GH,75,5738
+2021-08-27,Eastern Region,GH-EP,GH,88,5826
+2021-08-28,Eastern Region,GH-EP,GH,51,5877
+2021-08-29,Eastern Region,GH-EP,GH,40,5917
+2021-08-30,Eastern Region,GH-EP,GH,55,5972
+2021-08-31,Eastern Region,GH-EP,GH,63,6035
+2021-09-01,Eastern Region,GH-EP,GH,46,6081
+2021-09-06,Eastern Region,GH-EP,GH,4,6085
+2021-09-07,Eastern Region,GH-EP,GH,59,6144
+2021-09-08,Eastern Region,GH-EP,GH,10,6154
+2021-09-10,Eastern Region,GH-EP,GH,10,6164
+2021-09-12,Eastern Region,GH-EP,GH,57,6221
+2021-09-13,Eastern Region,GH-EP,GH,21,6242
+2021-09-17,Eastern Region,GH-EP,GH,24,6266
+2021-09-18,Eastern Region,GH-EP,GH,20,6286
+2021-09-19,Eastern Region,GH-EP,GH,16,6302
+2021-09-20,Eastern Region,GH-EP,GH,24,6326
+2021-09-21,Eastern Region,GH-EP,GH,3,6329
+2021-09-22,Eastern Region,GH-EP,GH,22,6351
+2021-09-23,Eastern Region,GH-EP,GH,53,6404
+2021-09-24,Eastern Region,GH-EP,GH,12,6416
+2021-09-30,Eastern Region,GH-EP,GH,7,6423
+2021-10-05,Eastern Region,GH-EP,GH,84,6507
+2021-10-17,Eastern Region,GH-EP,GH,49,6556
+2021-10-18,Eastern Region,GH-EP,GH,5,6561
+2021-10-22,Eastern Region,GH-EP,GH,1,6562
+2021-10-25,Eastern Region,GH-EP,GH,3,6565
+2021-11-02,Eastern Region,GH-EP,GH,11,6576
+2021-11-03,Eastern Region,GH-EP,GH,9,6585
+2021-11-08,Eastern Region,GH-EP,GH,7,6592
+2021-11-15,Eastern Region,GH-EP,GH,3,6595
+2021-12-06,Eastern Region,GH-EP,GH,10,6605
+2021-12-21,Eastern Region,GH-EP,GH,1,6606
+2021-12-22,Eastern Region,GH-EP,GH,11,6617
+2021-12-23,Eastern Region,GH-EP,GH,8,6625
+2021-12-26,Eastern Region,GH-EP,GH,1,6626
+2021-12-27,Eastern Region,GH-EP,GH,25,6651
+2021-12-29,Eastern Region,GH-EP,GH,6,6657
+2021-12-31,Eastern Region,GH-EP,GH,4,6661
+2022-01-01,Eastern Region,GH-EP,GH,36,6697
+2022-01-03,Eastern Region,GH-EP,GH,10,6707
+2022-01-04,Eastern Region,GH-EP,GH,3,6710
+2022-01-08,Eastern Region,GH-EP,GH,7,6717
+2022-01-09,Eastern Region,GH-EP,GH,96,6813
+2022-01-10,Eastern Region,GH-EP,GH,90,6903
+2022-01-17,Eastern Region,GH-EP,GH,13,6916
+2022-01-20,Eastern Region,GH-EP,GH,27,6943
+2022-01-23,Eastern Region,GH-EP,GH,6,6949
+2022-01-24,Eastern Region,GH-EP,GH,25,6974
+2022-01-27,Eastern Region,GH-EP,GH,5,6979
+2022-01-31,Eastern Region,GH-EP,GH,6,6985
+2022-02-03,Eastern Region,GH-EP,GH,1,6986
+2022-02-04,Eastern Region,GH-EP,GH,10,6996
+2022-02-16,Eastern Region,GH-EP,GH,2,6998
+2022-02-18,Eastern Region,GH-EP,GH,4,7002
+2022-02-19,Eastern Region,GH-EP,GH,17,7019
+2022-02-28,Eastern Region,GH-EP,GH,3,7022
+2022-03-01,Eastern Region,GH-EP,GH,5,7027
+2022-03-08,Eastern Region,GH-EP,GH,7,7034
+2022-03-26,Eastern Region,GH-EP,GH,2,7036
+2022-04-14,Eastern Region,GH-EP,GH,3,7039
+2022-05-01,Eastern Region,GH-EP,GH,4,7043
+2022-06-06,Eastern Region,GH-EP,GH,29,7072
+2022-06-13,Eastern Region,GH-EP,GH,6,7078
+2022-06-14,Eastern Region,GH-EP,GH,13,7091
+2022-06-15,Eastern Region,GH-EP,GH,7,7098
+2022-06-20,Eastern Region,GH-EP,GH,33,7131
+2022-06-22,Eastern Region,GH-EP,GH,32,7163
+2022-06-27,Eastern Region,GH-EP,GH,52,7215
+2022-06-30,Eastern Region,GH-EP,GH,9,7224
+2022-07-03,Eastern Region,GH-EP,GH,49,7273
+2022-07-07,Eastern Region,GH-EP,GH,23,7296
+2022-07-12,Eastern Region,GH-EP,GH,55,7351
+2020-04-09,North East Region,GH-NE,GH,1,1
+2020-04-19,North East Region,GH-NE,GH,1,2
+2020-06-08,North East Region,GH-NE,GH,2,4
+2020-06-10,North East Region,GH-NE,GH,-2,2
+2020-06-21,North East Region,GH-NE,GH,1,3
+2020-06-23,North East Region,GH-NE,GH,1,4
+2020-06-27,North East Region,GH-NE,GH,2,6
+2020-07-02,North East Region,GH-NE,GH,2,8
+2020-07-05,North East Region,GH-NE,GH,1,9
+2020-08-16,North East Region,GH-NE,GH,9,18
+2020-08-29,North East Region,GH-NE,GH,1,19
+2020-11-24,North East Region,GH-NE,GH,1,20
+2020-12-09,North East Region,GH-NE,GH,2,22
+2021-01-21,North East Region,GH-NE,GH,3,25
+2021-02-04,North East Region,GH-NE,GH,7,32
+2021-02-07,North East Region,GH-NE,GH,2,34
+2021-02-08,North East Region,GH-NE,GH,3,37
+2021-02-12,North East Region,GH-NE,GH,5,42
+2021-02-16,North East Region,GH-NE,GH,19,61
+2021-02-20,North East Region,GH-NE,GH,18,79
+2021-02-23,North East Region,GH-NE,GH,19,98
+2021-03-01,North East Region,GH-NE,GH,58,156
+2021-03-02,North East Region,GH-NE,GH,4,160
+2021-03-12,North East Region,GH-NE,GH,25,185
+2021-03-16,North East Region,GH-NE,GH,4,189
+2021-03-19,North East Region,GH-NE,GH,5,194
+2021-03-20,North East Region,GH-NE,GH,16,210
+2021-04-03,North East Region,GH-NE,GH,13,223
+2021-04-25,North East Region,GH-NE,GH,5,228
+2021-05-19,North East Region,GH-NE,GH,1,229
+2021-06-16,North East Region,GH-NE,GH,2,231
+2021-07-29,North East Region,GH-NE,GH,1,232
+2021-08-03,North East Region,GH-NE,GH,2,234
+2021-08-07,North East Region,GH-NE,GH,2,236
+2021-08-27,North East Region,GH-NE,GH,13,249
+2021-08-31,North East Region,GH-NE,GH,7,256
+2021-09-12,North East Region,GH-NE,GH,10,266
+2021-09-23,North East Region,GH-NE,GH,4,270
+2021-10-18,North East Region,GH-NE,GH,10,280
+2021-10-26,North East Region,GH-NE,GH,3,283
+2022-01-08,North East Region,GH-NE,GH,35,318
+2022-01-12,North East Region,GH-NE,GH,40,358
+2022-01-27,North East Region,GH-NE,GH,10,368
+2022-02-03,North East Region,GH-NE,GH,4,372
+2022-02-20,North East Region,GH-NE,GH,3,375
+2022-02-28,North East Region,GH-NE,GH,9,384
+2022-06-19,North East Region,GH-NE,GH,4,388
+2022-07-03,North East Region,GH-NE,GH,10,398
+2020-03-29,Northern Region,GH-NP,GH,10,10
+2020-04-18,Northern Region,GH-NP,GH,1,11
+2020-04-22,Northern Region,GH-NP,GH,2,13
+2020-05-08,Northern Region,GH-NP,GH,3,16
+2020-05-13,Northern Region,GH-NP,GH,3,19
+2020-05-15,Northern Region,GH-NP,GH,12,31
+2020-05-21,Northern Region,GH-NP,GH,3,34
+2020-05-23,Northern Region,GH-NP,GH,2,36
+2020-05-30,Northern Region,GH-NP,GH,1,37
+2020-06-08,Northern Region,GH-NP,GH,37,74
+2020-06-10,Northern Region,GH-NP,GH,-37,37
+2020-06-16,Northern Region,GH-NP,GH,15,52
+2020-06-17,Northern Region,GH-NP,GH,9,61
+2020-06-23,Northern Region,GH-NP,GH,16,77
+2020-06-24,Northern Region,GH-NP,GH,18,95
+2020-06-25,Northern Region,GH-NP,GH,5,100
+2020-06-27,Northern Region,GH-NP,GH,20,120
+2020-06-30,Northern Region,GH-NP,GH,17,137
+2020-07-04,Northern Region,GH-NP,GH,26,163
+2020-07-06,Northern Region,GH-NP,GH,23,186
+2020-07-07,Northern Region,GH-NP,GH,1,187
+2020-07-08,Northern Region,GH-NP,GH,-1,186
+2020-07-10,Northern Region,GH-NP,GH,81,267
+2020-07-15,Northern Region,GH-NP,GH,4,271
+2020-07-22,Northern Region,GH-NP,GH,31,302
+2020-07-27,Northern Region,GH-NP,GH,6,308
+2020-07-28,Northern Region,GH-NP,GH,1,309
+2020-07-30,Northern Region,GH-NP,GH,45,354
+2020-08-03,Northern Region,GH-NP,GH,70,424
+2020-08-04,Northern Region,GH-NP,GH,30,454
+2020-08-14,Northern Region,GH-NP,GH,18,472
+2020-08-16,Northern Region,GH-NP,GH,17,489
+2020-08-20,Northern Region,GH-NP,GH,8,497
+2020-08-28,Northern Region,GH-NP,GH,31,528
+2020-09-20,Northern Region,GH-NP,GH,19,547
+2020-11-13,Northern Region,GH-NP,GH,4,551
+2020-11-19,Northern Region,GH-NP,GH,7,558
+2020-11-20,Northern Region,GH-NP,GH,-7,551
+2020-11-28,Northern Region,GH-NP,GH,2,553
+2020-12-08,Northern Region,GH-NP,GH,3,556
+2020-12-16,Northern Region,GH-NP,GH,10,566
+2021-01-10,Northern Region,GH-NP,GH,14,580
+2021-01-17,Northern Region,GH-NP,GH,18,598
+2021-01-20,Northern Region,GH-NP,GH,9,607
+2021-01-24,Northern Region,GH-NP,GH,13,620
+2021-01-25,Northern Region,GH-NP,GH,5,625
+2021-01-26,Northern Region,GH-NP,GH,10,635
+2021-01-27,Northern Region,GH-NP,GH,37,672
+2021-01-31,Northern Region,GH-NP,GH,10,682
+2021-02-02,Northern Region,GH-NP,GH,34,716
+2021-02-03,Northern Region,GH-NP,GH,37,753
+2021-02-06,Northern Region,GH-NP,GH,49,802
+2021-02-12,Northern Region,GH-NP,GH,25,827
+2021-02-16,Northern Region,GH-NP,GH,35,862
+2021-02-17,Northern Region,GH-NP,GH,5,867
+2021-02-18,Northern Region,GH-NP,GH,10,877
+2021-02-19,Northern Region,GH-NP,GH,24,901
+2021-02-20,Northern Region,GH-NP,GH,69,970
+2021-02-21,Northern Region,GH-NP,GH,88,1058
+2021-02-22,Northern Region,GH-NP,GH,73,1131
+2021-02-24,Northern Region,GH-NP,GH,24,1155
+2021-02-26,Northern Region,GH-NP,GH,48,1203
+2021-02-28,Northern Region,GH-NP,GH,52,1255
+2021-03-01,Northern Region,GH-NP,GH,203,1458
+2021-03-12,Northern Region,GH-NP,GH,22,1480
+2021-03-13,Northern Region,GH-NP,GH,2,1482
+2021-03-15,Northern Region,GH-NP,GH,24,1506
+2021-03-16,Northern Region,GH-NP,GH,14,1520
+2021-03-19,Northern Region,GH-NP,GH,56,1576
+2021-03-20,Northern Region,GH-NP,GH,22,1598
+2021-03-24,Northern Region,GH-NP,GH,21,1619
+2021-03-31,Northern Region,GH-NP,GH,25,1644
+2021-04-13,Northern Region,GH-NP,GH,7,1651
+2021-04-20,Northern Region,GH-NP,GH,3,1654
+2021-06-22,Northern Region,GH-NP,GH,3,1657
+2021-06-28,Northern Region,GH-NP,GH,3,1660
+2021-07-06,Northern Region,GH-NP,GH,1,1661
+2021-07-22,Northern Region,GH-NP,GH,3,1664
+2021-07-26,Northern Region,GH-NP,GH,8,1672
+2021-08-02,Northern Region,GH-NP,GH,4,1676
+2021-08-05,Northern Region,GH-NP,GH,2,1678
+2021-08-08,Northern Region,GH-NP,GH,9,1687
+2021-08-17,Northern Region,GH-NP,GH,6,1693
+2021-08-24,Northern Region,GH-NP,GH,6,1699
+2021-08-27,Northern Region,GH-NP,GH,5,1704
+2021-09-10,Northern Region,GH-NP,GH,9,1713
+2021-09-23,Northern Region,GH-NP,GH,9,1722
+2021-10-17,Northern Region,GH-NP,GH,15,1737
+2021-11-02,Northern Region,GH-NP,GH,11,1748
+2021-11-03,Northern Region,GH-NP,GH,10,1758
+2021-11-11,Northern Region,GH-NP,GH,3,1761
+2021-12-10,Northern Region,GH-NP,GH,6,1767
+2021-12-27,Northern Region,GH-NP,GH,12,1779
+2021-12-31,Northern Region,GH-NP,GH,8,1787
+2022-01-08,Northern Region,GH-NP,GH,21,1808
+2022-01-11,Northern Region,GH-NP,GH,18,1826
+2022-01-20,Northern Region,GH-NP,GH,32,1858
+2022-01-26,Northern Region,GH-NP,GH,5,1863
+2022-06-19,Northern Region,GH-NP,GH,5,1868
+2022-07-03,Northern Region,GH-NP,GH,1,1869
+2020-04-22,Oti Region,GH-OT,GH,13,13
+2020-04-25,Oti Region,GH-OT,GH,4,17
+2020-04-28,Oti Region,GH-OT,GH,2,19
+2020-05-06,Oti Region,GH-OT,GH,4,23
+2020-05-08,Oti Region,GH-OT,GH,1,24
+2020-05-15,Oti Region,GH-OT,GH,2,26
+2020-05-16,Oti Region,GH-OT,GH,-2,24
+2020-05-19,Oti Region,GH-OT,GH,2,26
+2020-06-06,Oti Region,GH-OT,GH,2,28
+2020-06-08,Oti Region,GH-OT,GH,28,56
+2020-06-09,Oti Region,GH-OT,GH,10,66
+2020-06-10,Oti Region,GH-OT,GH,-19,47
+2020-06-12,Oti Region,GH-OT,GH,1,48
+2020-06-13,Oti Region,GH-OT,GH,46,94
+2020-06-14,Oti Region,GH-OT,GH,1,95
+2020-06-15,Oti Region,GH-OT,GH,2,97
+2020-06-16,Oti Region,GH-OT,GH,4,101
+2020-06-18,Oti Region,GH-OT,GH,4,105
+2020-06-24,Oti Region,GH-OT,GH,3,108
+2020-06-25,Oti Region,GH-OT,GH,2,110
+2020-06-29,Oti Region,GH-OT,GH,2,112
+2020-07-04,Oti Region,GH-OT,GH,2,114
+2020-07-07,Oti Region,GH-OT,GH,1,115
+2020-07-09,Oti Region,GH-OT,GH,5,120
+2020-07-10,Oti Region,GH-OT,GH,8,128
+2020-07-11,Oti Region,GH-OT,GH,5,133
+2020-07-15,Oti Region,GH-OT,GH,5,138
+2020-07-17,Oti Region,GH-OT,GH,1,139
+2020-07-18,Oti Region,GH-OT,GH,4,143
+2020-07-19,Oti Region,GH-OT,GH,3,146
+2020-07-20,Oti Region,GH-OT,GH,1,147
+2020-07-21,Oti Region,GH-OT,GH,3,150
+2020-07-22,Oti Region,GH-OT,GH,4,154
+2020-07-23,Oti Region,GH-OT,GH,18,172
+2020-07-26,Oti Region,GH-OT,GH,2,174
+2020-07-28,Oti Region,GH-OT,GH,1,175
+2020-07-29,Oti Region,GH-OT,GH,17,192
+2020-08-01,Oti Region,GH-OT,GH,7,199
+2020-08-02,Oti Region,GH-OT,GH,1,200
+2020-08-03,Oti Region,GH-OT,GH,4,204
+2020-08-12,Oti Region,GH-OT,GH,9,213
+2020-08-16,Oti Region,GH-OT,GH,16,229
+2020-08-26,Oti Region,GH-OT,GH,1,230
+2020-08-28,Oti Region,GH-OT,GH,2,232
+2020-08-29,Oti Region,GH-OT,GH,2,234
+2020-09-02,Oti Region,GH-OT,GH,3,237
+2020-09-09,Oti Region,GH-OT,GH,1,238
+2020-09-11,Oti Region,GH-OT,GH,1,239
+2020-09-18,Oti Region,GH-OT,GH,2,241
+2020-09-24,Oti Region,GH-OT,GH,1,242
+2020-11-01,Oti Region,GH-OT,GH,1,243
+2020-12-12,Oti Region,GH-OT,GH,1,244
+2021-01-25,Oti Region,GH-OT,GH,2,246
+2021-02-05,Oti Region,GH-OT,GH,4,250
+2021-02-11,Oti Region,GH-OT,GH,4,254
+2021-02-12,Oti Region,GH-OT,GH,3,257
+2021-02-15,Oti Region,GH-OT,GH,1,258
+2021-02-18,Oti Region,GH-OT,GH,2,260
+2021-02-19,Oti Region,GH-OT,GH,12,272
+2021-02-25,Oti Region,GH-OT,GH,2,274
+2021-02-28,Oti Region,GH-OT,GH,6,280
+2021-03-01,Oti Region,GH-OT,GH,28,308
+2021-03-13,Oti Region,GH-OT,GH,45,353
+2021-03-14,Oti Region,GH-OT,GH,1,354
+2021-03-15,Oti Region,GH-OT,GH,6,360
+2021-03-16,Oti Region,GH-OT,GH,10,370
+2021-03-17,Oti Region,GH-OT,GH,6,376
+2021-03-20,Oti Region,GH-OT,GH,14,390
+2021-03-23,Oti Region,GH-OT,GH,2,392
+2021-03-24,Oti Region,GH-OT,GH,14,406
+2021-04-25,Oti Region,GH-OT,GH,9,415
+2021-04-26,Oti Region,GH-OT,GH,4,419
+2021-05-02,Oti Region,GH-OT,GH,3,422
+2021-05-06,Oti Region,GH-OT,GH,2,424
+2021-05-16,Oti Region,GH-OT,GH,7,431
+2021-05-27,Oti Region,GH-OT,GH,3,434
+2021-05-28,Oti Region,GH-OT,GH,1,435
+2021-05-30,Oti Region,GH-OT,GH,1,436
+2021-06-04,Oti Region,GH-OT,GH,4,440
+2021-06-05,Oti Region,GH-OT,GH,3,443
+2021-06-09,Oti Region,GH-OT,GH,4,447
+2021-06-12,Oti Region,GH-OT,GH,1,448
+2021-06-13,Oti Region,GH-OT,GH,7,455
+2021-06-16,Oti Region,GH-OT,GH,1,456
+2021-06-21,Oti Region,GH-OT,GH,1,457
+2021-06-22,Oti Region,GH-OT,GH,1,458
+2021-06-25,Oti Region,GH-OT,GH,1,459
+2021-06-29,Oti Region,GH-OT,GH,2,461
+2021-07-07,Oti Region,GH-OT,GH,2,463
+2021-07-17,Oti Region,GH-OT,GH,3,466
+2021-07-18,Oti Region,GH-OT,GH,1,467
+2021-07-20,Oti Region,GH-OT,GH,8,475
+2021-07-23,Oti Region,GH-OT,GH,1,476
+2021-07-26,Oti Region,GH-OT,GH,14,490
+2021-07-28,Oti Region,GH-OT,GH,30,520
+2021-07-29,Oti Region,GH-OT,GH,24,544
+2021-08-01,Oti Region,GH-OT,GH,1,545
+2021-08-03,Oti Region,GH-OT,GH,8,553
+2021-08-04,Oti Region,GH-OT,GH,24,577
+2021-08-07,Oti Region,GH-OT,GH,32,609
+2021-08-10,Oti Region,GH-OT,GH,9,618
+2021-08-14,Oti Region,GH-OT,GH,6,624
+2021-08-15,Oti Region,GH-OT,GH,1,625
+2021-08-17,Oti Region,GH-OT,GH,24,649
+2021-08-22,Oti Region,GH-OT,GH,38,687
+2021-08-23,Oti Region,GH-OT,GH,17,704
+2021-08-24,Oti Region,GH-OT,GH,13,717
+2021-08-26,Oti Region,GH-OT,GH,6,723
+2021-08-27,Oti Region,GH-OT,GH,10,733
+2021-08-29,Oti Region,GH-OT,GH,2,735
+2021-08-31,Oti Region,GH-OT,GH,8,743
+2021-09-01,Oti Region,GH-OT,GH,16,759
+2021-09-06,Oti Region,GH-OT,GH,12,771
+2021-09-07,Oti Region,GH-OT,GH,2,773
+2021-09-10,Oti Region,GH-OT,GH,44,817
+2021-09-12,Oti Region,GH-OT,GH,7,824
+2021-09-17,Oti Region,GH-OT,GH,3,827
+2021-09-19,Oti Region,GH-OT,GH,3,830
+2021-09-24,Oti Region,GH-OT,GH,4,834
+2021-10-05,Oti Region,GH-OT,GH,3,837
+2021-10-17,Oti Region,GH-OT,GH,9,846
+2021-11-02,Oti Region,GH-OT,GH,1,847
+2021-11-08,Oti Region,GH-OT,GH,1,848
+2021-12-26,Oti Region,GH-OT,GH,2,850
+2022-01-03,Oti Region,GH-OT,GH,8,858
+2022-01-04,Oti Region,GH-OT,GH,7,865
+2022-01-08,Oti Region,GH-OT,GH,24,889
+2022-01-09,Oti Region,GH-OT,GH,1,890
+2022-01-10,Oti Region,GH-OT,GH,24,914
+2022-01-20,Oti Region,GH-OT,GH,5,919
+2022-01-23,Oti Region,GH-OT,GH,1,920
+2022-01-24,Oti Region,GH-OT,GH,3,923
+2022-01-26,Oti Region,GH-OT,GH,5,928
+2022-02-04,Oti Region,GH-OT,GH,1,929
+2022-02-20,Oti Region,GH-OT,GH,1,930
+2022-05-17,Oti Region,GH-OT,GH,1,931
+2022-06-06,Oti Region,GH-OT,GH,1,932
+2022-06-12,Oti Region,GH-OT,GH,1,933
+2022-06-13,Oti Region,GH-OT,GH,1,934
+2022-06-14,Oti Region,GH-OT,GH,1,935
+2022-06-24,Oti Region,GH-OT,GH,5,940
+2022-06-27,Oti Region,GH-OT,GH,17,957
+2022-06-30,Oti Region,GH-OT,GH,2,959
+2022-07-03,Oti Region,GH-OT,GH,7,966
+2022-07-07,Oti Region,GH-OT,GH,3,969
+2022-07-12,Oti Region,GH-OT,GH,24,993
+2020-05-23,Savannah Region,GH-SV,GH,1,1
+2020-06-08,Savannah Region,GH-SV,GH,1,2
+2020-06-10,Savannah Region,GH-SV,GH,-1,1
+2020-06-15,Savannah Region,GH-SV,GH,34,35
+2020-06-17,Savannah Region,GH-SV,GH,2,37
+2020-06-23,Savannah Region,GH-SV,GH,1,38
+2020-06-27,Savannah Region,GH-SV,GH,1,39
+2020-06-30,Savannah Region,GH-SV,GH,3,42
+2020-07-02,Savannah Region,GH-SV,GH,4,46
+2020-07-04,Savannah Region,GH-SV,GH,4,50
+2020-07-07,Savannah Region,GH-SV,GH,1,51
+2020-07-10,Savannah Region,GH-SV,GH,6,57
+2020-07-30,Savannah Region,GH-SV,GH,5,62
+2020-11-19,Savannah Region,GH-SV,GH,4,66
+2020-11-20,Savannah Region,GH-SV,GH,-4,62
+2021-01-25,Savannah Region,GH-SV,GH,1,63
+2021-02-05,Savannah Region,GH-SV,GH,3,66
+2021-02-06,Savannah Region,GH-SV,GH,2,68
+2021-02-16,Savannah Region,GH-SV,GH,1,69
+2021-02-18,Savannah Region,GH-SV,GH,3,72
+2021-03-01,Savannah Region,GH-SV,GH,25,97
+2021-03-16,Savannah Region,GH-SV,GH,15,112
+2021-03-21,Savannah Region,GH-SV,GH,2,114
+2021-03-23,Savannah Region,GH-SV,GH,3,117
+2021-03-31,Savannah Region,GH-SV,GH,1,118
+2021-04-02,Savannah Region,GH-SV,GH,2,120
+2021-04-17,Savannah Region,GH-SV,GH,2,122
+2021-05-06,Savannah Region,GH-SV,GH,1,123
+2021-07-12,Savannah Region,GH-SV,GH,6,129
+2021-07-17,Savannah Region,GH-SV,GH,3,132
+2021-07-22,Savannah Region,GH-SV,GH,1,133
+2021-07-29,Savannah Region,GH-SV,GH,2,135
+2021-08-07,Savannah Region,GH-SV,GH,8,143
+2021-08-14,Savannah Region,GH-SV,GH,3,146
+2021-08-15,Savannah Region,GH-SV,GH,5,151
+2021-08-17,Savannah Region,GH-SV,GH,13,164
+2021-08-25,Savannah Region,GH-SV,GH,23,187
+2021-09-06,Savannah Region,GH-SV,GH,18,205
+2021-09-12,Savannah Region,GH-SV,GH,9,214
+2021-09-17,Savannah Region,GH-SV,GH,15,229
+2021-09-23,Savannah Region,GH-SV,GH,14,243
+2021-09-24,Savannah Region,GH-SV,GH,16,259
+2021-10-05,Savannah Region,GH-SV,GH,3,262
+2021-12-27,Savannah Region,GH-SV,GH,1,263
+2022-01-08,Savannah Region,GH-SV,GH,9,272
+2022-01-09,Savannah Region,GH-SV,GH,19,291
+2022-06-06,Savannah Region,GH-SV,GH,1,292
+2020-04-19,Volta Region,GH-TV,GH,1,1
+2020-04-27,Volta Region,GH-TV,GH,1,2
+2020-04-28,Volta Region,GH-TV,GH,5,7
+2020-05-06,Volta Region,GH-TV,GH,23,30
+2020-05-08,Volta Region,GH-TV,GH,2,32
+2020-05-12,Volta Region,GH-TV,GH,1,33
+2020-05-13,Volta Region,GH-TV,GH,1,34
+2020-05-19,Volta Region,GH-TV,GH,7,41
+2020-05-21,Volta Region,GH-TV,GH,3,44
+2020-05-22,Volta Region,GH-TV,GH,1,45
+2020-05-23,Volta Region,GH-TV,GH,2,47
+2020-05-26,Volta Region,GH-TV,GH,12,59
+2020-05-30,Volta Region,GH-TV,GH,12,71
+2020-05-31,Volta Region,GH-TV,GH,5,76
+2020-06-02,Volta Region,GH-TV,GH,8,84
+2020-06-03,Volta Region,GH-TV,GH,2,86
+2020-06-05,Volta Region,GH-TV,GH,16,102
+2020-06-09,Volta Region,GH-TV,GH,56,158
+2020-06-10,Volta Region,GH-TV,GH,4,162
+2020-06-11,Volta Region,GH-TV,GH,50,212
+2020-06-13,Volta Region,GH-TV,GH,38,250
+2020-06-14,Volta Region,GH-TV,GH,13,263
+2020-06-15,Volta Region,GH-TV,GH,11,274
+2020-06-16,Volta Region,GH-TV,GH,4,278
+2020-06-17,Volta Region,GH-TV,GH,13,291
+2020-06-18,Volta Region,GH-TV,GH,5,296
+2020-06-20,Volta Region,GH-TV,GH,13,309
+2020-06-21,Volta Region,GH-TV,GH,5,314
+2020-06-23,Volta Region,GH-TV,GH,7,321
+2020-06-25,Volta Region,GH-TV,GH,10,331
+2020-06-26,Volta Region,GH-TV,GH,4,335
+2020-06-27,Volta Region,GH-TV,GH,2,337
+2020-06-29,Volta Region,GH-TV,GH,9,346
+2020-07-01,Volta Region,GH-TV,GH,12,358
+2020-07-02,Volta Region,GH-TV,GH,4,362
+2020-07-03,Volta Region,GH-TV,GH,7,369
+2020-07-04,Volta Region,GH-TV,GH,1,370
+2020-07-06,Volta Region,GH-TV,GH,5,375
+2020-07-07,Volta Region,GH-TV,GH,3,378
+2020-07-08,Volta Region,GH-TV,GH,9,387
+2020-07-09,Volta Region,GH-TV,GH,3,390
+2020-07-10,Volta Region,GH-TV,GH,28,418
+2020-07-11,Volta Region,GH-TV,GH,1,419
+2020-07-15,Volta Region,GH-TV,GH,22,441
+2020-07-16,Volta Region,GH-TV,GH,16,457
+2020-07-17,Volta Region,GH-TV,GH,3,460
+2020-07-18,Volta Region,GH-TV,GH,32,492
+2020-07-19,Volta Region,GH-TV,GH,10,502
+2020-07-20,Volta Region,GH-TV,GH,9,511
+2020-07-21,Volta Region,GH-TV,GH,11,522
+2020-07-22,Volta Region,GH-TV,GH,16,538
+2020-07-24,Volta Region,GH-TV,GH,30,568
+2020-07-25,Volta Region,GH-TV,GH,9,577
+2020-07-26,Volta Region,GH-TV,GH,2,579
+2020-07-27,Volta Region,GH-TV,GH,9,588
+2020-07-29,Volta Region,GH-TV,GH,5,593
+2020-07-31,Volta Region,GH-TV,GH,12,605
+2020-08-01,Volta Region,GH-TV,GH,4,609
+2020-08-02,Volta Region,GH-TV,GH,1,610
+2020-08-03,Volta Region,GH-TV,GH,4,614
+2020-08-04,Volta Region,GH-TV,GH,3,617
+2020-08-09,Volta Region,GH-TV,GH,5,622
+2020-08-10,Volta Region,GH-TV,GH,1,623
+2020-08-11,Volta Region,GH-TV,GH,2,625
+2020-08-12,Volta Region,GH-TV,GH,1,626
+2020-08-13,Volta Region,GH-TV,GH,2,628
+2020-08-14,Volta Region,GH-TV,GH,2,630
+2020-08-15,Volta Region,GH-TV,GH,1,631
+2020-08-16,Volta Region,GH-TV,GH,11,642
+2020-08-18,Volta Region,GH-TV,GH,4,646
+2020-08-21,Volta Region,GH-TV,GH,5,651
+2020-08-22,Volta Region,GH-TV,GH,3,654
+2020-08-24,Volta Region,GH-TV,GH,2,656
+2020-08-29,Volta Region,GH-TV,GH,3,659
+2020-08-31,Volta Region,GH-TV,GH,3,662
+2020-09-02,Volta Region,GH-TV,GH,4,666
+2020-09-04,Volta Region,GH-TV,GH,1,667
+2020-09-05,Volta Region,GH-TV,GH,1,668
+2020-09-11,Volta Region,GH-TV,GH,1,669
+2020-09-20,Volta Region,GH-TV,GH,1,670
+2020-09-22,Volta Region,GH-TV,GH,1,671
+2020-09-25,Volta Region,GH-TV,GH,1,672
+2020-10-05,Volta Region,GH-TV,GH,1,673
+2020-10-12,Volta Region,GH-TV,GH,6,679
+2020-10-14,Volta Region,GH-TV,GH,1,680
+2020-10-17,Volta Region,GH-TV,GH,1,681
+2020-10-29,Volta Region,GH-TV,GH,1,682
+2020-11-01,Volta Region,GH-TV,GH,2,684
+2020-11-12,Volta Region,GH-TV,GH,1,685
+2020-11-25,Volta Region,GH-TV,GH,3,688
+2020-11-28,Volta Region,GH-TV,GH,6,694
+2020-12-01,Volta Region,GH-TV,GH,3,697
+2020-12-08,Volta Region,GH-TV,GH,4,701
+2020-12-09,Volta Region,GH-TV,GH,6,707
+2020-12-10,Volta Region,GH-TV,GH,6,713
+2020-12-13,Volta Region,GH-TV,GH,6,719
+2020-12-14,Volta Region,GH-TV,GH,9,728
+2020-12-15,Volta Region,GH-TV,GH,5,733
+2020-12-17,Volta Region,GH-TV,GH,2,735
+2020-12-21,Volta Region,GH-TV,GH,17,752
+2020-12-22,Volta Region,GH-TV,GH,4,756
+2020-12-25,Volta Region,GH-TV,GH,5,761
+2020-12-29,Volta Region,GH-TV,GH,2,763
+2021-01-03,Volta Region,GH-TV,GH,1,764
+2021-01-10,Volta Region,GH-TV,GH,7,771
+2021-01-17,Volta Region,GH-TV,GH,19,790
+2021-01-20,Volta Region,GH-TV,GH,18,808
+2021-01-23,Volta Region,GH-TV,GH,8,816
+2021-01-24,Volta Region,GH-TV,GH,32,848
+2021-01-25,Volta Region,GH-TV,GH,12,860
+2021-01-26,Volta Region,GH-TV,GH,26,886
+2021-01-27,Volta Region,GH-TV,GH,10,896
+2021-01-29,Volta Region,GH-TV,GH,48,944
+2021-01-31,Volta Region,GH-TV,GH,19,963
+2021-02-02,Volta Region,GH-TV,GH,25,988
+2021-02-03,Volta Region,GH-TV,GH,3,991
+2021-02-05,Volta Region,GH-TV,GH,23,1014
+2021-02-06,Volta Region,GH-TV,GH,35,1049
+2021-02-07,Volta Region,GH-TV,GH,43,1092
+2021-02-08,Volta Region,GH-TV,GH,39,1131
+2021-02-09,Volta Region,GH-TV,GH,50,1181
+2021-02-11,Volta Region,GH-TV,GH,47,1228
+2021-02-12,Volta Region,GH-TV,GH,95,1323
+2021-02-16,Volta Region,GH-TV,GH,63,1386
+2021-02-17,Volta Region,GH-TV,GH,29,1415
+2021-02-18,Volta Region,GH-TV,GH,43,1458
+2021-02-19,Volta Region,GH-TV,GH,66,1524
+2021-02-20,Volta Region,GH-TV,GH,35,1559
+2021-02-21,Volta Region,GH-TV,GH,36,1595
+2021-02-22,Volta Region,GH-TV,GH,49,1644
+2021-02-23,Volta Region,GH-TV,GH,8,1652
+2021-02-24,Volta Region,GH-TV,GH,18,1670
+2021-02-25,Volta Region,GH-TV,GH,22,1692
+2021-02-26,Volta Region,GH-TV,GH,14,1706
+2021-02-28,Volta Region,GH-TV,GH,108,1814
+2021-03-01,Volta Region,GH-TV,GH,277,2091
+2021-03-02,Volta Region,GH-TV,GH,20,2111
+2021-03-12,Volta Region,GH-TV,GH,23,2134
+2021-03-14,Volta Region,GH-TV,GH,22,2156
+2021-03-15,Volta Region,GH-TV,GH,23,2179
+2021-03-16,Volta Region,GH-TV,GH,20,2199
+2021-03-17,Volta Region,GH-TV,GH,19,2218
+2021-03-19,Volta Region,GH-TV,GH,38,2256
+2021-03-20,Volta Region,GH-TV,GH,33,2289
+2021-03-21,Volta Region,GH-TV,GH,29,2318
+2021-03-22,Volta Region,GH-TV,GH,12,2330
+2021-03-24,Volta Region,GH-TV,GH,16,2346
+2021-03-31,Volta Region,GH-TV,GH,25,2371
+2021-04-02,Volta Region,GH-TV,GH,3,2374
+2021-04-04,Volta Region,GH-TV,GH,11,2385
+2021-04-13,Volta Region,GH-TV,GH,23,2408
+2021-04-15,Volta Region,GH-TV,GH,3,2411
+2021-04-17,Volta Region,GH-TV,GH,1,2412
+2021-04-18,Volta Region,GH-TV,GH,7,2419
+2021-04-20,Volta Region,GH-TV,GH,13,2432
+2021-04-25,Volta Region,GH-TV,GH,4,2436
+2021-04-27,Volta Region,GH-TV,GH,13,2449
+2021-04-28,Volta Region,GH-TV,GH,2,2451
+2021-04-29,Volta Region,GH-TV,GH,4,2455
+2021-05-01,Volta Region,GH-TV,GH,4,2459
+2021-05-02,Volta Region,GH-TV,GH,4,2463
+2021-05-04,Volta Region,GH-TV,GH,4,2467
+2021-05-06,Volta Region,GH-TV,GH,2,2469
+2021-05-12,Volta Region,GH-TV,GH,10,2479
+2021-05-14,Volta Region,GH-TV,GH,14,2493
+2021-05-16,Volta Region,GH-TV,GH,3,2496
+2021-05-17,Volta Region,GH-TV,GH,5,2501
+2021-05-22,Volta Region,GH-TV,GH,15,2516
+2021-05-23,Volta Region,GH-TV,GH,3,2519
+2021-05-24,Volta Region,GH-TV,GH,5,2524
+2021-05-25,Volta Region,GH-TV,GH,5,2529
+2021-05-30,Volta Region,GH-TV,GH,3,2532
+2021-06-04,Volta Region,GH-TV,GH,17,2549
+2021-06-05,Volta Region,GH-TV,GH,4,2553
+2021-06-09,Volta Region,GH-TV,GH,6,2559
+2021-06-13,Volta Region,GH-TV,GH,21,2580
+2021-06-21,Volta Region,GH-TV,GH,12,2592
+2021-06-22,Volta Region,GH-TV,GH,3,2595
+2021-06-25,Volta Region,GH-TV,GH,2,2597
+2021-06-26,Volta Region,GH-TV,GH,8,2605
+2021-06-28,Volta Region,GH-TV,GH,4,2609
+2021-06-29,Volta Region,GH-TV,GH,2,2611
+2021-06-30,Volta Region,GH-TV,GH,1,2612
+2021-07-06,Volta Region,GH-TV,GH,5,2617
+2021-07-11,Volta Region,GH-TV,GH,4,2621
+2021-07-12,Volta Region,GH-TV,GH,15,2636
+2021-07-16,Volta Region,GH-TV,GH,7,2643
+2021-07-17,Volta Region,GH-TV,GH,7,2650
+2021-07-18,Volta Region,GH-TV,GH,14,2664
+2021-07-19,Volta Region,GH-TV,GH,10,2674
+2021-07-20,Volta Region,GH-TV,GH,21,2695
+2021-07-21,Volta Region,GH-TV,GH,9,2704
+2021-07-23,Volta Region,GH-TV,GH,2,2706
+2021-07-24,Volta Region,GH-TV,GH,15,2721
+2021-07-25,Volta Region,GH-TV,GH,80,2801
+2021-07-26,Volta Region,GH-TV,GH,57,2858
+2021-07-28,Volta Region,GH-TV,GH,43,2901
+2021-07-29,Volta Region,GH-TV,GH,124,3025
+2021-08-01,Volta Region,GH-TV,GH,75,3100
+2021-08-02,Volta Region,GH-TV,GH,50,3150
+2021-08-03,Volta Region,GH-TV,GH,27,3177
+2021-08-04,Volta Region,GH-TV,GH,171,3348
+2021-08-05,Volta Region,GH-TV,GH,4,3352
+2021-08-07,Volta Region,GH-TV,GH,132,3484
+2021-08-08,Volta Region,GH-TV,GH,12,3496
+2021-08-10,Volta Region,GH-TV,GH,41,3537
+2021-08-11,Volta Region,GH-TV,GH,3,3540
+2021-08-12,Volta Region,GH-TV,GH,8,3548
+2021-08-13,Volta Region,GH-TV,GH,8,3556
+2021-08-14,Volta Region,GH-TV,GH,42,3598
+2021-08-15,Volta Region,GH-TV,GH,17,3615
+2021-08-17,Volta Region,GH-TV,GH,62,3677
+2021-08-19,Volta Region,GH-TV,GH,49,3726
+2021-08-21,Volta Region,GH-TV,GH,45,3771
+2021-08-22,Volta Region,GH-TV,GH,10,3781
+2021-08-23,Volta Region,GH-TV,GH,76,3857
+2021-08-24,Volta Region,GH-TV,GH,69,3926
+2021-08-25,Volta Region,GH-TV,GH,121,4047
+2021-08-26,Volta Region,GH-TV,GH,64,4111
+2021-08-27,Volta Region,GH-TV,GH,65,4176
+2021-08-28,Volta Region,GH-TV,GH,33,4209
+2021-08-29,Volta Region,GH-TV,GH,120,4329
+2021-08-30,Volta Region,GH-TV,GH,100,4429
+2021-09-01,Volta Region,GH-TV,GH,81,4510
+2021-09-06,Volta Region,GH-TV,GH,79,4589
+2021-09-07,Volta Region,GH-TV,GH,132,4721
+2021-09-12,Volta Region,GH-TV,GH,75,4796
+2021-09-17,Volta Region,GH-TV,GH,39,4835
+2021-09-18,Volta Region,GH-TV,GH,29,4864
+2021-09-20,Volta Region,GH-TV,GH,69,4933
+2021-09-22,Volta Region,GH-TV,GH,57,4990
+2021-09-23,Volta Region,GH-TV,GH,19,5009
+2021-09-24,Volta Region,GH-TV,GH,23,5032
+2021-09-30,Volta Region,GH-TV,GH,52,5084
+2021-10-05,Volta Region,GH-TV,GH,94,5178
+2021-10-06,Volta Region,GH-TV,GH,4,5182
+2021-10-17,Volta Region,GH-TV,GH,94,5276
+2021-10-18,Volta Region,GH-TV,GH,13,5289
+2021-10-22,Volta Region,GH-TV,GH,12,5301
+2021-10-25,Volta Region,GH-TV,GH,2,5303
+2021-11-02,Volta Region,GH-TV,GH,8,5311
+2021-11-03,Volta Region,GH-TV,GH,4,5315
+2021-11-08,Volta Region,GH-TV,GH,35,5350
+2021-11-11,Volta Region,GH-TV,GH,7,5357
+2021-11-23,Volta Region,GH-TV,GH,32,5389
+2021-12-06,Volta Region,GH-TV,GH,22,5411
+2021-12-10,Volta Region,GH-TV,GH,1,5412
+2021-12-15,Volta Region,GH-TV,GH,13,5425
+2021-12-23,Volta Region,GH-TV,GH,2,5427
+2021-12-26,Volta Region,GH-TV,GH,20,5447
+2021-12-27,Volta Region,GH-TV,GH,67,5514
+2021-12-29,Volta Region,GH-TV,GH,32,5546
+2021-12-30,Volta Region,GH-TV,GH,26,5572
+2021-12-31,Volta Region,GH-TV,GH,49,5621
+2022-01-05,Volta Region,GH-TV,GH,99,5720
+2022-01-08,Volta Region,GH-TV,GH,24,5744
+2022-01-12,Volta Region,GH-TV,GH,86,5830
+2022-01-17,Volta Region,GH-TV,GH,39,5869
+2022-01-23,Volta Region,GH-TV,GH,21,5890
+2022-01-26,Volta Region,GH-TV,GH,27,5917
+2022-01-27,Volta Region,GH-TV,GH,9,5926
+2022-02-03,Volta Region,GH-TV,GH,3,5929
+2022-02-04,Volta Region,GH-TV,GH,3,5932
+2022-02-16,Volta Region,GH-TV,GH,10,5942
+2022-02-17,Volta Region,GH-TV,GH,5,5947
+2022-02-28,Volta Region,GH-TV,GH,7,5954
+2022-03-10,Volta Region,GH-TV,GH,9,5963
+2022-03-11,Volta Region,GH-TV,GH,2,5965
+2022-03-13,Volta Region,GH-TV,GH,8,5973
+2022-03-19,Volta Region,GH-TV,GH,15,5988
+2022-03-22,Volta Region,GH-TV,GH,5,5993
+2022-03-26,Volta Region,GH-TV,GH,5,5998
+2022-04-04,Volta Region,GH-TV,GH,14,6012
+2022-04-06,Volta Region,GH-TV,GH,2,6014
+2022-04-07,Volta Region,GH-TV,GH,1,6015
+2022-04-10,Volta Region,GH-TV,GH,1,6016
+2022-04-19,Volta Region,GH-TV,GH,4,6020
+2022-05-01,Volta Region,GH-TV,GH,4,6024
+2022-06-06,Volta Region,GH-TV,GH,3,6027
+2022-06-13,Volta Region,GH-TV,GH,1,6028
+2022-06-19,Volta Region,GH-TV,GH,13,6041
+2022-06-20,Volta Region,GH-TV,GH,6,6047
+2022-06-27,Volta Region,GH-TV,GH,10,6057
+2022-06-30,Volta Region,GH-TV,GH,25,6082
+2022-07-03,Volta Region,GH-TV,GH,28,6110
+2022-07-12,Volta Region,GH-TV,GH,1,6111
+2020-04-03,Upper East Region,GH-UE,GH,1,1
+2020-04-18,Upper East Region,GH-UE,GH,4,5
+2020-04-27,Upper East Region,GH-UE,GH,10,15
+2020-04-28,Upper East Region,GH-UE,GH,1,16
+2020-05-06,Upper East Region,GH-UE,GH,10,26
+2020-06-03,Upper East Region,GH-UE,GH,16,42
+2020-06-11,Upper East Region,GH-UE,GH,86,128
+2020-06-14,Upper East Region,GH-UE,GH,113,241
+2020-06-20,Upper East Region,GH-UE,GH,30,271
+2020-06-27,Upper East Region,GH-UE,GH,3,274
+2020-07-02,Upper East Region,GH-UE,GH,4,278
+2020-07-07,Upper East Region,GH-UE,GH,4,282
+2020-09-08,Upper East Region,GH-UE,GH,3,285
+2020-09-11,Upper East Region,GH-UE,GH,6,291
+2020-09-22,Upper East Region,GH-UE,GH,4,295
+2020-10-02,Upper East Region,GH-UE,GH,16,311
+2020-10-03,Upper East Region,GH-UE,GH,4,315
+2020-10-05,Upper East Region,GH-UE,GH,5,320
+2020-10-06,Upper East Region,GH-UE,GH,3,323
+2020-10-26,Upper East Region,GH-UE,GH,8,331
+2020-10-29,Upper East Region,GH-UE,GH,27,358
+2020-11-12,Upper East Region,GH-UE,GH,1,359
+2020-11-28,Upper East Region,GH-UE,GH,1,360
+2020-12-06,Upper East Region,GH-UE,GH,3,363
+2020-12-08,Upper East Region,GH-UE,GH,6,369
+2020-12-09,Upper East Region,GH-UE,GH,3,372
+2020-12-17,Upper East Region,GH-UE,GH,5,377
+2020-12-21,Upper East Region,GH-UE,GH,2,379
+2020-12-25,Upper East Region,GH-UE,GH,5,384
+2020-12-30,Upper East Region,GH-UE,GH,2,386
+2021-01-03,Upper East Region,GH-UE,GH,3,389
+2021-01-10,Upper East Region,GH-UE,GH,2,391
+2021-01-13,Upper East Region,GH-UE,GH,8,399
+2021-01-21,Upper East Region,GH-UE,GH,39,438
+2021-01-23,Upper East Region,GH-UE,GH,26,464
+2021-01-24,Upper East Region,GH-UE,GH,38,502
+2021-01-25,Upper East Region,GH-UE,GH,75,577
+2021-01-31,Upper East Region,GH-UE,GH,129,706
+2021-02-02,Upper East Region,GH-UE,GH,7,713
+2021-02-04,Upper East Region,GH-UE,GH,29,742
+2021-02-05,Upper East Region,GH-UE,GH,13,755
+2021-02-15,Upper East Region,GH-UE,GH,59,814
+2021-02-18,Upper East Region,GH-UE,GH,82,896
+2021-02-19,Upper East Region,GH-UE,GH,68,964
+2021-02-20,Upper East Region,GH-UE,GH,30,994
+2021-02-23,Upper East Region,GH-UE,GH,99,1093
+2021-02-26,Upper East Region,GH-UE,GH,45,1138
+2021-02-28,Upper East Region,GH-UE,GH,37,1175
+2021-03-01,Upper East Region,GH-UE,GH,57,1232
+2021-03-13,Upper East Region,GH-UE,GH,14,1246
+2021-03-14,Upper East Region,GH-UE,GH,25,1271
+2021-03-15,Upper East Region,GH-UE,GH,6,1277
+2021-03-20,Upper East Region,GH-UE,GH,11,1288
+2021-03-21,Upper East Region,GH-UE,GH,6,1294
+2021-03-23,Upper East Region,GH-UE,GH,2,1296
+2021-03-24,Upper East Region,GH-UE,GH,5,1301
+2021-03-31,Upper East Region,GH-UE,GH,3,1304
+2021-04-02,Upper East Region,GH-UE,GH,1,1305
+2021-04-07,Upper East Region,GH-UE,GH,2,1307
+2021-04-13,Upper East Region,GH-UE,GH,2,1309
+2021-04-17,Upper East Region,GH-UE,GH,2,1311
+2021-04-25,Upper East Region,GH-UE,GH,3,1314
+2021-04-27,Upper East Region,GH-UE,GH,4,1318
+2021-05-04,Upper East Region,GH-UE,GH,1,1319
+2021-05-22,Upper East Region,GH-UE,GH,1,1320
+2021-07-18,Upper East Region,GH-UE,GH,1,1321
+2021-07-19,Upper East Region,GH-UE,GH,1,1322
+2021-07-20,Upper East Region,GH-UE,GH,1,1323
+2021-07-26,Upper East Region,GH-UE,GH,1,1324
+2021-07-27,Upper East Region,GH-UE,GH,1,1325
+2021-07-29,Upper East Region,GH-UE,GH,1,1326
+2021-08-02,Upper East Region,GH-UE,GH,2,1328
+2021-08-07,Upper East Region,GH-UE,GH,1,1329
+2021-08-14,Upper East Region,GH-UE,GH,3,1332
+2021-08-15,Upper East Region,GH-UE,GH,4,1336
+2021-08-17,Upper East Region,GH-UE,GH,1,1337
+2021-08-21,Upper East Region,GH-UE,GH,1,1338
+2021-08-22,Upper East Region,GH-UE,GH,1,1339
+2021-08-24,Upper East Region,GH-UE,GH,1,1340
+2021-08-25,Upper East Region,GH-UE,GH,9,1349
+2021-08-26,Upper East Region,GH-UE,GH,3,1352
+2021-08-29,Upper East Region,GH-UE,GH,7,1359
+2021-08-30,Upper East Region,GH-UE,GH,1,1360
+2021-08-31,Upper East Region,GH-UE,GH,3,1363
+2021-09-01,Upper East Region,GH-UE,GH,7,1370
+2021-09-06,Upper East Region,GH-UE,GH,10,1380
+2021-09-07,Upper East Region,GH-UE,GH,10,1390
+2021-09-08,Upper East Region,GH-UE,GH,3,1393
+2021-09-12,Upper East Region,GH-UE,GH,9,1402
+2021-09-17,Upper East Region,GH-UE,GH,24,1426
+2021-09-24,Upper East Region,GH-UE,GH,20,1446
+2021-09-30,Upper East Region,GH-UE,GH,8,1454
+2021-11-08,Upper East Region,GH-UE,GH,29,1483
+2021-11-16,Upper East Region,GH-UE,GH,1,1484
+2021-12-06,Upper East Region,GH-UE,GH,10,1494
+2021-12-11,Upper East Region,GH-UE,GH,1,1495
+2021-12-26,Upper East Region,GH-UE,GH,1,1496
+2021-12-27,Upper East Region,GH-UE,GH,18,1514
+2021-12-29,Upper East Region,GH-UE,GH,17,1531
+2021-12-31,Upper East Region,GH-UE,GH,12,1543
+2022-01-01,Upper East Region,GH-UE,GH,3,1546
+2022-01-03,Upper East Region,GH-UE,GH,31,1577
+2022-01-04,Upper East Region,GH-UE,GH,18,1595
+2022-01-05,Upper East Region,GH-UE,GH,2,1597
+2022-01-08,Upper East Region,GH-UE,GH,12,1609
+2022-01-09,Upper East Region,GH-UE,GH,2,1611
+2022-01-10,Upper East Region,GH-UE,GH,33,1644
+2022-01-11,Upper East Region,GH-UE,GH,12,1656
+2022-01-12,Upper East Region,GH-UE,GH,20,1676
+2022-01-17,Upper East Region,GH-UE,GH,15,1691
+2022-01-18,Upper East Region,GH-UE,GH,3,1694
+2022-01-20,Upper East Region,GH-UE,GH,3,1697
+2022-01-23,Upper East Region,GH-UE,GH,3,1700
+2022-01-24,Upper East Region,GH-UE,GH,12,1712
+2022-01-25,Upper East Region,GH-UE,GH,1,1713
+2022-02-03,Upper East Region,GH-UE,GH,17,1730
+2022-02-04,Upper East Region,GH-UE,GH,3,1733
+2022-03-10,Upper East Region,GH-UE,GH,1,1734
+2022-03-17,Upper East Region,GH-UE,GH,1,1735
+2022-04-19,Upper East Region,GH-UE,GH,1,1736
+2022-04-25,Upper East Region,GH-UE,GH,4,1740
+2022-06-12,Upper East Region,GH-UE,GH,1,1741
+2022-06-13,Upper East Region,GH-UE,GH,3,1744
+2022-06-15,Upper East Region,GH-UE,GH,1,1745
+2022-06-19,Upper East Region,GH-UE,GH,1,1746
+2022-06-27,Upper East Region,GH-UE,GH,7,1753
+2022-06-30,Upper East Region,GH-UE,GH,7,1760
+2022-07-03,Upper East Region,GH-UE,GH,2,1762
+2022-07-07,Upper East Region,GH-UE,GH,6,1768
+2022-07-12,Upper East Region,GH-UE,GH,8,1776
+2020-03-27,Upper West Region,GH-UW,GH,1,1
+2020-04-18,Upper West Region,GH-UW,GH,1,2
+2020-04-28,Upper West Region,GH-UW,GH,2,4
+2020-05-06,Upper West Region,GH-UW,GH,15,19
+2020-05-08,Upper West Region,GH-UW,GH,1,20
+2020-05-11,Upper West Region,GH-UW,GH,1,21
+2020-05-26,Upper West Region,GH-UW,GH,1,22
+2020-06-08,Upper West Region,GH-UW,GH,22,44
+2020-06-10,Upper West Region,GH-UW,GH,-22,22
+2020-06-15,Upper West Region,GH-UW,GH,10,32
+2020-06-21,Upper West Region,GH-UW,GH,3,35
+2020-06-28,Upper West Region,GH-UW,GH,5,40
+2020-07-01,Upper West Region,GH-UW,GH,15,55
+2020-07-04,Upper West Region,GH-UW,GH,3,58
+2020-07-06,Upper West Region,GH-UW,GH,12,70
+2020-07-16,Upper West Region,GH-UW,GH,1,71
+2020-07-18,Upper West Region,GH-UW,GH,3,74
+2020-07-20,Upper West Region,GH-UW,GH,1,75
+2020-07-26,Upper West Region,GH-UW,GH,4,79
+2020-07-30,Upper West Region,GH-UW,GH,9,88
+2020-09-02,Upper West Region,GH-UW,GH,2,90
+2020-12-14,Upper West Region,GH-UW,GH,1,91
+2020-12-28,Upper West Region,GH-UW,GH,3,94
+2020-12-29,Upper West Region,GH-UW,GH,3,97
+2021-01-10,Upper West Region,GH-UW,GH,15,112
+2021-01-17,Upper West Region,GH-UW,GH,14,126
+2021-01-20,Upper West Region,GH-UW,GH,10,136
+2021-01-21,Upper West Region,GH-UW,GH,16,152
+2021-01-25,Upper West Region,GH-UW,GH,9,161
+2021-01-26,Upper West Region,GH-UW,GH,10,171
+2021-01-27,Upper West Region,GH-UW,GH,15,186
+2021-01-29,Upper West Region,GH-UW,GH,2,188
+2021-01-31,Upper West Region,GH-UW,GH,7,195
+2021-02-02,Upper West Region,GH-UW,GH,16,211
+2021-02-03,Upper West Region,GH-UW,GH,2,213
+2021-02-04,Upper West Region,GH-UW,GH,7,220
+2021-02-07,Upper West Region,GH-UW,GH,5,225
+2021-02-08,Upper West Region,GH-UW,GH,14,239
+2021-02-10,Upper West Region,GH-UW,GH,12,251
+2021-02-11,Upper West Region,GH-UW,GH,3,254
+2021-02-12,Upper West Region,GH-UW,GH,3,257
+2021-02-16,Upper West Region,GH-UW,GH,50,307
+2021-02-18,Upper West Region,GH-UW,GH,21,328
+2021-02-19,Upper West Region,GH-UW,GH,11,339
+2021-02-20,Upper West Region,GH-UW,GH,18,357
+2021-02-22,Upper West Region,GH-UW,GH,17,374
+2021-02-23,Upper West Region,GH-UW,GH,3,377
+2021-02-28,Upper West Region,GH-UW,GH,25,402
+2021-03-01,Upper West Region,GH-UW,GH,42,444
+2021-03-16,Upper West Region,GH-UW,GH,12,456
+2021-03-20,Upper West Region,GH-UW,GH,17,473
+2021-03-22,Upper West Region,GH-UW,GH,2,475
+2021-03-23,Upper West Region,GH-UW,GH,2,477
+2021-03-24,Upper West Region,GH-UW,GH,6,483
+2021-04-02,Upper West Region,GH-UW,GH,1,484
+2021-04-04,Upper West Region,GH-UW,GH,7,491
+2021-04-09,Upper West Region,GH-UW,GH,2,493
+2021-04-20,Upper West Region,GH-UW,GH,1,494
+2021-04-25,Upper West Region,GH-UW,GH,1,495
+2021-05-01,Upper West Region,GH-UW,GH,1,496
+2021-05-04,Upper West Region,GH-UW,GH,2,498
+2021-05-06,Upper West Region,GH-UW,GH,1,499
+2021-05-31,Upper West Region,GH-UW,GH,1,500
+2021-08-07,Upper West Region,GH-UW,GH,14,514
+2021-08-08,Upper West Region,GH-UW,GH,1,515
+2021-08-14,Upper West Region,GH-UW,GH,1,516
+2021-08-15,Upper West Region,GH-UW,GH,2,518
+2021-08-17,Upper West Region,GH-UW,GH,1,519
+2021-08-22,Upper West Region,GH-UW,GH,4,523
+2021-08-24,Upper West Region,GH-UW,GH,7,530
+2021-08-28,Upper West Region,GH-UW,GH,26,556
+2021-08-29,Upper West Region,GH-UW,GH,19,575
+2021-09-06,Upper West Region,GH-UW,GH,20,595
+2021-09-07,Upper West Region,GH-UW,GH,12,607
+2021-09-17,Upper West Region,GH-UW,GH,11,618
+2021-09-18,Upper West Region,GH-UW,GH,35,653
+2021-09-19,Upper West Region,GH-UW,GH,37,690
+2021-09-22,Upper West Region,GH-UW,GH,5,695
+2021-09-30,Upper West Region,GH-UW,GH,10,705
+2021-10-05,Upper West Region,GH-UW,GH,22,727
+2021-10-17,Upper West Region,GH-UW,GH,12,739
+2021-11-11,Upper West Region,GH-UW,GH,4,743
+2021-12-27,Upper West Region,GH-UW,GH,4,747
+2022-01-09,Upper West Region,GH-UW,GH,58,805
+2022-01-23,Upper West Region,GH-UW,GH,46,851
+2022-01-24,Upper West Region,GH-UW,GH,26,877
+2022-01-25,Upper West Region,GH-UW,GH,11,888
+2022-02-03,Upper West Region,GH-UW,GH,6,894
+2022-02-04,Upper West Region,GH-UW,GH,1,895
+2022-06-13,Upper West Region,GH-UW,GH,3,898
+2022-06-14,Upper West Region,GH-UW,GH,3,901
+2022-06-19,Upper West Region,GH-UW,GH,3,904
+2022-06-20,Upper West Region,GH-UW,GH,2,906
+2022-06-24,Upper West Region,GH-UW,GH,2,908
+2022-06-27,Upper West Region,GH-UW,GH,4,912
+2022-06-30,Upper West Region,GH-UW,GH,6,918
+2020-04-22,Western North Region,GH-WN,GH,1,1
+2020-05-01,Western North Region,GH-WN,GH,3,4
+2020-05-06,Western North Region,GH-WN,GH,52,56
+2020-05-14,Western North Region,GH-WN,GH,1,57
+2020-05-22,Western North Region,GH-WN,GH,4,61
+2020-05-25,Western North Region,GH-WN,GH,1,62
+2020-05-29,Western North Region,GH-WN,GH,1,63
+2020-05-30,Western North Region,GH-WN,GH,4,67
+2020-05-31,Western North Region,GH-WN,GH,1,68
+2020-06-04,Western North Region,GH-WN,GH,5,73
+2020-06-06,Western North Region,GH-WN,GH,1,74
+2020-06-11,Western North Region,GH-WN,GH,5,79
+2020-06-14,Western North Region,GH-WN,GH,2,81
+2020-06-18,Western North Region,GH-WN,GH,1,82
+2020-06-23,Western North Region,GH-WN,GH,10,92
+2020-06-24,Western North Region,GH-WN,GH,2,94
+2020-06-28,Western North Region,GH-WN,GH,8,102
+2020-07-01,Western North Region,GH-WN,GH,25,127
+2020-07-02,Western North Region,GH-WN,GH,27,154
+2020-07-04,Western North Region,GH-WN,GH,4,158
+2020-07-07,Western North Region,GH-WN,GH,-2,156
+2020-07-08,Western North Region,GH-WN,GH,17,173
+2020-07-10,Western North Region,GH-WN,GH,27,200
+2020-07-16,Western North Region,GH-WN,GH,16,216
+2020-07-21,Western North Region,GH-WN,GH,67,283
+2020-07-22,Western North Region,GH-WN,GH,3,286
+2020-07-23,Western North Region,GH-WN,GH,12,298
+2020-07-26,Western North Region,GH-WN,GH,55,353
+2020-07-27,Western North Region,GH-WN,GH,10,363
+2020-07-31,Western North Region,GH-WN,GH,30,393
+2020-08-01,Western North Region,GH-WN,GH,127,520
+2020-08-02,Western North Region,GH-WN,GH,6,526
+2020-08-04,Western North Region,GH-WN,GH,31,557
+2020-08-09,Western North Region,GH-WN,GH,11,568
+2020-08-12,Western North Region,GH-WN,GH,12,580
+2020-08-18,Western North Region,GH-WN,GH,18,598
+2020-08-25,Western North Region,GH-WN,GH,6,604
+2020-08-27,Western North Region,GH-WN,GH,10,614
+2020-08-29,Western North Region,GH-WN,GH,5,619
+2020-09-05,Western North Region,GH-WN,GH,19,638
+2020-10-05,Western North Region,GH-WN,GH,6,644
+2020-10-14,Western North Region,GH-WN,GH,2,646
+2020-10-26,Western North Region,GH-WN,GH,5,651
+2020-11-03,Western North Region,GH-WN,GH,2,653
+2020-11-12,Western North Region,GH-WN,GH,4,657
+2020-11-18,Western North Region,GH-WN,GH,2,659
+2020-11-28,Western North Region,GH-WN,GH,2,661
+2020-11-30,Western North Region,GH-WN,GH,1,662
+2020-12-21,Western North Region,GH-WN,GH,3,665
+2021-01-10,Western North Region,GH-WN,GH,3,668
+2021-01-17,Western North Region,GH-WN,GH,15,683
+2021-01-20,Western North Region,GH-WN,GH,6,689
+2021-01-25,Western North Region,GH-WN,GH,6,695
+2021-01-29,Western North Region,GH-WN,GH,16,711
+2021-02-02,Western North Region,GH-WN,GH,1,712
+2021-02-07,Western North Region,GH-WN,GH,17,729
+2021-02-09,Western North Region,GH-WN,GH,8,737
+2021-02-12,Western North Region,GH-WN,GH,10,747
+2021-02-16,Western North Region,GH-WN,GH,26,773
+2021-02-19,Western North Region,GH-WN,GH,20,793
+2021-02-20,Western North Region,GH-WN,GH,4,797
+2021-03-01,Western North Region,GH-WN,GH,11,808
+2021-03-12,Western North Region,GH-WN,GH,25,833
+2021-03-14,Western North Region,GH-WN,GH,1,834
+2021-03-19,Western North Region,GH-WN,GH,5,839
+2021-03-20,Western North Region,GH-WN,GH,7,846
+2021-03-24,Western North Region,GH-WN,GH,2,848
+2021-03-31,Western North Region,GH-WN,GH,1,849
+2021-04-02,Western North Region,GH-WN,GH,2,851
+2021-04-06,Western North Region,GH-WN,GH,2,853
+2021-04-07,Western North Region,GH-WN,GH,1,854
+2021-04-17,Western North Region,GH-WN,GH,5,859
+2021-04-19,Western North Region,GH-WN,GH,2,861
+2021-04-25,Western North Region,GH-WN,GH,3,864
+2021-04-27,Western North Region,GH-WN,GH,3,867
+2021-05-01,Western North Region,GH-WN,GH,5,872
+2021-05-04,Western North Region,GH-WN,GH,2,874
+2021-05-12,Western North Region,GH-WN,GH,2,876
+2021-05-25,Western North Region,GH-WN,GH,12,888
+2021-06-13,Western North Region,GH-WN,GH,16,904
+2021-06-28,Western North Region,GH-WN,GH,12,916
+2021-06-29,Western North Region,GH-WN,GH,3,919
+2021-07-17,Western North Region,GH-WN,GH,4,923
+2021-07-18,Western North Region,GH-WN,GH,12,935
+2021-07-25,Western North Region,GH-WN,GH,2,937
+2021-08-07,Western North Region,GH-WN,GH,2,939
+2021-08-12,Western North Region,GH-WN,GH,4,943
+2021-08-19,Western North Region,GH-WN,GH,4,947
+2021-08-25,Western North Region,GH-WN,GH,9,956
+2021-09-06,Western North Region,GH-WN,GH,11,967
+2021-09-08,Western North Region,GH-WN,GH,21,988
+2021-09-17,Western North Region,GH-WN,GH,6,994
+2021-09-22,Western North Region,GH-WN,GH,5,999
+2021-10-05,Western North Region,GH-WN,GH,4,1003
+2021-10-17,Western North Region,GH-WN,GH,2,1005
+2021-10-22,Western North Region,GH-WN,GH,1,1006
+2021-12-26,Western North Region,GH-WN,GH,17,1023
+2021-12-27,Western North Region,GH-WN,GH,2,1025
+2021-12-29,Western North Region,GH-WN,GH,24,1049
+2022-01-08,Western North Region,GH-WN,GH,29,1078
+2022-01-09,Western North Region,GH-WN,GH,16,1094
+2022-02-04,Western North Region,GH-WN,GH,14,1108
+2022-02-16,Western North Region,GH-WN,GH,1,1109
+2022-03-10,Western North Region,GH-WN,GH,3,1112
+2022-06-06,Western North Region,GH-WN,GH,5,1117
+2022-06-20,Western North Region,GH-WN,GH,10,1127
+2022-06-30,Western North Region,GH-WN,GH,7,1134
+2020-04-27,Western Region,GH-WP,GH,8,8
+2020-05-06,Western Region,GH-WP,GH,24,32
+2020-05-08,Western Region,GH-WP,GH,3,35
+2020-05-11,Western Region,GH-WP,GH,14,49
+2020-05-12,Western Region,GH-WP,GH,3,52
+2020-05-13,Western Region,GH-WP,GH,9,61
+2020-05-15,Western Region,GH-WP,GH,26,87
+2020-05-16,Western Region,GH-WP,GH,11,98
+2020-05-19,Western Region,GH-WP,GH,13,111
+2020-05-20,Western Region,GH-WP,GH,59,170
+2020-05-21,Western Region,GH-WP,GH,25,195
+2020-05-22,Western Region,GH-WP,GH,13,208
+2020-05-23,Western Region,GH-WP,GH,2,210
+2020-05-25,Western Region,GH-WP,GH,67,277
+2020-05-26,Western Region,GH-WP,GH,67,344
+2020-05-29,Western Region,GH-WP,GH,51,395
+2020-05-30,Western Region,GH-WP,GH,26,421
+2020-06-02,Western Region,GH-WP,GH,15,436
+2020-06-03,Western Region,GH-WP,GH,13,449
+2020-06-04,Western Region,GH-WP,GH,7,456
+2020-06-05,Western Region,GH-WP,GH,63,519
+2020-06-06,Western Region,GH-WP,GH,105,624
+2020-06-08,Western Region,GH-WP,GH,145,769
+2020-06-09,Western Region,GH-WP,GH,9,778
+2020-06-11,Western Region,GH-WP,GH,96,874
+2020-06-12,Western Region,GH-WP,GH,35,909
+2020-06-13,Western Region,GH-WP,GH,42,951
+2020-06-14,Western Region,GH-WP,GH,25,976
+2020-06-15,Western Region,GH-WP,GH,17,993
+2020-06-17,Western Region,GH-WP,GH,58,1051
+2020-06-18,Western Region,GH-WP,GH,2,1053
+2020-06-20,Western Region,GH-WP,GH,89,1142
+2020-06-21,Western Region,GH-WP,GH,6,1148
+2020-06-23,Western Region,GH-WP,GH,65,1213
+2020-06-24,Western Region,GH-WP,GH,44,1257
+2020-06-25,Western Region,GH-WP,GH,19,1276
+2020-06-26,Western Region,GH-WP,GH,153,1429
+2020-06-27,Western Region,GH-WP,GH,2,1431
+2020-06-28,Western Region,GH-WP,GH,125,1556
+2020-07-01,Western Region,GH-WP,GH,106,1662
+2020-07-02,Western Region,GH-WP,GH,67,1729
+2020-07-03,Western Region,GH-WP,GH,117,1846
+2020-07-04,Western Region,GH-WP,GH,86,1932
+2020-07-05,Western Region,GH-WP,GH,113,2045
+2020-07-06,Western Region,GH-WP,GH,6,2051
+2020-07-07,Western Region,GH-WP,GH,1,2052
+2020-07-08,Western Region,GH-WP,GH,76,2128
+2020-07-10,Western Region,GH-WP,GH,12,2140
+2020-07-11,Western Region,GH-WP,GH,49,2189
+2020-07-15,Western Region,GH-WP,GH,1,2190
+2020-07-16,Western Region,GH-WP,GH,16,2206
+2020-07-17,Western Region,GH-WP,GH,12,2218
+2020-07-19,Western Region,GH-WP,GH,35,2253
+2020-07-20,Western Region,GH-WP,GH,57,2310
+2020-07-22,Western Region,GH-WP,GH,40,2350
+2020-07-23,Western Region,GH-WP,GH,11,2361
+2020-07-24,Western Region,GH-WP,GH,106,2467
+2020-07-25,Western Region,GH-WP,GH,72,2539
+2020-07-26,Western Region,GH-WP,GH,5,2544
+2020-07-27,Western Region,GH-WP,GH,19,2563
+2020-07-28,Western Region,GH-WP,GH,7,2570
+2020-07-29,Western Region,GH-WP,GH,6,2576
+2020-07-30,Western Region,GH-WP,GH,7,2583
+2020-07-31,Western Region,GH-WP,GH,104,2687
+2020-08-01,Western Region,GH-WP,GH,10,2697
+2020-08-02,Western Region,GH-WP,GH,41,2738
+2020-08-03,Western Region,GH-WP,GH,28,2766
+2020-08-04,Western Region,GH-WP,GH,30,2796
+2020-08-09,Western Region,GH-WP,GH,5,2801
+2020-08-10,Western Region,GH-WP,GH,3,2804
+2020-08-11,Western Region,GH-WP,GH,14,2818
+2020-08-12,Western Region,GH-WP,GH,11,2829
+2020-08-13,Western Region,GH-WP,GH,31,2860
+2020-08-14,Western Region,GH-WP,GH,3,2863
+2020-08-15,Western Region,GH-WP,GH,36,2899
+2020-08-18,Western Region,GH-WP,GH,25,2924
+2020-08-20,Western Region,GH-WP,GH,7,2931
+2020-08-21,Western Region,GH-WP,GH,2,2933
+2020-08-24,Western Region,GH-WP,GH,14,2947
+2020-08-26,Western Region,GH-WP,GH,1,2948
+2020-08-27,Western Region,GH-WP,GH,1,2949
+2020-08-28,Western Region,GH-WP,GH,4,2953
+2020-09-01,Western Region,GH-WP,GH,4,2957
+2020-09-02,Western Region,GH-WP,GH,2,2959
+2020-09-05,Western Region,GH-WP,GH,1,2960
+2020-09-06,Western Region,GH-WP,GH,3,2963
+2020-09-20,Western Region,GH-WP,GH,3,2966
+2020-09-25,Western Region,GH-WP,GH,2,2968
+2020-10-03,Western Region,GH-WP,GH,1,2969
+2020-10-05,Western Region,GH-WP,GH,2,2971
+2020-10-18,Western Region,GH-WP,GH,2,2973
+2020-10-20,Western Region,GH-WP,GH,1,2974
+2020-10-26,Western Region,GH-WP,GH,3,2977
+2020-10-29,Western Region,GH-WP,GH,1,2978
+2020-10-30,Western Region,GH-WP,GH,2,2980
+2020-11-01,Western Region,GH-WP,GH,3,2983
+2020-11-02,Western Region,GH-WP,GH,13,2996
+2020-11-04,Western Region,GH-WP,GH,3,2999
+2020-11-13,Western Region,GH-WP,GH,11,3010
+2020-11-16,Western Region,GH-WP,GH,1,3011
+2020-11-17,Western Region,GH-WP,GH,11,3022
+2020-11-18,Western Region,GH-WP,GH,3,3025
+2020-11-24,Western Region,GH-WP,GH,23,3048
+2020-11-27,Western Region,GH-WP,GH,3,3051
+2020-11-28,Western Region,GH-WP,GH,4,3055
+2020-11-30,Western Region,GH-WP,GH,7,3062
+2020-12-08,Western Region,GH-WP,GH,8,3070
+2020-12-10,Western Region,GH-WP,GH,3,3073
+2020-12-14,Western Region,GH-WP,GH,7,3080
+2020-12-21,Western Region,GH-WP,GH,8,3088
+2020-12-26,Western Region,GH-WP,GH,7,3095
+2020-12-29,Western Region,GH-WP,GH,1,3096
+2021-01-10,Western Region,GH-WP,GH,48,3144
+2021-01-13,Western Region,GH-WP,GH,20,3164
+2021-01-17,Western Region,GH-WP,GH,40,3204
+2021-01-18,Western Region,GH-WP,GH,18,3222
+2021-01-19,Western Region,GH-WP,GH,15,3237
+2021-01-20,Western Region,GH-WP,GH,19,3256
+2021-01-21,Western Region,GH-WP,GH,5,3261
+2021-01-24,Western Region,GH-WP,GH,9,3270
+2021-01-25,Western Region,GH-WP,GH,97,3367
+2021-01-26,Western Region,GH-WP,GH,13,3380
+2021-01-27,Western Region,GH-WP,GH,12,3392
+2021-01-29,Western Region,GH-WP,GH,106,3498
+2021-01-31,Western Region,GH-WP,GH,40,3538
+2021-02-02,Western Region,GH-WP,GH,25,3563
+2021-02-03,Western Region,GH-WP,GH,59,3622
+2021-02-04,Western Region,GH-WP,GH,108,3730
+2021-02-05,Western Region,GH-WP,GH,66,3796
+2021-02-06,Western Region,GH-WP,GH,48,3844
+2021-02-07,Western Region,GH-WP,GH,34,3878
+2021-02-08,Western Region,GH-WP,GH,165,4043
+2021-02-09,Western Region,GH-WP,GH,35,4078
+2021-02-10,Western Region,GH-WP,GH,86,4164
+2021-02-11,Western Region,GH-WP,GH,59,4223
+2021-02-12,Western Region,GH-WP,GH,219,4442
+2021-02-16,Western Region,GH-WP,GH,117,4559
+2021-02-17,Western Region,GH-WP,GH,16,4575
+2021-02-18,Western Region,GH-WP,GH,20,4595
+2021-02-19,Western Region,GH-WP,GH,86,4681
+2021-02-20,Western Region,GH-WP,GH,61,4742
+2021-02-21,Western Region,GH-WP,GH,34,4776
+2021-02-22,Western Region,GH-WP,GH,139,4915
+2021-02-23,Western Region,GH-WP,GH,66,4981
+2021-02-24,Western Region,GH-WP,GH,60,5041
+2021-02-25,Western Region,GH-WP,GH,102,5143
+2021-02-26,Western Region,GH-WP,GH,43,5186
+2021-02-28,Western Region,GH-WP,GH,100,5286
+2021-03-01,Western Region,GH-WP,GH,192,5478
+2021-03-12,Western Region,GH-WP,GH,15,5493
+2021-03-13,Western Region,GH-WP,GH,2,5495
+2021-03-16,Western Region,GH-WP,GH,29,5524
+2021-03-17,Western Region,GH-WP,GH,21,5545
+2021-03-19,Western Region,GH-WP,GH,57,5602
+2021-03-20,Western Region,GH-WP,GH,13,5615
+2021-03-21,Western Region,GH-WP,GH,23,5638
+2021-03-22,Western Region,GH-WP,GH,16,5654
+2021-03-23,Western Region,GH-WP,GH,10,5664
+2021-03-24,Western Region,GH-WP,GH,22,5686
+2021-03-31,Western Region,GH-WP,GH,19,5705
+2021-04-03,Western Region,GH-WP,GH,1,5706
+2021-04-04,Western Region,GH-WP,GH,2,5708
+2021-04-05,Western Region,GH-WP,GH,7,5715
+2021-04-06,Western Region,GH-WP,GH,2,5717
+2021-04-07,Western Region,GH-WP,GH,19,5736
+2021-04-09,Western Region,GH-WP,GH,7,5743
+2021-04-13,Western Region,GH-WP,GH,1,5744
+2021-04-15,Western Region,GH-WP,GH,4,5748
+2021-04-18,Western Region,GH-WP,GH,1,5749
+2021-04-19,Western Region,GH-WP,GH,1,5750
+2021-04-20,Western Region,GH-WP,GH,41,5791
+2021-04-25,Western Region,GH-WP,GH,5,5796
+2021-04-27,Western Region,GH-WP,GH,5,5801
+2021-04-29,Western Region,GH-WP,GH,2,5803
+2021-05-01,Western Region,GH-WP,GH,1,5804
+2021-05-03,Western Region,GH-WP,GH,2,5806
+2021-05-04,Western Region,GH-WP,GH,30,5836
+2021-05-05,Western Region,GH-WP,GH,7,5843
+2021-05-06,Western Region,GH-WP,GH,10,5853
+2021-05-07,Western Region,GH-WP,GH,3,5856
+2021-05-16,Western Region,GH-WP,GH,12,5868
+2021-05-18,Western Region,GH-WP,GH,8,5876
+2021-05-23,Western Region,GH-WP,GH,7,5883
+2021-05-24,Western Region,GH-WP,GH,1,5884
+2021-05-25,Western Region,GH-WP,GH,1,5885
+2021-05-27,Western Region,GH-WP,GH,2,5887
+2021-05-31,Western Region,GH-WP,GH,4,5891
+2021-06-04,Western Region,GH-WP,GH,5,5896
+2021-06-11,Western Region,GH-WP,GH,2,5898
+2021-06-12,Western Region,GH-WP,GH,6,5904
+2021-06-13,Western Region,GH-WP,GH,20,5924
+2021-06-14,Western Region,GH-WP,GH,1,5925
+2021-06-22,Western Region,GH-WP,GH,1,5926
+2021-06-24,Western Region,GH-WP,GH,1,5927
+2021-06-25,Western Region,GH-WP,GH,7,5934
+2021-06-27,Western Region,GH-WP,GH,2,5936
+2021-06-30,Western Region,GH-WP,GH,17,5953
+2021-07-06,Western Region,GH-WP,GH,4,5957
+2021-07-11,Western Region,GH-WP,GH,2,5959
+2021-07-12,Western Region,GH-WP,GH,7,5966
+2021-07-16,Western Region,GH-WP,GH,1,5967
+2021-07-17,Western Region,GH-WP,GH,1,5968
+2021-07-18,Western Region,GH-WP,GH,16,5984
+2021-07-19,Western Region,GH-WP,GH,4,5988
+2021-07-20,Western Region,GH-WP,GH,2,5990
+2021-07-21,Western Region,GH-WP,GH,1,5991
+2021-07-24,Western Region,GH-WP,GH,6,5997
+2021-07-25,Western Region,GH-WP,GH,6,6003
+2021-07-26,Western Region,GH-WP,GH,23,6026
+2021-07-27,Western Region,GH-WP,GH,16,6042
+2021-08-02,Western Region,GH-WP,GH,30,6072
+2021-08-03,Western Region,GH-WP,GH,5,6077
+2021-08-04,Western Region,GH-WP,GH,2,6079
+2021-08-07,Western Region,GH-WP,GH,189,6268
+2021-08-08,Western Region,GH-WP,GH,3,6271
+2021-08-10,Western Region,GH-WP,GH,9,6280
+2021-08-11,Western Region,GH-WP,GH,4,6284
+2021-08-13,Western Region,GH-WP,GH,3,6287
+2021-08-14,Western Region,GH-WP,GH,6,6293
+2021-08-15,Western Region,GH-WP,GH,52,6345
+2021-08-17,Western Region,GH-WP,GH,70,6415
+2021-08-19,Western Region,GH-WP,GH,25,6440
+2021-08-21,Western Region,GH-WP,GH,56,6496
+2021-08-22,Western Region,GH-WP,GH,37,6533
+2021-08-23,Western Region,GH-WP,GH,36,6569
+2021-08-24,Western Region,GH-WP,GH,51,6620
+2021-08-25,Western Region,GH-WP,GH,75,6695
+2021-08-26,Western Region,GH-WP,GH,10,6705
+2021-08-27,Western Region,GH-WP,GH,15,6720
+2021-08-29,Western Region,GH-WP,GH,8,6728
+2021-08-30,Western Region,GH-WP,GH,17,6745
+2021-09-01,Western Region,GH-WP,GH,11,6756
+2021-09-06,Western Region,GH-WP,GH,62,6818
+2021-09-07,Western Region,GH-WP,GH,105,6923
+2021-09-08,Western Region,GH-WP,GH,24,6947
+2021-09-10,Western Region,GH-WP,GH,19,6966
+2021-09-12,Western Region,GH-WP,GH,63,7029
+2021-09-13,Western Region,GH-WP,GH,28,7057
+2021-09-17,Western Region,GH-WP,GH,42,7099
+2021-09-18,Western Region,GH-WP,GH,2,7101
+2021-09-19,Western Region,GH-WP,GH,17,7118
+2021-09-20,Western Region,GH-WP,GH,24,7142
+2021-09-21,Western Region,GH-WP,GH,13,7155
+2021-09-22,Western Region,GH-WP,GH,44,7199
+2021-09-23,Western Region,GH-WP,GH,39,7238
+2021-09-24,Western Region,GH-WP,GH,53,7291
+2021-09-30,Western Region,GH-WP,GH,23,7314
+2021-10-05,Western Region,GH-WP,GH,25,7339
+2021-10-06,Western Region,GH-WP,GH,42,7381
+2021-10-17,Western Region,GH-WP,GH,76,7457
+2021-10-18,Western Region,GH-WP,GH,9,7466
+2021-10-22,Western Region,GH-WP,GH,12,7478
+2021-10-25,Western Region,GH-WP,GH,17,7495
+2021-10-27,Western Region,GH-WP,GH,2,7497
+2021-10-28,Western Region,GH-WP,GH,10,7507
+2021-11-02,Western Region,GH-WP,GH,6,7513
+2021-11-03,Western Region,GH-WP,GH,7,7520
+2021-11-08,Western Region,GH-WP,GH,11,7531
+2021-11-11,Western Region,GH-WP,GH,1,7532
+2021-11-15,Western Region,GH-WP,GH,3,7535
+2021-12-06,Western Region,GH-WP,GH,14,7549
+2021-12-15,Western Region,GH-WP,GH,2,7551
+2021-12-26,Western Region,GH-WP,GH,24,7575
+2021-12-27,Western Region,GH-WP,GH,97,7672
+2021-12-28,Western Region,GH-WP,GH,50,7722
+2021-12-29,Western Region,GH-WP,GH,58,7780
+2021-12-30,Western Region,GH-WP,GH,20,7800
+2021-12-31,Western Region,GH-WP,GH,17,7817
+2022-01-01,Western Region,GH-WP,GH,33,7850
+2022-01-03,Western Region,GH-WP,GH,3,7853
+2022-01-04,Western Region,GH-WP,GH,26,7879
+2022-01-05,Western Region,GH-WP,GH,61,7940
+2022-01-08,Western Region,GH-WP,GH,37,7977
+2022-01-09,Western Region,GH-WP,GH,57,8034
+2022-01-10,Western Region,GH-WP,GH,85,8119
+2022-01-11,Western Region,GH-WP,GH,11,8130
+2022-01-12,Western Region,GH-WP,GH,10,8140
+2022-01-17,Western Region,GH-WP,GH,8,8148
+2022-01-18,Western Region,GH-WP,GH,24,8172
+2022-01-20,Western Region,GH-WP,GH,41,8213
+2022-01-23,Western Region,GH-WP,GH,34,8247
+2022-01-24,Western Region,GH-WP,GH,16,8263
+2022-01-25,Western Region,GH-WP,GH,1,8264
+2022-01-26,Western Region,GH-WP,GH,17,8281
+2022-01-27,Western Region,GH-WP,GH,2,8283
+2022-02-04,Western Region,GH-WP,GH,2,8285
+2022-02-15,Western Region,GH-WP,GH,3,8288
+2022-02-19,Western Region,GH-WP,GH,8,8296
+2022-02-28,Western Region,GH-WP,GH,3,8299
+2022-03-01,Western Region,GH-WP,GH,3,8302
+2022-03-08,Western Region,GH-WP,GH,21,8323
+2022-03-19,Western Region,GH-WP,GH,1,8324
+2022-04-04,Western Region,GH-WP,GH,3,8327
+2022-04-19,Western Region,GH-WP,GH,1,8328
+2022-06-06,Western Region,GH-WP,GH,11,8339
+2022-06-14,Western Region,GH-WP,GH,12,8351
+2022-06-27,Western Region,GH-WP,GH,4,8355
+2022-06-30,Western Region,GH-WP,GH,1,8356
+2022-07-03,Western Region,GH-WP,GH,4,8360
+2022-07-07,Western Region,GH-WP,GH,18,8378
+2022-07-12,Western Region,GH-WP,GH,154,8532
